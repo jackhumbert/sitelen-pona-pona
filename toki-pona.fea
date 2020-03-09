@@ -7,6 +7,7 @@
 @tp_ls = [@tp_upper @tp_lower tp_space];
 @tp_upper_under = [A_under E_under I_under J_under K_under L_under M_under N_under O_under P_under S_under T_under U_under W_under];
 @tp_lower_under = [a_under e_under i_under j_under k_under l_under m_under n_under o_under p_under s_under t_under u_under w_under];
+@tp_letters_under = [@tp_upper_under @tp_lower_under];
 
 languagesystem DFLT dflt;
 languagesystem latn dflt;
@@ -327,6 +328,7 @@ lookup tokiponaWordsSalt7 {
 lookup tokiponaLatinStartBrace {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters';
+  ignore sub @tp_letters_under @tp_letters';
   sub A' by tp_name_start A_under;
   sub E' by tp_name_start E_under;
   sub I' by tp_name_start I_under;
@@ -360,6 +362,7 @@ lookup tokiponaLatinStartBrace {
 lookup tokiponaLatinEndBrace {
   lookupflag 0;
   ignore sub @tp_letters' @tp_letters;
+  ignore sub @tp_letters' @tp_letters_under;
   sub A' by A_under tp_name_end;
   sub E' by E_under tp_name_end;
   sub I' by I_under tp_name_end;
