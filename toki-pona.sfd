@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1583773934
+ModificationTime: 1583774149
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -41,33 +41,9 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 4 0 1 "tokiponaWords" { "tokiponaWords subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "spaceShorten" { "spaceShorten contextual 0"  "spaceShorten contextual 1"  "spaceShorten contextual 2"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
-Lookup: 4 0 0 "tokiponaWordsSaltSpace" { "tokiponaWordsSaltSpace subtable"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "tokiponaWordsSalt" { "tokiponaWordsSalt subtable"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 260 0 0 "Combining" { "Above"  "Circle"  "Square"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-ChainSub2: glyph "spaceShorten contextual 2" 0 0 0 1
- String: 5 space
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Single Substitution lookup 2"
-EndFPST
-ChainSub2: coverage "spaceShorten contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 5 space
-  BCoverage: 41 colon semicolon qmark exclam period comma
- 0
-EndFPST
-ChainSub2: glyph "spaceShorten contextual 0" 0 0 0 1
- String: 5 space
- BString: 5 space
- FString: 0 
- 0
-EndFPST
 LangName: 1033
 Encoding: UnicodeFull
 Compacted: 1
@@ -180,9 +156,6 @@ SplineSet
  119.192907099 15 65 69.1928572984 65 136 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "tokiponaWordsSalt subtable" a
-Ligature2: "tokiponaWordsSaltSpace subtable" a tp_space
-Ligature2: "tokiponaWords subtable" perc a space
 EndChar
 
 StartChar: tp_akesi
@@ -221,9 +194,6 @@ SplineSet
  132.392099135 530 110 552.39097549 110 580 c 0
 EndSplineSet
 Refer: 36 60964 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" a k e s i
-Ligature2: "tokiponaWordsSaltSpace subtable" a k e s i tp_space
-Ligature2: "tokiponaWords subtable" perc a k e s i space
 LCarets2: 6 0 0 0 0 0 0
 EndChar
 
@@ -261,9 +231,6 @@ SplineSet
  108.985166233 72.9871700194 92.8969174626 72.4324028204 82.942043741 81.7236182939 c 0
 EndSplineSet
 LCarets2: 4 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" a l a
-Ligature2: "tokiponaWordsSaltSpace subtable" a l a tp_space
-Ligature2: "tokiponaWords subtable" perc a l a space
 EndChar
 
 StartChar: tp_alasa
@@ -308,9 +275,6 @@ SplineSet
  125 425 l 1
  125 275 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a l a s a
-Ligature2: "tokiponaWordsSaltSpace subtable" a l a s a tp_space
-Ligature2: "tokiponaWords subtable" perc a l a s a space
 LCarets2: 6 0 0 0 0 0 0
 EndChar
 
@@ -362,9 +326,6 @@ SplineSet
  274.917407508 242.544296585 274.998096156 249.851438966 274.999982999 250.051642982 c 0
  275.001322166 250.41644652 275.015821405 250.709764193 275.015821405 251.328997659 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a l e
-Ligature2: "tokiponaWordsSaltSpace subtable" a l e tp_space
-Ligature2: "tokiponaWords subtable" perc a l e space
 EndChar
 
 StartChar: tp_anpa
@@ -406,9 +367,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a n p a
-Ligature2: "tokiponaWordsSaltSpace subtable" a n p a tp_space
-Ligature2: "tokiponaWords subtable" perc a n p a space
 EndChar
 
 StartChar: tp_ante
@@ -451,9 +409,6 @@ SplineSet
  75 592 l 2
  75 605.617128764 86.3828712355 617 100 617 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a n t e
-Ligature2: "tokiponaWordsSaltSpace subtable" a n t e tp_space
-Ligature2: "tokiponaWords subtable" perc a n t e space
 EndChar
 
 StartChar: tp_anu
@@ -489,9 +444,6 @@ SplineSet
  62.322265625 432.322265625 l 2
  52.693359375 441.951171875 52.693359375 458.048828125 62.322265625 467.677734375 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a n u
-Ligature2: "tokiponaWordsSaltSpace subtable" a n u tp_space
-Ligature2: "tokiponaWords subtable" perc a n u space
 EndChar
 
 StartChar: tp_awen
@@ -528,9 +480,6 @@ SplineSet
  80 25 l 2
  66.3828712355 25 55 36.3828712355 55 50 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" a w e n
-Ligature2: "tokiponaWordsSaltSpace subtable" a w e n tp_space
-Ligature2: "tokiponaWords subtable" perc a w e n space
 EndChar
 
 StartChar: tp_e
@@ -571,9 +520,6 @@ SplineSet
  283.995390008 380.79446801 l 2
  273.534421924 389.511941413 272.076994607 405.543641908 280.79446801 416.004609992 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" e
-Ligature2: "tokiponaWordsSaltSpace subtable" e tp_space
-Ligature2: "tokiponaWords subtable" perc e space
 LCarets2: 2 0 0
 EndChar
 
@@ -610,9 +556,6 @@ SplineSet
  205 400 l 2
  205 413.617128764 216.382871236 425 230 425 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" e n
-Ligature2: "tokiponaWordsSaltSpace subtable" e n tp_space
-Ligature2: "tokiponaWords subtable" perc e n space
 EndChar
 
 StartChar: tp_esun
@@ -671,9 +614,6 @@ SplineSet
  495 399.97379365 471.546350226 425 418 425 c 0
  362.987466448 425 344.397480991 388.172207299 332.422823047 318.420871759 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" e s u n
-Ligature2: "tokiponaWordsSaltSpace subtable" e s u n tp_space
-Ligature2: "tokiponaWords subtable" perc e s u n space
 EndChar
 
 StartChar: tp_ijo
@@ -705,9 +645,6 @@ SplineSet
  505 118.404964796 417.073472991 5 280 5 c 0
  142.927093033 5 55 118.405028273 55 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" i j o
-Ligature2: "tokiponaWordsSaltSpace subtable" i j o tp_space
-Ligature2: "tokiponaWords subtable" perc i j o space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -743,9 +680,6 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0xb8
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" i k e
-Ligature2: "tokiponaWordsSaltSpace subtable" i k e tp_space
-Ligature2: "tokiponaWords subtable" perc i k e space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -793,9 +727,6 @@ SplineSet
  325 425 l 1
  325 75 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" i l o
-Ligature2: "tokiponaWordsSaltSpace subtable" i l o tp_space
-Ligature2: "tokiponaWords subtable" perc i l o space
 EndChar
 
 StartChar: tp_insa
@@ -837,9 +768,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" i n s a
-Ligature2: "tokiponaWordsSaltSpace subtable" i n s a tp_space
-Ligature2: "tokiponaWords subtable" perc i n s a space
 EndChar
 
 StartChar: tp_jaki
@@ -894,9 +822,6 @@ SplineSet
  392.618197752 540.5 352.200195312 527.872943454 352.200195312 427.5 c 0
  352.200195312 410.123268701 360.51772673 386.678695361 375.359168506 361.635658608 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" j a k i
-Ligature2: "tokiponaWordsSaltSpace subtable" j a k i tp_space
-Ligature2: "tokiponaWords subtable" perc j a k i space
 EndChar
 
 StartChar: tp_jan
@@ -938,9 +863,6 @@ SplineSet
  455 360.405273438 384.926757812 445 280 445 c 0
  175.073242188 445 105 360.405273438 105 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" j a n
-Ligature2: "tokiponaWordsSaltSpace subtable" j a n tp_space
-Ligature2: "tokiponaWords subtable" perc j a n space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -1004,9 +926,6 @@ SplineSet
  455.237754271 75 l 1
  300 327.012727724 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" j e l o
-Ligature2: "tokiponaWordsSaltSpace subtable" j e l o tp_space
-Ligature2: "tokiponaWords subtable" perc j e l o space
 EndChar
 
 StartChar: tp_jo
@@ -1055,9 +974,6 @@ SplineSet
  224.200195312 475.551988137 234.707135261 454.631767877 251.367459208 440.793097788 c 1
  259.205530273 440.013467541 265.876428632 435.783812183 269.872166419 429.495578341 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" j o
-Ligature2: "tokiponaWordsSaltSpace subtable" j o tp_space
-Ligature2: "tokiponaWords subtable" perc j o space
 EndChar
 
 StartChar: tp_kala
@@ -1099,9 +1015,6 @@ SplineSet
  286.763028759 375 231.2042525 324.284937126 189.756904427 252.881486084 c 0
  189.43708868 252.330523256 188.975418684 251.530187369 188.586164956 250.853169087 c 2
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k a l a
-Ligature2: "tokiponaWordsSaltSpace subtable" k a l a tp_space
-Ligature2: "tokiponaWords subtable" perc k a l a space
 EndChar
 
 StartChar: tp_kalama
@@ -1149,9 +1062,6 @@ SplineSet
 EndSplineSet
 Refer: 112 61040 N 1 0 0 1 0 0 2
 LCarets2: 7 0 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" k a l a m a
-Ligature2: "tokiponaWordsSaltSpace subtable" k a l a m a tp_space
-Ligature2: "tokiponaWords subtable" perc k a l a m a space
 EndChar
 
 StartChar: tp_kama
@@ -1187,9 +1097,6 @@ SplineSet
  95.827345388 26.3373430537 80.4623072128 21.5357686239 68.3998251332 27.854211618 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" k a m a
-Ligature2: "tokiponaWordsSaltSpace subtable" k a m a tp_space
-Ligature2: "tokiponaWords subtable" perc k a m a space
 EndChar
 
 StartChar: tp_kasi
@@ -1229,9 +1136,6 @@ SplineSet
  200.518338103 471.965465541 266.756312846 424.420957322 300 356.094447058 c 1
  333.243687154 424.420957322 399.481661897 471.965465541 499.242771834 474.988529479 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k a s i
-Ligature2: "tokiponaWordsSaltSpace subtable" k a s i tp_space
-Ligature2: "tokiponaWords subtable" perc k a s i space
 EndChar
 
 StartChar: tp_ken
@@ -1267,9 +1171,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k e n
-Ligature2: "tokiponaWordsSaltSpace subtable" k e n tp_space
-Ligature2: "tokiponaWords subtable" perc k e n space
 EndChar
 
 StartChar: tp_kepeken
@@ -1337,9 +1238,6 @@ SplineSet
  325 575 l 1
  325 475 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k e p e k e n
-Ligature2: "tokiponaWordsSaltSpace subtable" k e p e k e n tp_space
-Ligature2: "tokiponaWords subtable" perc k e p e k e n space
 LCarets2: 8 0 0 0 0 0 0 0 0
 EndChar
 
@@ -1389,9 +1287,6 @@ SplineSet
  511.614352252 485 545 361.022319886 545 280 c 0
  545 140.283880636 470.569872484 5 300 5 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k i l i
-Ligature2: "tokiponaWordsSaltSpace subtable" k i l i tp_space
-Ligature2: "tokiponaWords subtable" perc k i l i space
 EndChar
 
 StartChar: tp_kiwen
@@ -1429,9 +1324,6 @@ SplineSet
  320.088929834 35.1193112344 l 2
  309.984732722 21.4786451335 289.313670268 22.4258010977 279.911070166 35.1193112344 c 2
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k i w e n
-Ligature2: "tokiponaWordsSaltSpace subtable" k i w e n tp_space
-Ligature2: "tokiponaWords subtable" perc k i w e n space
 EndChar
 
 StartChar: tp_ko
@@ -1483,9 +1375,6 @@ SplineSet
  221 319.576390224 236.504502873 284.88794519 236.504502873 284.88794519 c 2
  244.222030512 268.936439197 232.228671938 252.391483943 218.949639915 249.491725599 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k o
-Ligature2: "tokiponaWordsSaltSpace subtable" k o tp_space
-Ligature2: "tokiponaWords subtable" perc k o space
 EndChar
 
 StartChar: tp_kon
@@ -1498,9 +1387,6 @@ Back
 Refer: 106 61034 S 0 1 1 0 50 -50 2
 Fore
 Refer: 106 61034 N 0 1 1 0 50 -50 2
-Ligature2: "tokiponaWordsSalt subtable" k o n
-Ligature2: "tokiponaWordsSaltSpace subtable" k o n tp_space
-Ligature2: "tokiponaWords subtable" perc k o n space
 EndChar
 
 StartChar: tp_kule
@@ -1552,9 +1438,6 @@ SplineSet
  300 394.098300563 l 1
  220.450849719 235 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k u l e
-Ligature2: "tokiponaWordsSaltSpace subtable" k u l e tp_space
-Ligature2: "tokiponaWords subtable" perc k u l e space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -1615,9 +1498,6 @@ SplineSet
  405 312.155852269 357.844319173 265 300 265 c 0
  242.155852269 265 195 312.155680827 195 370 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" k u l u p u
-Ligature2: "tokiponaWordsSaltSpace subtable" k u l u p u tp_space
-Ligature2: "tokiponaWords subtable" perc k u l u p u space
 EndChar
 
 StartChar: tp_kute
@@ -1661,9 +1541,6 @@ SplineSet
  222.392099135 200 200 222.39097549 200 250 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" k u t e
-Ligature2: "tokiponaWordsSaltSpace subtable" k u t e tp_space
-Ligature2: "tokiponaWords subtable" perc k u t e space
 EndChar
 
 StartChar: tp_la
@@ -1698,9 +1575,6 @@ SplineSet
  164.952979566 375 150.212861759 365.6075227 112.30266953 327.69733047 c 0
  102.67390544 318.068566381 86.57609456 318.068566381 76.9473304703 327.69733047 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l a
-Ligature2: "tokiponaWordsSaltSpace subtable" l a tp_space
-Ligature2: "tokiponaWords subtable" perc l a space
 LCarets2: 3 0 0 0
 EndChar
 
@@ -1737,9 +1611,6 @@ SplineSet
  495 289.192857298 463.192907099 321 424 321 c 0
  384.807142702 321 353 289.192907099 353 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l a p e
-Ligature2: "tokiponaWordsSaltSpace subtable" l a p e tp_space
-Ligature2: "tokiponaWords subtable" perc l a p e space
 EndChar
 
 StartChar: tp_laso
@@ -1789,9 +1660,6 @@ SplineSet
  455.237754271 75 l 1
  300 327.012727724 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l a s o
-Ligature2: "tokiponaWordsSaltSpace subtable" l a s o tp_space
-Ligature2: "tokiponaWords subtable" perc l a s o space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -1826,9 +1694,6 @@ SplineSet
  115.989837929 127.077380872 183.146770489 55 280 55 c 0
  376.853229511 55 444.010162071 127.077380872 453.771450171 225 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l a w a
-Ligature2: "tokiponaWordsSaltSpace subtable" l a w a tp_space
-Ligature2: "tokiponaWords subtable" perc l a w a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -1881,9 +1746,6 @@ SplineSet
  75 50 l 1
  75 450 l 2
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l e n
-Ligature2: "tokiponaWordsSaltSpace subtable" l e n tp_space
-Ligature2: "tokiponaWords subtable" perc l e n space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -1930,9 +1792,6 @@ SplineSet
  198.708542082 366.897564358 l 2
  191.571839952 378.49470532 195.300423396 394.154755787 206.897564358 401.291457918 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l e t e
-Ligature2: "tokiponaWordsSaltSpace subtable" l e t e tp_space
-Ligature2: "tokiponaWords subtable" perc l e t e space
 EndChar
 
 StartChar: tp_li
@@ -1960,9 +1819,6 @@ SplineSet
  83.9953900084 380.79446801 l 2
  73.5344219245 389.511941413 72.0769946068 405.543641908 80.7944680101 416.004609992 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l i
-Ligature2: "tokiponaWordsSaltSpace subtable" l i tp_space
-Ligature2: "tokiponaWords subtable" perc l i space
 LCarets2: 3 0 0 0
 EndChar
 
@@ -2000,9 +1856,6 @@ SplineSet
  77.639320225 438.819660113 l 2
  71.5495551099 450.999190343 76.6401298822 466.27091466 88.8196601125 472.360679775 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l i l i
-Ligature2: "tokiponaWordsSaltSpace subtable" l i l i tp_space
-Ligature2: "tokiponaWords subtable" perc l i l i space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -2036,9 +1889,6 @@ SplineSet
  131.599371032 300 125.029600605 185.096074792 124.999973515 174.963609937 c 0
  124.980152388 161.346495598 113.580724275 149.980205358 99.9636099367 150.000026485 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l i n j a
-Ligature2: "tokiponaWordsSaltSpace subtable" l i n j a tp_space
-Ligature2: "tokiponaWords subtable" perc l i n j a space
 EndChar
 
 StartChar: tp_lipu
@@ -2076,9 +1926,6 @@ SplineSet
  125 425 l 1
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" l i p u
-Ligature2: "tokiponaWordsSaltSpace subtable" l i p u tp_space
-Ligature2: "tokiponaWords subtable" perc l i p u space
 EndChar
 
 StartChar: tp_loje
@@ -2125,9 +1972,6 @@ SplineSet
  400.323919872 375 451.288983801 506.940407628 468.83697743 575 c 1
  131.16302257 575 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l o j e
-Ligature2: "tokiponaWordsSaltSpace subtable" l o j e tp_space
-Ligature2: "tokiponaWords subtable" perc l o j e space
 EndChar
 
 StartChar: tp_lon
@@ -2163,9 +2007,6 @@ SplineSet
  100 125 l 2
  86.3828125 125 75 136.3828125 75 150 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l o n
-Ligature2: "tokiponaWordsSaltSpace subtable" l o n tp_space
-Ligature2: "tokiponaWords subtable" perc l o n space
 EndChar
 
 StartChar: tp_luka
@@ -2205,9 +2046,6 @@ SplineSet
  43.099232566 131.578163497 l 2
  33.0651317765 140.783760552 32.3725664423 156.866666644 41.578163497 166.900767434 c 0xb8
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" l u k a
-Ligature2: "tokiponaWordsSaltSpace subtable" l u k a tp_space
-Ligature2: "tokiponaWords subtable" perc l u k a space
 EndChar
 
 StartChar: tp_lukin
@@ -2237,9 +2075,6 @@ SplineSet
  252.391601562 200 230 222.390625 230 250 c 0
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" l u k i n
-Ligature2: "tokiponaWordsSaltSpace subtable" l u k i n tp_space
-Ligature2: "tokiponaWords subtable" perc l u k i n space
 LCarets2: 6 0 0 0 0 0 0
 EndChar
 
@@ -2253,9 +2088,6 @@ Back
 Refer: 64 60992 S 1 0 0 -1 0 500 2
 Fore
 Refer: 64 60992 N 1 0 0 -1 0 500 2
-Ligature2: "tokiponaWordsSalt subtable" l u p a
-Ligature2: "tokiponaWordsSaltSpace subtable" l u p a tp_space
-Ligature2: "tokiponaWords subtable" perc l u p a space
 EndChar
 
 StartChar: tp_ma
@@ -2293,9 +2125,6 @@ SplineSet
  255 463.617128764 266.382871236 475 280 475 c 0x6b80
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" m a
-Ligature2: "tokiponaWordsSaltSpace subtable" m a tp_space
-Ligature2: "tokiponaWords subtable" perc m a space
 LCarets2: 3 0 0 0
 EndChar
 
@@ -2330,9 +2159,6 @@ SplineSet
  229.254882812 -146 174 -101.119140625 174 -46 c 4
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" m a m a
-Ligature2: "tokiponaWordsSaltSpace subtable" m a m a tp_space
-Ligature2: "tokiponaWords subtable" perc m a m a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -2376,9 +2202,6 @@ SplineSet
  455 360.405273438 384.926757812 445 280 445 c 0
  175.073242188 445 105 360.405273438 105 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m a n i
-Ligature2: "tokiponaWordsSaltSpace subtable" m a n i tp_space
-Ligature2: "tokiponaWords subtable" perc m a n i space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -2428,9 +2251,6 @@ SplineSet
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" m e l i
-Ligature2: "tokiponaWordsSaltSpace subtable" m e l i tp_space
-Ligature2: "tokiponaWords subtable" perc m e l i space
 EndChar
 
 StartChar: tp_mi
@@ -2469,9 +2289,6 @@ SplineSet
  455 362.73120509 392.202579933 445 287 445 c 0
  190.091011671 445 125 356.201214654 125 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m i
-Ligature2: "tokiponaWordsSaltSpace subtable" m i tp_space
-Ligature2: "tokiponaWords subtable" perc m i space
 LCarets2: 3 0 0 0
 EndChar
 
@@ -2534,9 +2351,6 @@ SplineSet
  233.193359375 133 179 187.192382812 179 254 c 0
 300 133 m 1024
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m i j e
-Ligature2: "tokiponaWordsSaltSpace subtable" m i j e tp_space
-Ligature2: "tokiponaWords subtable" perc m i j e space
 EndChar
 
 StartChar: tp_moku
@@ -2593,9 +2407,6 @@ SplineSet
  157.54599085 367.089096541 103 434.54035162 103 517 c 0
  103 550.42954433 104.004767232 601.40960959 104.004767232 601.488199628 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m o k u
-Ligature2: "tokiponaWordsSaltSpace subtable" m o k u tp_space
-Ligature2: "tokiponaWords subtable" perc m o k u space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -2648,9 +2459,6 @@ SplineSet
  134.464645522 140.400525003 135.768039966 142.123379025 137.32233047 143.67766953 c 2
  240.644660941 247 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m o l i
-Ligature2: "tokiponaWordsSaltSpace subtable" m o l i tp_space
-Ligature2: "tokiponaWords subtable" perc m o l i space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -2692,9 +2500,6 @@ SplineSet
  400 475 l 2
  413.617128764 475 425 463.617128764 425 450 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m o n s i
-Ligature2: "tokiponaWordsSaltSpace subtable" m o n s i tp_space
-Ligature2: "tokiponaWords subtable" perc m o n s i space
 EndChar
 
 StartChar: tp_mu
@@ -2752,9 +2557,6 @@ SplineSet
  227 478.202148438 204.203125 501 176 501 c 0
  147.797851562 501 125 478.203125 125 450 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m u
-Ligature2: "tokiponaWordsSaltSpace subtable" m u tp_space
-Ligature2: "tokiponaWords subtable" perc m u space
 EndChar
 
 StartChar: tp_mun
@@ -2794,9 +2596,6 @@ SplineSet
  138.212958024 371.005052752 131.018860396 384.814947804 134.660651379 397.936051376 c 0
  135.822837874 402.123323367 139.044337197 406.899676256 141.07233047 408.92766953 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m u n
-Ligature2: "tokiponaWordsSaltSpace subtable" m u n tp_space
-Ligature2: "tokiponaWords subtable" perc m u n space
 EndChar
 
 StartChar: tp_musi
@@ -2865,9 +2664,6 @@ SplineSet
  277 394.202656844 231.797644726 349 176 349 c 0
  120.202656844 349 75 394.202355274 75 450 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" m u s i
-Ligature2: "tokiponaWordsSaltSpace subtable" m u s i tp_space
-Ligature2: "tokiponaWords subtable" perc m u s i space
 EndChar
 
 StartChar: tp_mute
@@ -2913,9 +2709,6 @@ SplineSet
  75 463.6171875 86.3828125 475 100 475 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" m u t e
-Ligature2: "tokiponaWordsSaltSpace subtable" m u t e tp_space
-Ligature2: "tokiponaWords subtable" perc m u t e space
 EndChar
 
 StartChar: tp_nanpa
@@ -2980,9 +2773,6 @@ SplineSet
  375 175 l 1
  375 325 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n a n p a
-Ligature2: "tokiponaWordsSaltSpace subtable" n a n p a tp_space
-Ligature2: "tokiponaWords subtable" perc n a n p a space
 EndChar
 
 StartChar: tp_nasa
@@ -3029,9 +2819,6 @@ SplineSet
  376.425812781 495 438.265002754 474.905448468 442.501175739 473.523336564 c 0
  453.814841777 469.028021523 462.168495394 455.736248401 457.767003532 442.245675846 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n a s a
-Ligature2: "tokiponaWordsSaltSpace subtable" n a s a tp_space
-Ligature2: "tokiponaWords subtable" perc n a s a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -3069,9 +2856,6 @@ SplineSet
  225 450 l 2
  225 463.617128764 236.382871236 475 250 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n a s i n
-Ligature2: "tokiponaWordsSaltSpace subtable" n a s i n tp_space
-Ligature2: "tokiponaWords subtable" perc n a s i n space
 EndChar
 
 StartChar: tp_nena
@@ -3114,9 +2898,6 @@ SplineSet
  80 25 l 2
  66.3828712355 25 55 36.3828712355 55 50 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n e n a
-Ligature2: "tokiponaWordsSaltSpace subtable" n e n a tp_space
-Ligature2: "tokiponaWords subtable" perc n e n a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -3155,9 +2936,6 @@ SplineSet
  52.693359375 171.951171875 52.693359375 188.048828125 62.322265625 197.677734375 c 0
 EndSplineSet
 LCarets2: 3 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" n i
-Ligature2: "tokiponaWordsSaltSpace subtable" n i tp_space
-Ligature2: "tokiponaWords subtable" perc n i space
 EndChar
 
 StartChar: tp_nimi
@@ -3205,9 +2983,6 @@ SplineSet
  160.355339059 75 l 1
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" n i m i
-Ligature2: "tokiponaWordsSaltSpace subtable" n i m i tp_space
-Ligature2: "tokiponaWords subtable" perc n i m i space
 EndChar
 
 StartChar: tp_noka
@@ -3244,9 +3019,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n o k a
-Ligature2: "tokiponaWordsSaltSpace subtable" n o k a tp_space
-Ligature2: "tokiponaWords subtable" perc n o k a space
 EndChar
 
 StartChar: tp_o
@@ -3285,9 +3057,6 @@ SplineSet
  159.937799785 463.502307808 171.268336807 474.937273743 184.885322307 474.999736979 c 0
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "tokiponaWordsSalt subtable" o
-Ligature2: "tokiponaWordsSaltSpace subtable" o tp_space
-Ligature2: "tokiponaWords subtable" perc o space
 EndChar
 
 StartChar: tp_olin
@@ -3355,9 +3124,6 @@ SplineSet
  149.142553136 575 125 528.992687941 125 480 c 0
  125 469.581044952 125.863173492 460.584535132 127.478655731 452.513708168 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" o l i n
-Ligature2: "tokiponaWordsSaltSpace subtable" o l i n tp_space
-Ligature2: "tokiponaWords subtable" perc o l i n space
 EndChar
 
 StartChar: tp_ona
@@ -3395,9 +3161,6 @@ SplineSet
  278.588446972 445 215 365.078234846 215 260 c 0
  215 154.742670669 281.898389235 75 382 75 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" o n a
-Ligature2: "tokiponaWordsSaltSpace subtable" o n a tp_space
-Ligature2: "tokiponaWords subtable" perc o n a space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -3440,9 +3203,6 @@ SplineSet
  475 225 l 1
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" o p e n
-Ligature2: "tokiponaWordsSaltSpace subtable" o p e n tp_space
-Ligature2: "tokiponaWords subtable" perc o p e n space
 EndChar
 
 StartChar: tp_pakala
@@ -3497,9 +3257,6 @@ SplineSet
  338.664640249 75 l 1
 EndSplineSet
 LCarets2: 7 0 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" p a k a l a
-Ligature2: "tokiponaWordsSaltSpace subtable" p a k a l a tp_space
-Ligature2: "tokiponaWords subtable" perc p a k a l a space
 EndChar
 
 StartChar: tp_pali
@@ -3552,9 +3309,6 @@ SplineSet
  479 355.190506815 398.811516514 275 300 275 c 0
  201.190506815 275 121 355.188483486 121 454 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p a l i
-Ligature2: "tokiponaWordsSaltSpace subtable" p a l i tp_space
-Ligature2: "tokiponaWords subtable" perc p a l i space
 EndChar
 
 StartChar: tp_palisa
@@ -3567,9 +3321,6 @@ Back
 Refer: 112 61040 S 1 0 0 -1 0 500 2
 Fore
 Refer: 112 61040 N 1 0 0 -1 0 500 2
-Ligature2: "tokiponaWordsSalt subtable" p a l i s a
-Ligature2: "tokiponaWordsSaltSpace subtable" p a l i s a tp_space
-Ligature2: "tokiponaWords subtable" perc p a l i s a space
 EndChar
 
 StartChar: tp_pan
@@ -3610,9 +3361,6 @@ SplineSet
  117.677734375 267.677734375 l 2
  108.048828125 277.306640625 91.951171875 277.306640625 82.322265625 267.677734375 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p a n
-Ligature2: "tokiponaWordsSaltSpace subtable" p a n tp_space
-Ligature2: "tokiponaWords subtable" perc p a n space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -3659,9 +3407,6 @@ SplineSet
  94.3200596474 633.348150794 95.137536308 649.425191785 105.242843551 658.552566069 c 0
 EndSplineSet
 Refer: 45 60973 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" p a n a
-Ligature2: "tokiponaWordsSaltSpace subtable" p a n a tp_space
-Ligature2: "tokiponaWords subtable" perc p a n a space
 EndChar
 
 StartChar: tp_pi
@@ -3691,9 +3436,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0xd0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p i
-Ligature2: "tokiponaWordsSaltSpace subtable" p i tp_space
-Ligature2: "tokiponaWords subtable" perc p i space
 EndChar
 
 StartChar: tp_pilin
@@ -3735,9 +3477,6 @@ SplineSet
  314.45094126 25.0464671023 297.666233341 21.2587049606 285.827920588 29.4050451532 c 0
  283.258704087 31.1730092276 280.603416781 34.051991649 279.282867975 36.0071289338 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p i l i n
-Ligature2: "tokiponaWordsSaltSpace subtable" p i l i n tp_space
-Ligature2: "tokiponaWords subtable" perc p i l i n space
 EndChar
 
 StartChar: tp_pimeja
@@ -3792,9 +3531,6 @@ SplineSet
  56.959410105 32.6610344987 51.1862437064 48.8704179447 57.854211618 61.6001748668 c 2
  277.854211618 481.600174867 l 2
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p i m e j a
-Ligature2: "tokiponaWordsSaltSpace subtable" p i m e j a tp_space
-Ligature2: "tokiponaWords subtable" perc p i m e j a space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
@@ -3835,9 +3571,6 @@ SplineSet
  100 425 l 2
  86.3828712355 425 75 436.382871236 75 450 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p i n i
-Ligature2: "tokiponaWordsSaltSpace subtable" p i n i tp_space
-Ligature2: "tokiponaWords subtable" perc p i n i space
 EndChar
 
 StartChar: tp_pipi
@@ -3876,9 +3609,6 @@ SplineSet
  106.392578125 471 84 493.390625 84 521 c 0
 EndSplineSet
 Refer: 10 60938 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" p i p i
-Ligature2: "tokiponaWordsSaltSpace subtable" p i p i tp_space
-Ligature2: "tokiponaWords subtable" perc p i p i space
 EndChar
 
 StartChar: tp_poka
@@ -3918,9 +3648,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p o k a
-Ligature2: "tokiponaWordsSaltSpace subtable" p o k a tp_space
-Ligature2: "tokiponaWords subtable" perc p o k a space
 EndChar
 
 StartChar: tp_poki
@@ -3953,9 +3680,6 @@ SplineSet
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" p o k i
-Ligature2: "tokiponaWordsSaltSpace subtable" p o k i tp_space
-Ligature2: "tokiponaWords subtable" perc p o k i space
 EndChar
 
 StartChar: tp_pona
@@ -3970,9 +3694,6 @@ Back
 Refer: 13 60941 S 1 0 0 -1 0 500 2
 Fore
 Refer: 13 60941 N 1 0 0 -1 0 500 2
-Ligature2: "tokiponaWordsSalt subtable" p o n a
-Ligature2: "tokiponaWordsSaltSpace subtable" p o n a tp_space
-Ligature2: "tokiponaWords subtable" perc p o n a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -4086,9 +3807,6 @@ SplineSet
  695 675 l 1
  125 675 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" p u
-Ligature2: "tokiponaWordsSaltSpace subtable" p u tp_space
-Ligature2: "tokiponaWords subtable" perc p u space
 EndChar
 
 StartChar: tp_sama
@@ -4101,9 +3819,6 @@ Back
 Refer: 110 61038 S 0 1 1 0 50 80 2
 Fore
 Refer: 110 61038 N 0 1 1 0 50 80 2
-Ligature2: "tokiponaWordsSalt subtable" s a m a
-Ligature2: "tokiponaWordsSaltSpace subtable" s a m a tp_space
-Ligature2: "tokiponaWords subtable" perc s a m a space
 EndChar
 
 StartChar: tp_seli
@@ -4157,9 +3872,6 @@ SplineSet
  350 47.3920991349 327.60902451 25 300 25 c 0
  272.392099135 25 250 47.3909754902 250 75 c 0xc0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s e l i
-Ligature2: "tokiponaWordsSaltSpace subtable" s e l i tp_space
-Ligature2: "tokiponaWords subtable" perc s e l i space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -4209,9 +3921,6 @@ SplineSet
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s e l o
-Ligature2: "tokiponaWordsSaltSpace subtable" s e l o tp_space
-Ligature2: "tokiponaWords subtable" perc s e l o space
 EndChar
 
 StartChar: tp_seme
@@ -4262,9 +3971,6 @@ SplineSet
  298 185.192857298 266.192907099 217 227 217 c 0
  187.807142702 217 156 185.192907099 156 146 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s e m e
-Ligature2: "tokiponaWordsSaltSpace subtable" s e m e tp_space
-Ligature2: "tokiponaWords subtable" perc s e m e space
 EndChar
 
 StartChar: tp_sewi
@@ -4299,9 +4005,6 @@ SplineSet
  183.333363354 76.4671062271 155.854026389 25 100 25 c 0
  86.3828712355 25 75 36.3828712355 75 50 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s e w i
-Ligature2: "tokiponaWordsSaltSpace subtable" s e w i tp_space
-Ligature2: "tokiponaWords subtable" perc s e w i space
 EndChar
 
 StartChar: tp_sijelo
@@ -4342,9 +4045,6 @@ SplineSet
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
 LCarets2: 7 0 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s i j e l o
-Ligature2: "tokiponaWordsSaltSpace subtable" s i j e l o tp_space
-Ligature2: "tokiponaWords subtable" perc s i j e l o space
 EndChar
 
 StartChar: tp_sike
@@ -4378,9 +4078,6 @@ SplineSet
  214.109375 130 160 184.109375 160 250 c 0
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" s i k e
-Ligature2: "tokiponaWordsSaltSpace subtable" s i k e tp_space
-Ligature2: "tokiponaWords subtable" perc s i k e space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -4423,9 +4120,6 @@ SplineSet
  100 165 l 2
  86.3828712355 165 75 176.382871236 75 190 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s i n
-Ligature2: "tokiponaWordsSaltSpace subtable" s i n tp_space
-Ligature2: "tokiponaWords subtable" perc s i n space
 EndChar
 
 StartChar: tp_sina
@@ -4440,9 +4134,6 @@ Back
 Refer: 52 60980 S 1 0 0 -1 0 500 2
 Fore
 Refer: 52 60980 N 1 0 0 -1 0 500 2
-Ligature2: "tokiponaWordsSalt subtable" s i n a
-Ligature2: "tokiponaWordsSaltSpace subtable" s i n a tp_space
-Ligature2: "tokiponaWords subtable" perc s i n a space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -4487,9 +4178,6 @@ SplineSet
  66.3828125 425 55 436.3828125 55 450 c 0
 EndSplineSet
 LCarets2: 7 0 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s i n p i n
-Ligature2: "tokiponaWordsSaltSpace subtable" s i n p i n tp_space
-Ligature2: "tokiponaWords subtable" perc s i n p i n space
 EndChar
 
 StartChar: tp_sitelen
@@ -4534,9 +4222,6 @@ SplineSet
  125 425 l 1
 EndSplineSet
 LCarets2: 8 0 0 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s i t e l e n
-Ligature2: "tokiponaWordsSaltSpace subtable" s i t e l e n tp_space
-Ligature2: "tokiponaWords subtable" perc s i t e l e n space
 EndChar
 
 StartChar: tp_sona
@@ -4600,9 +4285,6 @@ SplineSet
  125 425 l 1
  125 75 l 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s o n a
-Ligature2: "tokiponaWordsSaltSpace subtable" s o n a tp_space
-Ligature2: "tokiponaWords subtable" perc s o n a space
 EndChar
 
 StartChar: tp_soweli
@@ -4656,9 +4338,6 @@ SplineSet
  100 425 l 2
  86.3828712355 425 75 436.382871236 75 450 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s o w e l i
-Ligature2: "tokiponaWordsSaltSpace subtable" s o w e l i tp_space
-Ligature2: "tokiponaWords subtable" perc s o w e l i space
 EndChar
 
 StartChar: tp_suli
@@ -4692,9 +4371,6 @@ SplineSet
  121.31730855 425 l 1
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s u l i
-Ligature2: "tokiponaWordsSaltSpace subtable" s u l i tp_space
-Ligature2: "tokiponaWords subtable" perc s u l i space
 EndChar
 
 StartChar: tp_suno
@@ -4752,9 +4428,6 @@ SplineSet
  355 291.155273438 321.15625 325 280 325 c 4
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s u n o
-Ligature2: "tokiponaWordsSaltSpace subtable" s u n o tp_space
-Ligature2: "tokiponaWords subtable" perc s u n o space
 EndChar
 
 StartChar: tp_supa
@@ -4795,9 +4468,6 @@ SplineSet
  255 86.3828712355 243.617128764 75 230 75 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" s u p a
-Ligature2: "tokiponaWordsSaltSpace subtable" s u p a tp_space
-Ligature2: "tokiponaWords subtable" perc s u p a space
 EndChar
 
 StartChar: tp_suwi
@@ -4850,9 +4520,6 @@ SplineSet
  100.801257358 274.132495094 l 2
  93.2478333608 262.802359098 77.4626310909 259.645318644 66.1324950944 267.198742642 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" s u w i
-Ligature2: "tokiponaWordsSaltSpace subtable" s u w i tp_space
-Ligature2: "tokiponaWords subtable" perc s u w i space
 EndChar
 
 StartChar: tp_tan
@@ -4892,9 +4559,6 @@ SplineSet
  56.0515136058 188.355920046 l 2
  48.6197858615 199.766249512 51.9455905799 215.51675865 63.3559200459 222.948486394 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" t a n
-Ligature2: "tokiponaWordsSaltSpace subtable" t a n tp_space
-Ligature2: "tokiponaWords subtable" perc t a n space
 EndChar
 
 StartChar: tp_taso
@@ -4928,9 +4592,6 @@ SplineSet
  80 225 l 2
  66.3828712355 225 55 236.382871236 55 250 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" t a s o
-Ligature2: "tokiponaWordsSaltSpace subtable" t a s o tp_space
-Ligature2: "tokiponaWords subtable" perc t a s o space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -4967,9 +4628,6 @@ SplineSet
  313.617128764 75 325 63.6171287645 325 50 c 0
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" t a w a
-Ligature2: "tokiponaWordsSaltSpace subtable" t a w a tp_space
-Ligature2: "tokiponaWords subtable" perc t a w a space
 EndChar
 
 StartChar: tp_telo
@@ -5022,9 +4680,6 @@ SplineSet
  131.599371032 175 125.029600605 60.0960747921 124.999973515 49.9636099367 c 0
  124.980152388 36.346495598 113.580724275 24.9802053576 99.9636099367 25.0000264847 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" t e l o
-Ligature2: "tokiponaWordsSaltSpace subtable" t e l o tp_space
-Ligature2: "tokiponaWords subtable" perc t e l o space
 EndChar
 
 StartChar: tp_tenpo
@@ -5062,9 +4717,6 @@ SplineSet
  444.874122734 364.255597929 388.291571843 432.038556722 305 443.338131622 c 1
 EndSplineSet
 LCarets2: 6 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" t e n p o
-Ligature2: "tokiponaWordsSaltSpace subtable" t e n p o tp_space
-Ligature2: "tokiponaWords subtable" perc t e n p o space
 EndChar
 
 StartChar: tp_toki
@@ -5111,9 +4763,6 @@ SplineSet
  58.5495551099 656.999190343 63.6401298822 672.27091466 75.8196601125 678.360679775 c 0
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" t o k i
-Ligature2: "tokiponaWordsSaltSpace subtable" t o k i tp_space
-Ligature2: "tokiponaWords subtable" perc t o k i space
 LCarets2: 5 0 0 0 0 0
 EndChar
 
@@ -5152,9 +4801,6 @@ SplineSet
  100 25 l 2
  84.8674621445 25 75 39.2700956673 75 50 c 2
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" t o m o
-Ligature2: "tokiponaWordsSaltSpace subtable" t o m o tp_space
-Ligature2: "tokiponaWords subtable" perc t o m o space
 EndChar
 
 StartChar: tp_tu
@@ -5190,9 +4836,6 @@ SplineSet
  75 463.6171875 86.3828125 475 100 475 c 0
 EndSplineSet
 LCarets2: 3 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" t u
-Ligature2: "tokiponaWordsSaltSpace subtable" t u tp_space
-Ligature2: "tokiponaWords subtable" perc t u space
 EndChar
 
 StartChar: tp_unpa
@@ -5246,9 +4889,6 @@ SplineSet
  125 296.80267459 143.674566022 269.148184138 178.631282772 247.640855997 c 1
  191.256113129 309.246118952 223.487010615 360.793210913 259.545117312 398.815176824 c 1
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" u n p a
-Ligature2: "tokiponaWordsSaltSpace subtable" u n p a tp_space
-Ligature2: "tokiponaWords subtable" perc u n p a space
 EndChar
 
 StartChar: tp_uta
@@ -5285,9 +4925,6 @@ SplineSet
  125 250 l 2
  125 148.751597008 182.815230454 55 300 55 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" u t a
-Ligature2: "tokiponaWordsSaltSpace subtable" u t a tp_space
-Ligature2: "tokiponaWords subtable" perc u t a space
 EndChar
 
 StartChar: tp_utala
@@ -5333,9 +4970,6 @@ SplineSet
  71.8297227413 445.893703012 74.1062969884 461.829722741 85 470 c 0
 EndSplineSet
 LCarets2: 6 0 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" u t a l a
-Ligature2: "tokiponaWordsSaltSpace subtable" u t a l a tp_space
-Ligature2: "tokiponaWords subtable" perc u t a l a space
 EndChar
 
 StartChar: tp_walo
@@ -5384,9 +5018,6 @@ SplineSet
  80 25 l 2
 EndSplineSet
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" w a l o
-Ligature2: "tokiponaWordsSaltSpace subtable" w a l o tp_space
-Ligature2: "tokiponaWords subtable" perc w a l o space
 EndChar
 
 StartChar: tp_wan
@@ -5417,9 +5048,6 @@ SplineSet
  77.677734375 332.322265625 l 2
  68.048828125 322.693359375 51.951171875 322.693359375 42.322265625 332.322265625 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" w a n
-Ligature2: "tokiponaWordsSaltSpace subtable" w a n tp_space
-Ligature2: "tokiponaWords subtable" perc w a n space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -5472,9 +5100,6 @@ SplineSet
  83.9953900084 580.79446801 l 2
  73.5344219245 589.511941413 72.0769946068 605.543641908 80.7944680101 616.004609992 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" w a s o
-Ligature2: "tokiponaWordsSaltSpace subtable" w a s o tp_space
-Ligature2: "tokiponaWords subtable" perc w a s o space
 EndChar
 
 StartChar: tp_wawa
@@ -5526,9 +5151,6 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" w a w a
-Ligature2: "tokiponaWordsSaltSpace subtable" w a w a tp_space
-Ligature2: "tokiponaWords subtable" perc w a w a space
 EndChar
 
 StartChar: tp_weka
@@ -5579,9 +5201,6 @@ SplineSet
  82.3223304703 432.32233047 l 2
  72.6935663807 441.95109456 72.6935663807 458.04890544 82.3223304703 467.67766953 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" w e k a
-Ligature2: "tokiponaWordsSaltSpace subtable" w e k a tp_space
-Ligature2: "tokiponaWords subtable" perc w e k a space
 EndChar
 
 StartChar: tp_wile
@@ -5597,9 +5216,6 @@ Refer: 78 61006 S 1 0 0 -1 0 500 2
 Fore
 Refer: 78 61006 N 1 0 0 -1 0 500 2
 LCarets2: 5 0 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" w i l e
-Ligature2: "tokiponaWordsSaltSpace subtable" w i l e tp_space
-Ligature2: "tokiponaWords subtable" perc w i l e space
 EndChar
 
 StartChar: tp_apeja
@@ -5768,9 +5384,6 @@ Refer: 0 60928 S -1 0 0 1 372 0 2
 Fore
 Refer: 0 60928 N -1 0 0 1 372 0 2
 LCarets2: 4 0 0 0 0
-Ligature2: "tokiponaWordsSalt subtable" k i n
-Ligature2: "tokiponaWordsSaltSpace subtable" k i n tp_space
-Ligature2: "tokiponaWords subtable" perc k i n space
 EndChar
 
 StartChar: tp_oko
@@ -5810,9 +5423,6 @@ SplineSet
  268.58547837 467.936957279 l 2
  278.355472647 477.422388615 294.451525942 477.184515906 303.936957279 467.41452163 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" o k o
-Ligature2: "tokiponaWordsSaltSpace subtable" o k o tp_space
-Ligature2: "tokiponaWords subtable" perc o k o space
 LCarets2: 4 0 0 0 0
 EndChar
 
@@ -5864,9 +5474,6 @@ SplineSet
  100 215 l 2
  86.3828712355 215 75 226.382871236 75 240 c 0
 EndSplineSet
-Ligature2: "tokiponaWordsSalt subtable" n a m a k o
-Ligature2: "tokiponaWordsSaltSpace subtable" n a m a k o tp_space
-Ligature2: "tokiponaWords subtable" perc n a m a k o space
 EndChar
 
 StartChar: tp_pake
@@ -5953,7 +5560,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: tp_ali
+StartChar: tp_name_start
 Encoding: 61056 61056 128
 Width: 602
 VWidth: 0
@@ -5963,12 +5570,9 @@ VStem: 58 50<162.531 341.202> 275 50.0086<175.754 323.668> 495 50<155.352 339.08
 LayerCount: 2
 Fore
 Refer: 4 60932 N 1 0 0 1 0 0 2
-Ligature2: "tokiponaWordsSalt subtable" a l i
-Ligature2: "tokiponaWordsSaltSpace subtable" a l i tp_space
-Ligature2: "tokiponaWords subtable" perc a l i space
 EndChar
 
-StartChar: uniEE81
+StartChar: tp_name_end
 Encoding: 61057 61057 129
 Width: 1000
 VWidth: 0
@@ -6569,7 +6173,6 @@ Width: 250
 VWidth: 0
 Flags: W
 LayerCount: 2
-Substitution2: "Single Substitution lookup 2 subtable" tp_space
 EndChar
 
 StartChar: qmark
