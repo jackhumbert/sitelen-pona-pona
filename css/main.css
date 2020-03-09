@@ -1,0 +1,255 @@
+@font-face { 
+    font-family: 'sitelen pona pona';
+    src: url('../fonts/sitelen-pona-pona.otf');
+    font-weight: 400;
+}
+
+:root {
+    --red: rgba(255, 0, 0, .2);
+    --blue: rgba(0, 0, 255, .2);    
+    --green: rgba(41, 170, 34, 0.4);
+    --green-bg: rgba(41, 170, 34, 0.12);
+    --size: 100px;
+    --line-thickness: calc(var(--size)*0.02);
+    --selected-font: "sitelen pona pona";
+}
+
+body { 
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif, "sitelen pona pona";
+    padding-top: 50px;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1, "mark" 1, "salt" 1;
+}
+
+.system {
+    font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif, local("sitelen pona pona")
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#textarea {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 300px;
+    font-size: var(--size);
+    background: transparent;
+    font-family: var(--selected-font);
+}
+
+code, .zlm {
+    padding: 0rem .5rem;
+    margin: 0 .2rem;
+    font-size: 90%;
+    white-space: nowrap;
+    background: #F1F1F1;
+    border: 1px solid #E1E1E1;
+    border-radius: 4px;
+    font-size: 110%;
+    line-height: 100%;
+}
+
+.back-button {
+    position: absolute;
+    top: 15px;
+}
+
+.characters {
+    width: 100%;
+}
+
+.characters td {
+    border: none;
+    width: 10%;
+}
+
+.characters thead tr th {
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+.characters tbody tr th {
+    border-bottom: 0px;
+    border-right: 1px solid #ccc;
+    width: 5%;
+}
+.characters thead tr th:empty {
+    border-right: 1px solid #ccc;
+}
+
+.character-legend {
+    border: 1px solid #eee;
+    background: #eee;
+    text-align: center;
+    width: 100%;
+}
+
+.character {
+    font-size: 36px;
+    border: 1px solid #eee;
+    background: white;
+    width: 100%;
+    text-align: center;
+    line-height: 36px;
+    padding-top: 10px;
+    font-family: var(--selected-font);
+}
+
+.figure {
+    margin-top: -1rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.jbo {
+    font-weight: bold;
+}
+
+
+.eng {
+    font-style: italic;
+}
+
+.dlh {
+    font-family: var(--selected-font);
+    letter-spacing: 0px ! important;
+}
+
+.figure .dlh {
+    font-size: var(--size);
+    position: relative;
+    display: inline-block;
+    padding: 0px calc(var(--size)*0.15);
+    margin: calc(var(--size)*0.15) 0px calc(var(--size)*0.15);
+    line-height: calc(var(--size)*1.06);
+    pointer-events: none;
+}
+
+.figure .dlh.grid upper, .figure .dlh.grid lower {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: calc(var(--size)*0.38);
+    border-bottom: var(--line-thickness) solid var(--red);
+    border-top: var(--line-thickness) solid var(--red);
+    z-index: -1;
+    top: calc(var(--size)*0.051);
+}
+
+.figure .dlh.grid lower {
+    top: calc(var(--size)*0.583);
+}
+
+.figure .dlh.grid upper:before, .figure .dlh.grid lower:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    border-top: var(--line-thickness) solid var(--blue);
+    z-index: -1;
+    top: 47.5%;
+}
+
+.figure .dlh.grid cv {    
+    position: absolute;
+    height: calc(var(--size)*0.381);
+    width: calc(var(--size)/2.62);
+    border-left: var(--line-thickness) solid var(--green);
+    border-right: var(--line-thickness) solid var(--green);
+    background: var(--green-bg);
+    z-index: -1;
+    margin-top: calc(var(--size)*0.071);
+    margin-left: calc(var(--size)*0.09);
+}
+
+.figure .dlh.grid cv:before {
+    content: "";    
+    position: absolute;
+    height: calc(var(--size)*0.381);
+    width: calc(var(--size)/2.62);
+    border-left: var(--line-thickness) solid var(--green);
+    border-right: var(--line-thickness) solid var(--green);
+    background: var(--green-bg);
+    z-index: -1;
+    margin-top: calc(var(--size)*0.531);
+    left: 0px;
+}
+
+.figure .dlh.grid ccv {    
+    position: absolute;
+    height: calc(var(--size)*0.38);
+    width: calc(var(--size)/4);
+    border-left: var(--line-thickness) solid var(--green);
+    border-right: var(--line-thickness) solid var(--green);
+    background: var(--green-bg);
+    z-index: -1;
+    margin-top: calc(var(--size)*0.07);
+    margin-left: calc(var(--size)*0.09);
+}
+
+.figure .dlh.grid ccv:before {   
+    content: ""; 
+    position: absolute;
+    height: calc(var(--size)*0.38);
+    width: calc(var(--size)/2.63);
+    border-left: var(--line-thickness) solid var(--green);
+    border-right: var(--line-thickness) solid var(--green);
+    background: var(--green-bg);
+    z-index: -1;
+    margin-top: calc(var(--size)*0.533);
+    margin-left: calc(var(--size)*0.113);
+    left: 0px;
+}
+.figure .dlh.grid ccv:after {       
+    content: "";
+    position: absolute;
+    height:calc(var(--size)*0.38);
+    width: calc(var(--size)/4);
+    border-left: var(--line-thickness) solid var(--green);
+    border-right: var(--line-thickness) solid var(--green);
+    background: var(--green-bg);
+    z-index: -1;
+    margin-top: 0;
+    margin-left: calc(var(--size)*0.378);
+    left: 0px;
+}
+
+.figure .dlh.grid cv.cv {
+    margin-left: calc(var(--size)*0.624);
+}
+
+.figure .dlh.grid cv.ccv {
+    margin-left: calc(var(--size)*0.89);
+}
+.figure .dlh.grid ccv.ccv {
+    margin-left: calc(var(--size)*0.89);
+}
+.figure .dlh.grid ccv.ccvccv {
+    margin-left: calc(var(--size)*1.694);
+}
+.figure .dlh.grid cv.ccvcv {
+    margin-left: calc(var(--size)*1.425);
+}
+
+#full-example {
+    font-size: calc(var(--size)/3 + 10px);
+    line-height: 115%;
+}
+
+#full-example.vertical-mode {
+    writing-mode: vertical-lr;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    width: 100%;
+    height: 1000px;
+    column-count: 1;
+    line-height: 100%;
+}
+
+#full-example.alphabet-mode {
+    font-feature-settings: "kern" 1, "mark" 1, "ss01";
+    line-height: 83%;
+}
+
