@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1583856883
+ModificationTime: 1583866107
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2816,7 +2816,7 @@ EndFPST
 ChainSub2: coverage "spaceShorten contextual 2" 0 0 0 1
  1 1 0
   Coverage: 5 space
-  BCoverage: 41 colon semicolon qmark exclam period comma
+  BCoverage: 83 colon semicolon qmark exclam period comma quotedbl quotesingle parenleft parenright
  0
 EndFPST
 ChainSub2: glyph "spaceShorten contextual 1" 0 0 0 1
@@ -2839,7 +2839,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 23 23 10
+WinInfo: 69 23 10
 BeginPrivate: 4
 BlueValues 39 [55 75 275 295 475 495 625 645 725 725]
 OtherBlues 48 [-145 -125 5 25 205 225 425 445 550 570 675 675]
@@ -2897,7 +2897,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 145752 72876 48584 498074 1048576 48584 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Small" "Small" "Above" "Above" "Circle" "Circle" "Square" "Square"
-BeginChars: 1114244 316
+BeginChars: 1114244 347
 
 StartChar: tp_a
 Encoding: 60928 60928 0
@@ -2940,7 +2940,7 @@ SplineSet
  136.737404283 425 l 1
  203.509135896 255.741424517 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 4 subtable" a tp_space
 Ligature2: "tokiponaWords subtable" percent a space
 LCarets2: 2 0 0
@@ -3031,7 +3031,7 @@ SplineSet
  113.416882035 77.7354369502 106.698048206 75.1002371803 99.9698699422 75.1002371803 c 0
  93.8339761366 75.1002371803 87.6903106718 77.2919024918 82.942043741 81.7236182939 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 60 subtable" a l a
 Ligature2: "Ligature Substitution lookup 38 subtable" a l a tp_space
 Ligature2: "tokiponaWords subtable" percent a l a space
@@ -3080,7 +3080,7 @@ SplineSet
  75 250 l 1
  75 450 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 234 subtable" a l a s a
 Ligature2: "Ligature Substitution lookup 221 subtable" a l a s a tp_space
 Ligature2: "tokiponaWords subtable" percent a l a s a space
@@ -3135,7 +3135,7 @@ SplineSet
  58 371.758654015 119.639265775 410 180 410 c 0
  240.19004568 410 278.726359034 378.671816857 299.296598929 344.462094412 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 62 subtable" a l i
 Ligature2: "Ligature Substitution lookup 61 subtable" a l e
 Ligature2: "Ligature Substitution lookup 40 subtable" a l i tp_space
@@ -3178,10 +3178,10 @@ SplineSet
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 300 -100 2
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 151 subtable" a n p a
 Ligature2: "Ligature Substitution lookup 82 subtable" a n p a tp_space
 Ligature2: "tokiponaWords subtable" percent a n p a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_ante
@@ -3226,10 +3226,10 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 152 subtable" a n t e
 Ligature2: "Ligature Substitution lookup 83 subtable" a n t e tp_space
 Ligature2: "tokiponaWords subtable" percent a n t e space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_anu
@@ -3305,7 +3305,7 @@ SplineSet
  80 25 l 2
  66.3828712355 25 55 36.3828712355 55 50 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 153 subtable" a w e n
 Ligature2: "Ligature Substitution lookup 84 subtable" a w e n tp_space
 Ligature2: "tokiponaWords subtable" percent a w e n space
@@ -3359,7 +3359,7 @@ SplineSet
  78.132015151 385.680613724 75.097197079 392.864600611 75.097197079 400.077554516 c 0
  75.097197079 405.733380525 76.9631403213 411.407016765 80.7944680101 416.004609992 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 5 subtable" e tp_space
 Ligature2: "tokiponaWords subtable" percent e space
 LCarets2: 2 0 0
@@ -3398,7 +3398,7 @@ SplineSet
  205 400 l 2
  205 413.617128764 216.382871236 425 230 425 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 25 subtable" e n
 Ligature2: "Ligature Substitution lookup 12 subtable" e n tp_space
 Ligature2: "tokiponaWords subtable" percent e n space
@@ -3463,7 +3463,7 @@ SplineSet
  321.760389656 234.730602602 318.433247556 199.463594896 311.983941973 166.566682147 c 0
  311.351167521 163.338997294 310.572358529 159.606648244 309.815188249 156.15608561 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 154 subtable" e s u n
 Ligature2: "Ligature Substitution lookup 85 subtable" e s u n tp_space
 Ligature2: "tokiponaWords subtable" percent e s u n space
@@ -3499,7 +3499,7 @@ SplineSet
  455 360.405028273 384.927093033 445 280 445 c 0
  175.073472991 445 105 360.404964796 105 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 64 subtable" i j o
 Ligature2: "Ligature Substitution lookup 42 subtable" i j o tp_space
 Ligature2: "tokiponaWords subtable" percent i j o space
@@ -3538,7 +3538,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0xb8
 EndSplineSet
-Validated: 8912897
+Validated: 1
 Ligature2: "Ligature Substitution lookup 65 subtable" i k e
 Ligature2: "Ligature Substitution lookup 43 subtable" i k e tp_space
 Ligature2: "tokiponaWords subtable" percent i k e space
@@ -3589,7 +3589,7 @@ SplineSet
  275 425 l 1
  125 425 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 66 subtable" i l o
 Ligature2: "Ligature Substitution lookup 44 subtable" i l o tp_space
 Ligature2: "tokiponaWords subtable" percent i l o space
@@ -3629,10 +3629,10 @@ SplineSet
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 300 250 2
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 155 subtable" i n s a
 Ligature2: "Ligature Substitution lookup 86 subtable" i n s a tp_space
 Ligature2: "tokiponaWords subtable" percent i n s a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_jaki
@@ -3691,7 +3691,7 @@ SplineSet
  446.261980075 590.5 525 561.479635952 525 450 c 0
  525 391.373525501 463.71574588 352.788503182 404.123461219 320.338878263 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 156 subtable" j a k i
 Ligature2: "Ligature Substitution lookup 87 subtable" j a k i tp_space
 Ligature2: "tokiponaWords subtable" percent j a k i space
@@ -3740,7 +3740,7 @@ SplineSet
  484.65456855 -95.225307339 484.97332777 -97.537300819 484.97332777 -99.8214826248 c 0
  484.97332777 -110.628134272 477.838496228 -120.812273383 467.0541581 -123.984137539 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 67 subtable" j a n
 Ligature2: "Ligature Substitution lookup 45 subtable" j a n tp_space
 Ligature2: "tokiponaWords subtable" percent j a n space
@@ -3808,7 +3808,7 @@ SplineSet
  383.360351562 535.845682648 344.479537848 575 300 575 c 0
  255.524776217 575 216.639648438 535.838801743 216.639648438 487.33984375 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 157 subtable" j e l o
 Ligature2: "Ligature Substitution lookup 88 subtable" j e l o tp_space
 Ligature2: "tokiponaWords subtable" percent j e l o space
@@ -3824,48 +3824,46 @@ VStem: 55 50<122.565 317.875> 134.2 50<446.142 551.087> 335.8 50<447.033 551.368
 LayerCount: 2
 Back
 SplineSet
-260 250 m 1
- 440 250 l 1
- 440 164 422.30859375 30 260 30 c 3
- 126 30 80 118 80 236 c 3
- 80 376 205.799804688 414 205.799804688 414 c 1025
-159.200195312 499.200195312 m 0
- 159.200195312 555.200195312 204 600 260 600 c 0
- 316 600 360.799804688 555.200195312 360.799804688 499.200195312 c 0
- 360.799804688 443.200195312 316 398.400390625 260 398.400390625 c 0
- 204 398.400390625 159.200195312 443.200195312 159.200195312 499.200195312 c 0
+260 250 m 5
+ 440 250 l 5
+ 440 164 422.30859375 30 260 30 c 7
+ 126 30 80 118 80 236 c 7
+ 80 350.039466852 179.393601332 405.245966528 205.799804688 414 c 1029
+159.200195312 499.200195312 m 4
+ 159.200195312 555.200195312 204 600 260 600 c 4
+ 316 600 360.799804688 555.200195312 360.799804688 499.200195312 c 4
+ 360.799804688 443.200195312 316 398.400390625 260 398.400390625 c 4
+ 204 398.400390625 159.200195312 443.200195312 159.200195312 499.200195312 c 4
 EndSplineSet
 Fore
 SplineSet
-134.200195312 499.200195312 m 4
- 134.200195312 568.945507518 190.254673588 625 260 625 c 4
- 329.745312206 625 385.799804688 568.945521724 385.799804688 499.200195312 c 4
- 385.799804688 429.454883107 329.745326412 373.400390625 260 373.400390625 c 4
- 239.775862061 373.400390625 220.702894071 378.113638787 203.81399678 386.5072354 c 5
- 176.616364035 374.866241056 105 334.871141153 105 236 c 4
- 105 124.713379273 142.883173367 55 260 55 c 4
- 387.136364741 55 410.302966256 143.024218901 414.414408138 225 c 5
- 260 225 l 6
- 246.382871236 225 235 236.382871236 235 250 c 4
- 235 263.617128764 246.382871236 275 260 275 c 6
- 440 275 l 6
- 455.132537856 275 465 260.729904333 465 250 c 4
- 465 163.652562719 444.471961212 5 260 5 c 4
- 109.116826633 5 55 111.286620727 55 236 c 4
- 55 342.179439346 118.555277158 396.453811806 161.31241173 420.958620678 c 5
- 144.320972547 442.400487726 134.200195312 469.564383276 134.200195312 499.200195312 c 4
-220.061694492 434.562761698 m 4
- 231.617620853 427.471143766 245.280351019 423.400391748 260 423.400390625 c 4
- 302.254673588 423.400390625 335.799804688 456.945507518 335.799804688 499.200195312 c 4
- 335.799804688 541.454868901 302.254687794 575 260 575 c 4
- 217.745326412 575 184.200195312 541.454883107 184.200195312 499.200195312 c 4
- 184.200195312 472.355935472 197.739073322 449.026864852 218.448818978 435.581004701 c 4
- 219.000430432 435.262162788 219.538386581 434.922462201 220.061694492 434.562761698 c 4
+134.200195312 499.200195312 m 0
+ 134.200195312 568.945507518 190.254673588 625 260 625 c 0
+ 329.745312206 625 385.799804688 568.945521724 385.799804688 499.200195312 c 0
+ 385.799804688 429.454883106 329.745326411 373.400390625 260 373.400390625 c 0
+ 239.954176041 373.400390625 221.039312045 378.030892811 204.261228028 386.286078189 c 1
+ 174.108025744 371.54464008 104.999999997 322.73971613 105 236 c 0
+ 105 124.713379273 142.883173367 55 260 55 c 0
+ 387.136364741 55 410.302966256 143.024218901 414.414408138 225 c 1
+ 260 225 l 2
+ 246.382871236 225 235 236.382871236 235 250 c 0
+ 235 263.617128764 246.382871236 275 260 275 c 2
+ 440 275 l 2
+ 455.132537856 275 465 260.729904333 465 250 c 0
+ 465 163.652562719 444.471961212 5 260 5 c 0
+ 109.116826633 5 55 111.286620727 55 236 c 0
+ 55 333.680234378 117.362365707 392.323902692 162.057150079 420.027925727 c 1
+ 144.617115455 441.611900472 134.200195312 469.133924415 134.200195312 499.200195312 c 0
+184.200195312 499.200195312 m 0
+ 184.200195312 456.945521724 217.745312206 423.400390625 260 423.400390625 c 0
+ 302.254673589 423.400390625 335.799804688 456.945507518 335.799804688 499.200195312 c 0
+ 335.799804688 541.4548689 302.254687794 575 260 575 c 0
+ 217.745326412 575 184.200195312 541.454883106 184.200195312 499.200195312 c 0
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "Ligature Substitution lookup 26 subtable" j o
 Ligature2: "Ligature Substitution lookup 13 subtable" j o tp_space
 Ligature2: "tokiponaWords subtable" percent j o space
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: tp_kala
@@ -3907,7 +3905,7 @@ SplineSet
  525 150.605438841 451.11352892 75 347 75 c 0
  268.048036063 75 205.993905284 132.520335579 162.345274166 198.125144535 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 158 subtable" k a l a
 Ligature2: "Ligature Substitution lookup 89 subtable" k a l a tp_space
 Ligature2: "tokiponaWords subtable" percent k a l a space
@@ -3966,7 +3964,7 @@ SplineSet
  417.815110351 518.089748583 412.73405196 519.587261108 408.397378199 522.708045029 c 0
 EndSplineSet
 Refer: 112 61040 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 257 subtable" k a l a m a
 Ligature2: "Ligature Substitution lookup 246 subtable" k a l a m a tp_space
 Ligature2: "tokiponaWords subtable" percent k a l a m a space
@@ -4009,7 +4007,7 @@ SplineSet
  97.7208971852 29.9523055755 88.85920237 25.0658187255 79.8021571922 25.0658187255 c 0
  75.926359255 25.0658187255 72.0147876551 25.9606598208 68.3998251332 27.854211618 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 159 subtable" k a m a
 Ligature2: "Ligature Substitution lookup 90 subtable" k a m a tp_space
 Ligature2: "tokiponaWords subtable" percent k a m a space
@@ -4020,7 +4018,9 @@ StartChar: tp_kasi
 Encoding: 60951 60951 23
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 21G<293.191 306.809> 422.45 52.5388<128.929 191.774 408.226 471.071>
+VStem: 75.0034 449.995<327.679 463.657> 275 50<25.2041 230.701>
 LayerCount: 2
 Back
 SplineSet
@@ -4035,19 +4035,19 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-499.242771834 474.988529479 m 0
+499.242771834 474.988529479 m 0xe0
  499.418068583 474.993841502 499.594356005 474.996486945 499.771557414 474.996486945 c 0
- 510.659488172 474.996486945 524.998032344 465.009032111 524.998032344 449.937055203 c 0
+ 510.659488172 474.996486945 524.998032344 465.009032111 524.998032344 449.937055203 c 0xe0
  524.998032344 327.678775242 464.304037253 246.480340644 325 227.643494141 c 1
  325 50 l 2
  325 36.3828712355 313.617128764 25 300 25 c 0
  286.382871236 25 275 36.3828712355 275 50 c 2
- 275 227.643494141 l 1
+ 275 227.643494141 l 1xd0
  135.598793668 246.493479954 75.0034449652 327.666477648 75.0034449652 449.93014455 c 0
  75.0034449652 463.65669932 86.696553661 474.99933557 100.043820516 474.99933557 c 0
  100.281119015 474.99933557 100.51894037 474.995750321 100.757228166 474.988529479 c 0
  200.518338103 471.965465541 266.756312846 424.420957322 300 356.094447058 c 1
- 333.243687154 424.420957322 399.481661897 471.965465541 499.242771834 474.988529479 c 0
+ 333.243687154 424.420957322 399.481661897 471.965465541 499.242771834 474.988529479 c 0xe0
 471.071031832 422.449758731 m 1
  383.530047188 409.44358789 339.391961855 353.877446539 327.725628122 278.475233686 c 1
  434.498392933 294.921079799 457.155051218 335.520089167 471.071031832 422.449758731 c 1
@@ -4055,7 +4055,8 @@ SplineSet
  142.844948782 335.520089167 165.501607067 294.921079799 272.274371878 278.475233686 c 1
  260.608038145 353.877446539 216.469952812 409.44358789 128.928968168 422.449758731 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 160 subtable" k a s i
 Ligature2: "Ligature Substitution lookup 91 subtable" k a s i tp_space
 Ligature2: "tokiponaWords subtable" percent k a s i space
@@ -4096,10 +4097,10 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 68 subtable" k e n
 Ligature2: "Ligature Substitution lookup 46 subtable" k e n tp_space
 Ligature2: "tokiponaWords subtable" percent k e n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_kepeken
@@ -4219,7 +4220,7 @@ SplineSet
  139.569179599 435 105 358.677692895 105 280 c 0
  105 169.160190141 163.669365949 55 300 55 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 161 subtable" k i l i
 Ligature2: "Ligature Substitution lookup 92 subtable" k i l i tp_space
 Ligature2: "tokiponaWords subtable" percent k i l i space
@@ -4263,7 +4264,7 @@ SplineSet
  131.87586512 318.968326129 l 1
  300 92.000744041 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 236 subtable" k i w e n
 Ligature2: "Ligature Substitution lookup 223 subtable" k i w e n tp_space
 Ligature2: "tokiponaWords subtable" percent k i w e n space
@@ -4321,7 +4322,7 @@ SplineSet
  120.974500382 15 65 88.8905210857 65 162 c 0
  65 244.348556412 142.447507626 278.342966954 180.272238767 290.853827595 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 27 subtable" k o
 Ligature2: "Ligature Substitution lookup 14 subtable" k o tp_space
 Ligature2: "tokiponaWords subtable" percent k o space
@@ -4331,13 +4332,41 @@ StartChar: tp_kon
 Encoding: 60957 60957 29
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Refer: 106 61034 S 0 1 1 0 50 -50 2
 Fore
-Refer: 106 61034 N 0 1 1 0 50 -50 2
-Validated: 25
+SplineSet
+99.2509765625 24.9990234375 m 1
+ 87.0927734375 25.74609375 75 35.7841796875 75 49.9990234375 c 0
+ 75 63.6005859375 86.3583984375 74.98046875 99.9638671875 75 c 0
+ 110.095703125 75.029296875 225 81.599609375 225 150 c 0
+ 225 179.529296875 163.87890625 227.354492188 161.083984375 229.23046875 c 2
+ 161.083984375 229.23046875 75 279.979492188 75 350 c 0
+ 75 480.913085938 250.749023438 475.000976562 250.749023438 475.000976562 c 1
+ 265.181640625 474.114257812 274.981445312 463.073242188 275 450.036132812 c 0
+ 275 450.000976562 l 0
+ 275 436.399414062 263.641601562 425.01953125 250.036132812 425 c 0
+ 239.8828125 424.955078125 125 418.421875 125 350 c 0
+ 125 320.756835938 185.1171875 273.3203125 188.890625 270.786132812 c 2
+ 188.890625 270.786132812 275 221.065429688 275 150 c 0
+ 275 19.5986328125 99.2509765625 24.9990234375 99.2509765625 24.9990234375 c 1
+349.250976562 24.9990234375 m 1
+ 337.084960938 25.74609375 325.010742188 35.783203125 325 49.9990234375 c 0
+ 325 63.6005859375 336.358398438 74.98046875 349.963867188 75 c 0
+ 360.095703125 75.029296875 475 81.599609375 475 150 c 0
+ 475 179.529296875 413.87890625 227.354492188 411.083984375 229.23046875 c 2
+ 411.083984375 229.23046875 325 279.979492188 325 350 c 0
+ 325 480.913085938 500.749023438 475.000976562 500.749023438 475.000976562 c 1
+ 515.181640625 474.114257812 524.981445312 463.073242188 525 450.036132812 c 0
+ 525 450.000976562 l 0
+ 525 436.399414062 513.641601562 425.01953125 500.036132812 425 c 0
+ 489.8828125 424.955078125 375 418.421875 375 350 c 0
+ 375 320.756835938 435.1171875 273.3203125 438.890625 270.786132812 c 2
+ 438.890625 270.786132812 525 221.065429688 525 150 c 0
+ 525 19.5986328125 349.250976562 24.9990234375 349.250976562 24.9990234375 c 1
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 70 subtable" k o n
 Ligature2: "Ligature Substitution lookup 48 subtable" k o n tp_space
 Ligature2: "tokiponaWords subtable" percent k o n space
@@ -4455,7 +4484,7 @@ SplineSet
  495 160.155680827 470.155852269 185 440 185 c 0
  409.844319173 185 385 160.155852269 385 130 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 259 subtable" k u l u p u
 Ligature2: "Ligature Substitution lookup 248 subtable" k u l u p u tp_space
 Ligature2: "tokiponaWords subtable" percent k u l u p u space
@@ -4548,7 +4577,10 @@ StartChar: tp_lape
 Encoding: 60962 60962 34
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 129 50<373.427 473.992> 225 50<75.2041 311.596> 321 50<373.427 473.992>
+VStem: 495 50<200.008 299.992>
+CounterMasks: 1 e0
 LayerCount: 2
 Back
 SplineSet
@@ -4577,17 +4609,19 @@ SplineSet
  100 225 l 2
  86.3828712355 225 75 236.382871236 75 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 164 subtable" l a p e
 Ligature2: "Ligature Substitution lookup 95 subtable" l a p e tp_space
 Ligature2: "tokiponaWords subtable" percent l a p e space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_laso
 Encoding: 60963 60963 35
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<144.762 455.238> 547.129 52.5388<128.929 191.774 408.226 471.071>
 LayerCount: 2
 Back
 SplineSet
@@ -4633,7 +4667,7 @@ SplineSet
  142.844948782 460.199776667 165.501607067 419.600767299 272.274371878 403.154921186 c 1
  260.608038145 478.557134039 216.469952812 534.12327539 128.928968168 547.129446231 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 165 subtable" l a s o
 Ligature2: "Ligature Substitution lookup 96 subtable" l a s o tp_space
 Ligature2: "tokiponaWords subtable" percent l a s o space
@@ -4671,7 +4705,7 @@ SplineSet
  505 118.405273438 417.073242188 5 280 5 c 0
  142.926757812 5 55 118.405273438 55 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 166 subtable" l a w a
 Ligature2: "Ligature Substitution lookup 97 subtable" l a w a tp_space
 Ligature2: "tokiponaWords subtable" percent l a w a space
@@ -4727,7 +4761,7 @@ SplineSet
  475 425 l 1
  125 425 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 71 subtable" l e n
 Ligature2: "Ligature Substitution lookup 49 subtable" l e n tp_space
 Ligature2: "tokiponaWords subtable" percent l e n space
@@ -4785,7 +4819,7 @@ SplineSet
  196.247707988 370.89641976 195.078719685 375.378341392 195.078719685 379.82732781 c 0
  195.078719685 388.280914111 199.299278798 396.615589881 206.897564358 401.291457918 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 168 subtable" l e t e
 Ligature2: "Ligature Substitution lookup 99 subtable" l e t e tp_space
 Ligature2: "tokiponaWords subtable" percent l e t e space
@@ -4821,7 +4855,7 @@ SplineSet
  78.132015151 385.680613724 75.097197079 392.864600611 75.097197079 400.077554516 c 0
  75.097197079 405.733380525 76.9631403213 411.407016765 80.7944680101 416.004609992 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 29 subtable" l i
 Ligature2: "Ligature Substitution lookup 16 subtable" l i tp_space
 Ligature2: "tokiponaWords subtable" percent l i space
@@ -4904,7 +4938,7 @@ SplineSet
  124.980169646 161.358352186 113.600566891 150.0000006 99.9991746507 150.0000006 c 0
  85.7834919489 150.010347067 75.7464832202 162.085420213 74.998878849 174.250799854 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 237 subtable" l i n j a
 Ligature2: "Ligature Substitution lookup 224 subtable" l i n j a tp_space
 Ligature2: "tokiponaWords subtable" percent l i n j a space
@@ -4954,7 +4988,8 @@ StartChar: tp_loje
 Encoding: 60971 60971 43
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<146.713 453.287> 575 50<131.163 468.837>
 LayerCount: 2
 Back
 SplineSet
@@ -4992,7 +5027,8 @@ SplineSet
  300 304.930609057 l 1
  146.712927296 75 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 171 subtable" l o j e
 Ligature2: "Ligature Substitution lookup 102 subtable" l o j e tp_space
 Ligature2: "tokiponaWords subtable" percent l o j e space
@@ -5003,30 +5039,30 @@ Encoding: 60972 60972 44
 Width: 500
 VWidth: 0
 Flags: W
-HStem: 155 50<75.2041 424.796> 271 78<216.281 285.719>
-VStem: 212 78<275.281 344.719>
+HStem: 150 50<75.2041 424.796> 275 78<216.281 285.719>
+VStem: 212 78<279.281 348.719>
 LayerCount: 2
 Back
 SplineSet
-400 180 m 1
- 100 180 l 1025
+400 175 m 1
+ 100 175 l 1025
 EndSplineSet
-Refer: 153 -1 N 1 0 0 1 251 310 2
+Refer: 153 -1 N 1 0 0 1 251 314 2
 Fore
 SplineSet
-425 180 m 0
- 425 166.382871236 413.617128764 155 400 155 c 2
- 100 155 l 2
- 86.3828712355 155 75 166.382871236 75 180 c 0
- 75 193.617128764 86.3828712355 205 100 205 c 2
- 400 205 l 2
- 413.617128764 205 425 193.617128764 425 180 c 0
+425 175 m 0
+ 425 161.3828125 413.6171875 150 400 150 c 2
+ 100 150 l 2
+ 86.3828125 150 75 161.3828125 75 175 c 0
+ 75 188.6171875 86.3828125 200 100 200 c 2
+ 400 200 l 2
+ 413.6171875 200 425 188.6171875 425 175 c 0
 EndSplineSet
-Refer: 153 -1 S 1 0 0 1 251 310 2
-LCarets2: 4 0 0 0 0
+Refer: 153 -1 N 1 0 0 1 251 314 2
 Ligature2: "Ligature Substitution lookup 72 subtable" l o n
 Ligature2: "Ligature Substitution lookup 50 subtable" l o n tp_space
 Ligature2: "tokiponaWords subtable" percent l o n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_luka
@@ -5069,11 +5105,11 @@ SplineSet
  37.7938021574 136.445530845 35.0999472918 143.235559854 35.0999472918 150.037541818 c 0
  35.0999472918 156.100071748 37.2399337897 162.172097053 41.578163497 166.900767434 c 0xb8
 EndSplineSet
-Validated: 8912897
-LCarets2: 5 0 0 0 0 0
+Validated: 1
 Ligature2: "Ligature Substitution lookup 172 subtable" l u k a
 Ligature2: "Ligature Substitution lookup 103 subtable" l u k a tp_space
 Ligature2: "tokiponaWords subtable" percent l u k a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_lukin
@@ -5101,13 +5137,38 @@ StartChar: tp_lupa
 Encoding: 60975 60975 47
 Width: 600
 VWidth: 0
-Flags: W
+Flags: WO
+HStem: 5 50<169.271 398.627> 425 50<55.2041 160.259 404.687 504.796>
+VStem: 55 50<118.35 294.227> 455 50<110.169 300.169>
 LayerCount: 2
 Back
 Refer: 64 60992 S 1 0 0 -1 0 500 2
 Fore
-Refer: 64 60992 N 1 0 0 -1 0 500 2
-Validated: 25
+SplineSet
+55 450 m 0
+ 55 463.6171875 66.3828125 475 80 475 c 2
+ 220 475 l 2
+ 233.7265625 475 244.998046875 463.471679688 244.998046875 449.953125 c 0
+ 244.998046875 443.733398438 242.53515625 438.080078125 239.380859375 434.208007812 c 0
+ 211.810546875 400.372070312 105 319.930664062 105 205 c 0
+ 105 86.7724609375 177.569335938 55 282 55 c 0
+ 397.557617188 55 455 84.83203125 455 205 c 0
+ 455 330.97265625 348.328125 407.489257812 322.73828125 431.916015625 c 0
+ 317.647460938 436.775390625 315.115234375 443.381835938 315.115234375 449.984375 c 0
+ 315.115234375 456.86328125 317.86328125 463.737304688 323.326171875 468.627929688 c 0
+ 327.990234375 472.802734375 335.047851562 475 340 475 c 2
+ 480 475 l 2
+ 493.6171875 475 505 463.6171875 505 450 c 0
+ 505 436.3828125 493.6171875 425 480 425 c 2
+ 404.686523438 425 l 1
+ 447 382.416992188 505 307.748046875 505 205 c 0
+ 505 53.16796875 410.442382812 5 282 5 c 0
+ 166.430664062 5 55 51.2158203125 55 205 c 0
+ 55 304.659179688 116.59375 379.54296875 160.258789062 425 c 1
+ 80 425 l 2
+ 66.3828125 425 55 436.3828125 55 450 c 0
+EndSplineSet
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 173 subtable" l u p a
 Ligature2: "Ligature Substitution lookup 104 subtable" l u p a tp_space
 Ligature2: "tokiponaWords subtable" percent l u p a space
@@ -5248,7 +5309,7 @@ SplineSet
  435.461240979 584.174023062 446.760683644 594.999667368 460.020257015 594.999667368 c 0
  460.291988736 594.999667368 460.564543658 594.995120888 460.837845252 594.985956362 c 0
 EndSplineSet
-Validated: 8912929
+Validated: 33
 Ligature2: "Ligature Substitution lookup 175 subtable" m a n i
 Ligature2: "Ligature Substitution lookup 106 subtable" m a n i tp_space
 Ligature2: "tokiponaWords subtable" percent m a n i space
@@ -5300,7 +5361,7 @@ SplineSet
  371 289.192857298 339.192907099 321 300 321 c 0
  260.807142702 321 229 289.192907099 229 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 176 subtable" m e l i
 Ligature2: "Ligature Substitution lookup 107 subtable" m e l i tp_space
 Ligature2: "tokiponaWords subtable" percent m e l i space
@@ -5342,7 +5403,7 @@ SplineSet
  86.3828712355 -125 75 -113.617128764 75 -100 c 2
  75 249.999995752 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 31 subtable" m i
 Ligature2: "Ligature Substitution lookup 18 subtable" m i tp_space
 Ligature2: "tokiponaWords subtable" percent m i space
@@ -5463,7 +5524,7 @@ SplineSet
  476 537.651208626 475.702053565 559.640857276 475.451386087 575.066077955 c 1
  153.571991503 575.933677401 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 178 subtable" m o k u
 Ligature2: "Ligature Substitution lookup 109 subtable" m o k u tp_space
 Ligature2: "tokiponaWords subtable" percent m o k u space
@@ -5519,7 +5580,7 @@ SplineSet
  505 118.405273438 417.073242188 5 280 5 c 0
  142.926757812 5 55 118.405273438 55 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 179 subtable" m o l i
 Ligature2: "Ligature Substitution lookup 110 subtable" m o l i tp_space
 Ligature2: "tokiponaWords subtable" percent m o l i space
@@ -5530,7 +5591,10 @@ StartChar: tp_monsi
 Encoding: 60984 60984 56
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<125 424.796> 225 50<125 274.796> 425 50<125 424.796>
+VStem: 75 50<75 225 275 425>
+CounterMasks: 1 e0
 LayerCount: 2
 Back
 SplineSet
@@ -5563,7 +5627,8 @@ SplineSet
  400 475 l 2
  413.617128764 475 425 463.617128764 425 450 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 239 subtable" m o n s i
 Ligature2: "Ligature Substitution lookup 226 subtable" m o n s i tp_space
 Ligature2: "tokiponaWords subtable" percent m o n s i space
@@ -5574,11 +5639,11 @@ Encoding: 60985 60985 57
 Width: 600
 VWidth: 0
 Flags: W
-HStem: 25 50<217.237 382.763> 196 78<265.281 334.719> 349 50<150.358 217.587 382.413 449.524> 501 50<134.413 217.587 382.413 465.587>
-VStem: 75 50<167.237 334.065 408.653 491.587> 227 50<408.413 491.587> 261 78<200.281 269.719> 323 50<408.413 491.587> 475 50<167.237 334.14 408.653 491.587>
+HStem: 25 50<217.237 382.763> 175 78<265.281 334.719> 349 50<150.358 217.587 382.413 449.524> 501 50<134.413 217.587 382.413 465.587>
+VStem: 75 50<167.237 334.065 408.653 491.587> 227 50<408.413 491.587> 261 78<179.281 248.719> 323 50<408.413 491.587> 475 50<167.237 334.14 408.653 491.587>
 LayerCount: 2
 Back
-Refer: 153 -1 S 1 0 0 1 300 235 2
+Refer: 153 -1 N 1 0 0 1 300 213 2
 Refer: 59 60987 N 1 0 0 1 0 0 2
 Fore
 SplineSet
@@ -5614,23 +5679,25 @@ SplineSet
  452.202148438 399 475 421.796875 475 450 c 0
  475 478.202148438 452.203125 501 424 501 c 0
  395.797851562 501 373 478.203125 373 450 c 0
-261 235 m 0xfa80
- 261 256.462890625 278.537109375 274 300 274 c 0
- 321.462890625 274 339 256.462890625 339 235 c 0
- 339 213.537109375 321.462890625 196 300 196 c 0
- 278.537109375 196 261 213.537109375 261 235 c 0xfa80
+261 214 m 0xfa80
+ 261 235.462890625 278.537109375 253 300 253 c 0
+ 321.462890625 253 339 235.462890625 339 214 c 0
+ 339 192.537109375 321.462890625 175 300 175 c 0
+ 278.537109375 175 261 192.537109375 261 214 c 0xfa80
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "Ligature Substitution lookup 32 subtable" m u
 Ligature2: "Ligature Substitution lookup 19 subtable" m u tp_space
 Ligature2: "tokiponaWords subtable" percent m u space
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: tp_mun
 Encoding: 60986 60986 58
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<216.786 382.763> 425 50<216.937 382.763>
+VStem: 275 50<193.963 308.272> 475 50<167.237 332.763>
 LayerCount: 2
 Back
 SplineSet
@@ -5665,7 +5732,8 @@ SplineSet
  475 346.154890735 396.155852666 425 300 425 c 0
  267.498616024 425 238.354430286 416.622107742 211.083558818 400.542623318 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 73 subtable" m u n
 Ligature2: "Ligature Substitution lookup 51 subtable" m u n tp_space
 Ligature2: "tokiponaWords subtable" percent m u n space
@@ -5675,7 +5743,9 @@ StartChar: tp_musi
 Encoding: 60987 60987 59
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 374 152<123.554 228.446 371.554 476.446>
+VStem: 100 152<397.554 502.446> 348 152<397.554 502.446>
 LayerCount: 2
 Back
 SplineSet
@@ -5731,7 +5801,7 @@ SplineSet
  475 478.202355274 452.202656844 501 424 501 c 0
  395.797644726 501 373 478.202656844 373 450 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 180 subtable" m u s i
 Ligature2: "Ligature Substitution lookup 111 subtable" m u s i tp_space
 Ligature2: "tokiponaWords subtable" percent m u s i space
@@ -5779,7 +5849,7 @@ SplineSet
  375 450 l 2
  375 463.6171875 386.3828125 475 400 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 181 subtable" m u t e
 Ligature2: "Ligature Substitution lookup 112 subtable" m u t e tp_space
 Ligature2: "tokiponaWords subtable" percent m u t e space
@@ -5790,7 +5860,9 @@ StartChar: tp_nanpa
 Encoding: 60989 60989 61
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 21G<193.191 206.809 393.191 406.809> 125 50<75.2041 175 225 375 425 524.796> 325 50<75.2041 175 225 375 425 524.796> 455 20G<193.191 206.809 393.191 406.809>
+VStem: 175 50<25.2041 125 175 325 375 474.796> 375 50<25.2041 125 175 325 375 474.796>
 LayerCount: 2
 Back
 SplineSet
@@ -5848,7 +5920,8 @@ SplineSet
  175 450 l 2
  175 463.617128764 186.382871236 475 200 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 240 subtable" n a n p a
 Ligature2: "Ligature Substitution lookup 227 subtable" n a n p a tp_space
 Ligature2: "tokiponaWords subtable" percent n a n p a space
@@ -5902,7 +5975,7 @@ SplineSet
  451.712853745 469.863214853 458.962236643 460.371615361 458.962236643 449.689268925 c 0
  458.962236643 447.251693019 458.584765271 444.752115576 457.767003532 442.245675846 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 182 subtable" n a s a
 Ligature2: "Ligature Substitution lookup 113 subtable" n a s a tp_space
 Ligature2: "tokiponaWords subtable" percent n a s a space
@@ -5945,17 +6018,19 @@ SplineSet
  225 450 l 2
  225 463.617128764 236.382871236 475 250 475 c 0
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 241 subtable" n a s i n
 Ligature2: "Ligature Substitution lookup 228 subtable" n a s i n tp_space
 Ligature2: "tokiponaWords subtable" percent n a s i n space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_nena
 Encoding: 60992 60992 64
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<55.2041 160.258 404.686 504.796> 445 50<169.271 398.627>
+VStem: 55 50<205.773 381.65> 455 50<199.831 389.831>
 LayerCount: 2
 Back
 SplineSet
@@ -5992,7 +6067,7 @@ SplineSet
  80 25 l 2
  66.3828712355 25 55 36.3828712355 55 50 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 183 subtable" n e n a
 Ligature2: "Ligature Substitution lookup 114 subtable" n e n a tp_space
 Ligature2: "tokiponaWords subtable" percent n e n a space
@@ -6038,7 +6113,7 @@ SplineSet
  57.5078125 167.13671875 55.1005859375 173.568359375 55.1005859375 180 c 0
  55.1005859375 186.431640625 57.5078125 192.86328125 62.322265625 197.677734375 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 33 subtable" n i
 Ligature2: "Ligature Substitution lookup 20 subtable" n i tp_space
 Ligature2: "tokiponaWords subtable" percent n i space
@@ -6089,7 +6164,7 @@ SplineSet
  75.3845893155 45.173376487 74.9999996302 47.515739333 75 50 c 2
  75 450 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 184 subtable" n i m i
 Ligature2: "Ligature Substitution lookup 115 subtable" n i m i tp_space
 Ligature2: "tokiponaWords subtable" percent n i m i space
@@ -6100,7 +6175,9 @@ StartChar: tp_noka
 Encoding: 60995 60995 67
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<125 333.985> 240 50<247.328 357.363> 455 20G<93.1914 106.809>
+VStem: 75 50<75 474.796> 375 50<111.562 222.214>
 LayerCount: 2
 Back
 SplineSet
@@ -6132,7 +6209,8 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 185 subtable" n o k a
 Ligature2: "Ligature Substitution lookup 116 subtable" n o k a tp_space
 Ligature2: "tokiponaWords subtable" percent n o k a space
@@ -6173,7 +6251,7 @@ SplineSet
  257 175.192857298 225.192907099 207 186 207 c 0
  146.807142702 207 115 175.192907099 115 136 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 6 subtable" o tp_space
 Ligature2: "tokiponaWords subtable" percent o space
 LCarets2: 2 0 0
@@ -6247,7 +6325,7 @@ SplineSet
  294.965959708 25.0938720349 290.078150608 26.4803192772 285.827920588 29.4050451532 c 0
  283.258704087 31.1730092276 280.603416781 34.0519916491 279.282867975 36.0071289337 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 186 subtable" o l i n
 Ligature2: "Ligature Substitution lookup 117 subtable" o l i n tp_space
 Ligature2: "tokiponaWords subtable" percent o l i n space
@@ -6288,7 +6366,7 @@ SplineSet
  244.141579456 75 l 1
  193.908442765 118.536154241 165 186.125750426 165 260 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 75 subtable" o n a
 Ligature2: "Ligature Substitution lookup 53 subtable" o n a tp_space
 Ligature2: "tokiponaWords subtable" percent o n a space
@@ -6332,7 +6410,7 @@ SplineSet
  75 450 l 2
  75 463.6171875 86.3828125 475 100 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 187 subtable" o p e n
 Ligature2: "Ligature Substitution lookup 118 subtable" o p e n tp_space
 Ligature2: "tokiponaWords subtable" percent o p e n space
@@ -6391,7 +6469,7 @@ SplineSet
  259.548828125 425 l 1
  125 425 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 261 subtable" p a k a l a
 Ligature2: "Ligature Substitution lookup 250 subtable" p a k a l a tp_space
 Ligature2: "tokiponaWords subtable" percent p a k a l a space
@@ -6449,10 +6527,10 @@ SplineSet
  286.745326412 576.599609375 253.200195312 543.054492482 253.200195312 500.799804688 c 0
  253.200195312 458.545131099 286.745312206 425 329 425 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 189 subtable" p a l i
 Ligature2: "Ligature Substitution lookup 120 subtable" p a l i tp_space
 Ligature2: "tokiponaWords subtable" percent p a l i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_palisa
@@ -6466,18 +6544,34 @@ LayerCount: 2
 Back
 Refer: 112 61040 S 1 0 0 -1 0 500 2
 Fore
-Refer: 112 61040 N 1 0 0 -1 0 500 2
-Validated: 25
+SplineSet
+300 445 m 0
+ 182.815429688 445 125 351.248046875 125 250 c 2
+ 125 75 l 1
+ 475 75 l 1
+ 475 250 l 2
+ 475 348.200195312 390.704101562 445 300 445 c 0
+300 495 m 0
+ 424.602539062 495 525 371.799804688 525 250 c 2
+ 525 50 l 2
+ 525 34.8671875 510.729492188 25 500 25 c 2
+ 100 25 l 2
+ 84.8671875 25 75 39.2705078125 75 50 c 2
+ 75 250 l 2
+ 75 368.751953125 148.002929688 495 300 495 c 0
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 262 subtable" p a l i s a
 Ligature2: "Ligature Substitution lookup 251 subtable" p a l i s a tp_space
 Ligature2: "tokiponaWords subtable" percent p a l i s a space
+LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_pan
 Encoding: 61003 61003 75
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25.4156 21G<296.495 303.099> 225.416 21G<296.495 303.099> 254.899 20G<96.7842 103.216 496.784 503.216> 454.899 20G<96.7842 103.216 496.784 503.216>
 LayerCount: 2
 Back
 SplineSet
@@ -6491,37 +6585,36 @@ EndSplineSet
 Fore
 SplineSet
 82.322265625 267.677734375 m 0
- 77.5078125 262.86328125 75.1005859375 256.431640625 75.1005859375 250 c 0
- 75.1005859375 243.568359375 77.5078125 237.13671875 82.322265625 232.322265625 c 2
- 282.322265625 32.322265625 l 2
- 287.226441882 27.4180893684 293.468331221 25.4156078747 299.521978878 25.4156078747 c 0
- 306.676505009 25.4156078747 313.568099252 28.2126305018 317.677734375 32.322265625 c 2
- 517.677734375 232.322265625 l 2
- 522.4921875 237.13671875 524.899414062 243.568359375 524.899414062 250 c 0
- 524.899414062 256.431640625 522.4921875 262.86328125 517.677734375 267.677734375 c 0
- 512.86328125 272.4921875 506.431640625 274.899414062 500 274.899414062 c 0
- 493.568359375 274.899414062 487.13671875 272.4921875 482.322265625 267.677734375 c 2
+ 87.13671875 272.4921875 93.568359375 274.899414062 100 274.899414062 c 0
+ 106.431640625 274.899414062 112.86328125 272.4921875 117.677734375 267.677734375 c 2
  300 85.35546875 l 1
- 117.677734375 267.677734375 l 2
- 112.86328125 272.4921875 106.431640625 274.899414062 100 274.899414062 c 0
- 93.568359375 274.899414062 87.13671875 272.4921875 82.322265625 267.677734375 c 0
+ 482.322265625 267.677734375 l 2
+ 487.13671875 272.4921875 493.568359375 274.899414062 500 274.899414062 c 0
+ 506.431640625 274.899414062 512.86328125 272.4921875 517.677734375 267.677734375 c 0
+ 522.4921875 262.86328125 524.899414062 256.431640625 524.899414062 250 c 0
+ 524.899414062 243.568359375 522.4921875 237.13671875 517.677734375 232.322265625 c 2
+ 317.677734375 32.322265625 l 2
+ 313.568099252 28.2126305018 306.676505009 25.4156078747 299.521978878 25.4156078747 c 0
+ 293.468331221 25.4156078747 287.226441882 27.4180893684 282.322265625 32.322265625 c 2
+ 82.322265625 232.322265625 l 2
+ 77.5078125 237.13671875 75.1005859375 243.568359375 75.1005859375 250 c 0
+ 75.1005859375 256.431640625 77.5078125 262.86328125 82.322265625 267.677734375 c 0
 82.322265625 467.677734375 m 0
- 77.5078125 462.86328125 75.1005859375 456.431640625 75.1005859375 450 c 0
- 75.1005859375 443.568359375 77.5078125 437.13671875 82.322265625 432.322265625 c 2
- 282.322265625 232.322265625 l 2
- 287.226441882 227.418089368 293.468331221 225.415607874 299.521978878 225.415607874 c 0
- 306.676505009 225.415607874 313.568099252 228.212630502 317.677734375 232.322265625 c 2
- 517.677734375 432.322265625 l 2
- 522.4921875 437.13671875 524.899414062 443.568359375 524.899414062 450 c 0
- 524.899414062 456.431640625 522.4921875 462.86328125 517.677734375 467.677734375 c 0
- 512.86328125 472.4921875 506.431640625 474.899414062 500 474.899414062 c 0
- 493.568359375 474.899414062 487.13671875 472.4921875 482.322265625 467.677734375 c 2
+ 87.13671875 472.4921875 93.568359375 474.899414062 100 474.899414062 c 0
+ 106.431640625 474.899414062 112.86328125 472.4921875 117.677734375 467.677734375 c 2
  300 285.35546875 l 1
- 117.677734375 467.677734375 l 2
- 112.86328125 472.4921875 106.431640625 474.899414062 100 474.899414062 c 0
- 93.568359375 474.899414062 87.13671875 472.4921875 82.322265625 467.677734375 c 0
+ 482.322265625 467.677734375 l 2
+ 487.13671875 472.4921875 493.568359375 474.899414062 500 474.899414062 c 0
+ 506.431640625 474.899414062 512.86328125 472.4921875 517.677734375 467.677734375 c 0
+ 522.4921875 462.86328125 524.899414062 456.431640625 524.899414062 450 c 0
+ 524.899414062 443.568359375 522.4921875 437.13671875 517.677734375 432.322265625 c 2
+ 317.677734375 232.322265625 l 2
+ 313.568099252 228.212630502 306.676505009 225.415607874 299.521978878 225.415607874 c 0
+ 293.468331221 225.415607874 287.226441882 227.418089368 282.322265625 232.322265625 c 2
+ 82.322265625 432.322265625 l 2
+ 77.5078125 437.13671875 75.1005859375 443.568359375 75.1005859375 450 c 0
+ 75.1005859375 456.431640625 77.5078125 462.86328125 82.322265625 467.677734375 c 0
 EndSplineSet
-Validated: 524297
 Ligature2: "Ligature Substitution lookup 76 subtable" p a n
 Ligature2: "Ligature Substitution lookup 54 subtable" p a n tp_space
 Ligature2: "tokiponaWords subtable" percent p a n space
@@ -6580,7 +6673,7 @@ SplineSet
  518.39639097 677.906941273 523.705154278 676.27316527 528.151080382 672.885793001 c 0
 EndSplineSet
 Refer: 45 60973 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 190 subtable" p a n a
 Ligature2: "Ligature Substitution lookup 121 subtable" p a n a tp_space
 Ligature2: "tokiponaWords subtable" percent p a n a space
@@ -6614,7 +6707,7 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0xd0
 EndSplineSet
-Validated: 8912897
+Validated: 1
 Ligature2: "Ligature Substitution lookup 34 subtable" p i
 Ligature2: "Ligature Substitution lookup 21 subtable" p i tp_space
 Ligature2: "tokiponaWords subtable" percent p i space
@@ -6661,11 +6754,11 @@ SplineSet
  149.142553136 425 125 378.992687941 125 330 c 0
  125 241.5364359 191.384881973 237.690716123 298.790393265 94.8283343522 c 1
 EndSplineSet
-Validated: 524289
-LCarets2: 6 0 0 0 0 0 0
+Validated: 1
 Ligature2: "Ligature Substitution lookup 242 subtable" p i l i n
 Ligature2: "Ligature Substitution lookup 229 subtable" p i l i n tp_space
 Ligature2: "tokiponaWords subtable" percent p i l i n space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_pimeja
@@ -6722,7 +6815,7 @@ SplineSet
  300 416.121501859 l 1
  265.07379537 349.44420211 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 263 subtable" p i m e j a
 Ligature2: "Ligature Substitution lookup 252 subtable" p i m e j a tp_space
 Ligature2: "tokiponaWords subtable" percent p i m e j a space
@@ -6766,7 +6859,7 @@ SplineSet
  100 425 l 2
  86.3828712355 425 75 436.382871236 75 450 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 191 subtable" p i n i
 Ligature2: "Ligature Substitution lookup 122 subtable" p i n i tp_space
 Ligature2: "tokiponaWords subtable" percent p i n i space
@@ -6814,17 +6907,19 @@ SplineSet
  174 500.537109375 156.462890625 483 135 483 c 0
  113.537109375 483 96 500.537109375 96 522 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 192 subtable" p i p i
 Ligature2: "Ligature Substitution lookup 123 subtable" p i p i tp_space
 Ligature2: "tokiponaWords subtable" percent p i p i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_poka
 Encoding: 61010 61010 82
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<125 475> 225 50<275.204 475> 455 20G<93.1914 106.809 493.191 506.809>
+VStem: 75 50<75 474.796> 475 50<75 225 275 474.796>
 LayerCount: 2
 Back
 SplineSet
@@ -6857,10 +6952,11 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 193 subtable" p o k a
 Ligature2: "Ligature Substitution lookup 124 subtable" p o k a tp_space
 Ligature2: "tokiponaWords subtable" percent p o k a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_poki
@@ -6892,7 +6988,7 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 194 subtable" p o k i
 Ligature2: "Ligature Substitution lookup 125 subtable" p o k i tp_space
 Ligature2: "tokiponaWords subtable" percent p o k i space
@@ -6903,15 +6999,28 @@ StartChar: tp_pona
 Encoding: 61012 61012 84
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 5 50<201.394 351.336> 454 21G<93.1914 106.809 93.1914 106.809 453.191 466.809 453.191 466.809>
 VStem: 75 50<143.631 474.796> 435 50<145.974 474.796>
 LayerCount: 2
 Back
 Refer: 13 60941 S 1 0 0 -1 0 500 2
 Fore
-Refer: 13 60941 N 1 0 0 -1 0 500 2
-Validated: 25
+SplineSet
+100 475 m 0xb8
+ 113.6171875 475 125 463.6171875 125 450 c 2
+ 125 250 l 2
+ 125 148.3515625 177.420898438 55 269 55 c 0
+ 380.663085938 55 435 144.739257812 435 250 c 2
+ 435 450 l 2
+ 435 463.6171875 446.3828125 475 460 475 c 0
+ 473.6171875 475 485 463.6171875 485 450 c 2
+ 485 250 l 2
+ 485 129.260742188 416.782226562 5 269 5 c 0
+ 135.360351562 5 75 137.6484375 75 250 c 2
+ 75 450 l 2
+ 75 463.6171875 86.3828125 475 100 475 c 0xb8
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 195 subtable" p o n a
 Ligature2: "Ligature Substitution lookup 126 subtable" p o n a tp_space
 Ligature2: "tokiponaWords subtable" percent p o n a space
@@ -7039,7 +7148,7 @@ SplineSet
  293.070843855 95.337890625 286.864783976 208.013754736 286.763340725 210.149026186 c 0
  286.950319141 222.321789029 296.411632206 234.84921058 310.586089957 235.522615862 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 35 subtable" p u
 Ligature2: "Ligature Substitution lookup 22 subtable" p u tp_space
 Ligature2: "tokiponaWords subtable" percent p u space
@@ -7050,31 +7159,31 @@ Encoding: 61014 61014 86
 Width: 500
 VWidth: 0
 Flags: W
-HStem: 155 50<75.2041 424.796> 305 50<75.2041 424.796>
+HStem: 150 50<75.2041 424.796> 300 50<75.2041 424.796>
 LayerCount: 2
 Back
 SplineSet
-400 330 m 5
- 100 330 l 1029
-400 180 m 5
- 100 180 l 1029
+400 325 m 5
+ 100 325 l 1029
+400 175 m 1
+ 100 175 l 1025
 EndSplineSet
 Fore
 SplineSet
-425 330 m 0
- 425 316.382871236 413.617128764 305 400 305 c 2
- 100 305 l 2
- 86.3828712355 305 75 316.382871236 75 330 c 0
- 75 343.617128764 86.3828712355 355 100 355 c 2
- 400 355 l 2
- 413.617128764 355 425 343.617128764 425 330 c 0
-425 180 m 0
- 425 166.382871236 413.617128764 155 400 155 c 2
- 100 155 l 2
- 86.3828712355 155 75 166.382871236 75 180 c 0
- 75 193.617128764 86.3828712355 205 100 205 c 2
- 400 205 l 2
- 413.617128764 205 425 193.617128764 425 180 c 0
+425 325 m 0
+ 425 311.3828125 413.6171875 300 400 300 c 2
+ 100 300 l 2
+ 86.3828125 300 75 311.3828125 75 325 c 0
+ 75 338.6171875 86.3828125 350 100 350 c 2
+ 400 350 l 2
+ 413.6171875 350 425 338.6171875 425 325 c 0
+425 175 m 0
+ 425 161.3828125 413.6171875 150 400 150 c 2
+ 100 150 l 2
+ 86.3828125 150 75 161.3828125 75 175 c 0
+ 75 188.6171875 86.3828125 200 100 200 c 2
+ 400 200 l 2
+ 413.6171875 200 425 188.6171875 425 175 c 0
 EndSplineSet
 Ligature2: "Ligature Substitution lookup 196 subtable" s a m a
 Ligature2: "Ligature Substitution lookup 127 subtable" s a m a tp_space
@@ -7176,7 +7285,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 198 subtable" s e l o
 Ligature2: "Ligature Substitution lookup 129 subtable" s e l o tp_space
 Ligature2: "tokiponaWords subtable" percent s e l o space
@@ -7233,7 +7342,7 @@ SplineSet
  116.211366647 507.606537239 107.99577384 503.161339943 99.4393842991 503.161339943 c 0
  95.213107119 503.161339943 90.9036860601 504.24583081 86.9075823128 506.702380436 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 199 subtable" s e m e
 Ligature2: "Ligature Substitution lookup 130 subtable" s e m e tp_space
 Ligature2: "tokiponaWords subtable" percent s e m e space
@@ -7243,7 +7352,9 @@ StartChar: tp_sewi
 Encoding: 61018 61018 90
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<75.2041 130.173 266.563 350.663> 455 20G<393.191 406.809>
+VStem: 170.012 49.9414<149.87 273.781> 375 50<100.724 474.796>
 LayerCount: 2
 Back
 SplineSet
@@ -7272,7 +7383,8 @@ SplineSet
  183.333363354 76.4671062271 155.854026389 25 100 25 c 0
  86.3828712355 25 75 36.3828712355 75 50 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 200 subtable" s e w i
 Ligature2: "Ligature Substitution lookup 131 subtable" s e w i tp_space
 Ligature2: "tokiponaWords subtable" percent s e w i space
@@ -7315,7 +7427,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 264 subtable" s i j e l o
 Ligature2: "Ligature Substitution lookup 253 subtable" s i j e l o tp_space
 Ligature2: "tokiponaWords subtable" percent s i j e l o space
@@ -7353,7 +7465,7 @@ SplineSet
  241.890625 320 210 288.109375 210 250 c 0
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 201 subtable" s i k e
 Ligature2: "Ligature Substitution lookup 132 subtable" s i k e tp_space
 Ligature2: "tokiponaWords subtable" percent s i k e space
@@ -7399,7 +7511,7 @@ SplineSet
  325 300 l 2
  325 286.382871236 313.617128764 275 300 275 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 77 subtable" s i n
 Ligature2: "Ligature Substitution lookup 55 subtable" s i n tp_space
 Ligature2: "tokiponaWords subtable" percent s i n space
@@ -7410,14 +7522,28 @@ Encoding: 61022 61022 94
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 5 50<211.393 369.138> 445 50<212.562 371.207>
+HStem: 5 50<211.393 369.138> 445 50<212.562 371.207> 605 20G<93.1914 106.809>
 VStem: 75 50<154.117 346.639 409.885 624.796> 455 50<146.095 353.467>
 LayerCount: 2
 Back
 Refer: 52 60980 S 1 0 0 -1 0 500 2
 Fore
-Refer: 52 60980 N 1 0 0 -1 0 500 2
-Validated: 25
+SplineSet
+125 250 m 0
+ 125 143.798828125 190.090820312 55 287 55 c 0
+ 392.202148438 55 455 137.268554688 455 250 c 0
+ 455 362.1875 393.766601562 445 290 445 c 0
+ 191.65234375 445 125 356.741210938 125 250 c 0
+75 250 m 2
+ 75 600 l 2
+ 75 613.6171875 86.3828125 625 100 625 c 0
+ 113.6171875 625 125 613.6171875 125 600 c 2
+ 125 409.884765625 l 1
+ 162.1171875 460.823242188 218.59375 495 290 495 c 0
+ 428.233398438 495 505 379.8203125 505 250 c 0
+ 505 118.723632812 425.797851562 5 287 5 c 0
+ 153.909179688 5 75 126.192382812 75 250 c 2
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 202 subtable" s i n a
 Ligature2: "Ligature Substitution lookup 133 subtable" s i n a tp_space
 Ligature2: "tokiponaWords subtable" percent s i n a space
@@ -7464,7 +7590,7 @@ SplineSet
  80 425 l 2
  66.3828125 425 55 436.3828125 55 450 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 265 subtable" s i n p i n
 Ligature2: "Ligature Substitution lookup 254 subtable" s i n p i n tp_space
 Ligature2: "tokiponaWords subtable" percent s i n p i n space
@@ -7582,7 +7708,7 @@ SplineSet
  454.533764341 535.253439514 446.238938582 531.079595368 437.829804237 531.079595368 c 0
  433.338196508 531.079595368 428.813976594 532.270391149 424.788983504 534.775743991 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 203 subtable" s o n a
 Ligature2: "Ligature Substitution lookup 134 subtable" s o n a tp_space
 Ligature2: "tokiponaWords subtable" percent s o n a space
@@ -7609,7 +7735,17 @@ Refer: 153 -1 N 1 0 0 1 360 250 2
 Refer: 153 -1 N 1 0 0 1 188 250 2
 Fore
 SplineSet
-75 450 m 0xfa
+149 250 m 0xf2
+ 149 271.462890625 166.537109375 289 188 289 c 0
+ 209.462890625 289 227 271.462890625 227 250 c 0
+ 227 228.537109375 209.462890625 211 188 211 c 0
+ 166.537109375 211 149 228.537109375 149 250 c 0xf2
+321 250 m 0xf6
+ 321 271.462890625 338.537109375 289 360 289 c 0
+ 381.462890625 289 399 271.462890625 399 250 c 0
+ 399 228.537109375 381.462890625 211 360 211 c 0
+ 338.537109375 211 321 228.537109375 321 250 c 0xf6
+75 450 m 0
  75 463.617128764 86.3828712355 475 100 475 c 2
  300 475 l 2
  440.985795201 475 545 397.428000818 545 250 c 0
@@ -7617,26 +7753,25 @@ SplineSet
  325 -100 l 2
  325 -113.617128764 313.617128764 -125 300 -125 c 0
  286.382871236 -125 275 -113.617128764 275 -100 c 2
- 275 50 l 2
+ 275 50 l 2xfa
  275 62.0136197368 284.55957125 74.2415850701 299.280742107 74.9959447143 c 0
  307.596572206 75.0454201432 495 77.9985671263 495 250 c 0
  495 366.942950688 421.776454751 425 300 425 c 2
  100 425 l 2
- 86.3828712355 425 75 436.382871236 75 450 c 0xfa
+ 86.3828712355 425 75 436.382871236 75 450 c 0
 EndSplineSet
-Refer: 153 -1 N 1 0 0 1 360 250 2
-Refer: 153 -1 N 1 0 0 1 188 250 2
-LCarets2: 7 0 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 266 subtable" s o w e l i
 Ligature2: "Ligature Substitution lookup 255 subtable" s o w e l i tp_space
 Ligature2: "tokiponaWords subtable" percent s o w e l i space
+LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_suli
 Encoding: 61027 61027 99
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 5.08586 21G<295.689 302.455> 425 50<121.317 478.683>
 LayerCount: 2
 Back
 SplineSet
@@ -7664,7 +7799,7 @@ SplineSet
  291.175430561 5.0858551224 282.30224688 9.90812145173 277.854211618 18.3998251332 c 2
  57.854211618 438.399825133 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 204 subtable" s u l i
 Ligature2: "Ligature Substitution lookup 135 subtable" s u l i tp_space
 Ligature2: "tokiponaWords subtable" percent s u l i space
@@ -7725,7 +7860,7 @@ SplineSet
  255 450 l 2
  255 463.6171875 266.3828125 475 280 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 205 subtable" s u n o
 Ligature2: "Ligature Substitution lookup 136 subtable" s u n o tp_space
 Ligature2: "tokiponaWords subtable" percent s u n o space
@@ -7736,40 +7871,41 @@ StartChar: tp_supa
 Encoding: 61029 61029 101
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 75 21G<223.191 236.809 373.191 386.809> 300 50<75.2041 205 255 355 405 524.796>
+VStem: 205 50<75.2041 300> 355 50<75.2041 300>
 LayerCount: 2
 Back
 SplineSet
-380 350 m 5
+500 325 m 5
+ 100 325 l 1029
+380 325 m 5
  380 100 l 1029
-100 350 m 5
- 500 350 l 1029
 230 100 m 5
- 230 350 l 1029
+ 230 325 l 1029
 EndSplineSet
 Fore
 SplineSet
 230 75 m 0
  216.382871236 75 205 86.3828712355 205 100 c 2
- 205 325 l 1
- 100 325 l 2
- 86.3828712355 325 75 336.382871236 75 350 c 0
- 75 363.617128764 86.3828712355 375 100 375 c 2
- 230 375 l 1
- 380 375 l 1
- 500 375 l 2
- 513.617128764 375 525 363.617128764 525 350 c 0
- 525 336.382871236 513.617128764 325 500 325 c 2
- 405 325 l 1
+ 205 300 l 1
+ 100 300 l 2
+ 86.3828712355 300 75 311.382871236 75 325 c 0
+ 75 338.617128764 86.3828712355 350 100 350 c 2
+ 230 350 l 1
+ 380 350 l 1
+ 500 350 l 2
+ 513.617128764 350 525 338.617128764 525 325 c 0
+ 525 311.382871236 513.617128764 300 500 300 c 2
+ 405 300 l 1
  405 100 l 2
  405 86.3828712355 393.617128764 75 380 75 c 0
  366.382871236 75 355 86.3828712355 355 100 c 2
- 355 325 l 1
- 255 325 l 1
+ 355 300 l 1
+ 255 300 l 1
  255 100 l 2
  255 86.3828712355 243.617128764 75 230 75 c 0
 EndSplineSet
-Validated: 524289
 Ligature2: "Ligature Substitution lookup 206 subtable" s u p a
 Ligature2: "Ligature Substitution lookup 137 subtable" s u p a tp_space
 Ligature2: "tokiponaWords subtable" percent s u p a space
@@ -7820,10 +7956,10 @@ SplineSet
  93.2478333608 262.802359098 77.4626310909 259.645318644 66.1324950944 267.198742642 c 0
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 300 136 2
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 207 subtable" s u w i
 Ligature2: "Ligature Substitution lookup 138 subtable" s u w i tp_space
 Ligature2: "tokiponaWords subtable" percent s u w i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_tan
@@ -7867,7 +8003,7 @@ SplineSet
  53.3636739939 192.482704097 52.0829823988 197.177208973 52.0829823988 201.840556151 c 0
  52.0829823988 210.071105784 56.0723746305 218.204598262 63.3559200459 222.948486394 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Ligature2: "Ligature Substitution lookup 78 subtable" t a n
 Ligature2: "Ligature Substitution lookup 56 subtable" t a n tp_space
 Ligature2: "tokiponaWords subtable" percent t a n space
@@ -7904,7 +8040,7 @@ SplineSet
  80 225 l 2
  66.3828712355 225 55 236.382871236 55 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 208 subtable" t a s o
 Ligature2: "Ligature Substitution lookup 139 subtable" t a s o tp_space
 Ligature2: "tokiponaWords subtable" percent t a s o space
@@ -7915,8 +8051,8 @@ StartChar: tp_tawa
 Encoding: 61033 61033 105
 Width: 600
 VWidth: 0
-Flags: HW
-HStem: 25 50<121.317 324.796>
+Flags: W
+HStem: 25 50<121.317 324.796> 474.914 20G<295.689 302.455>
 LayerCount: 2
 Back
 SplineSet
@@ -7946,7 +8082,7 @@ SplineSet
  300 75 l 2
  313.617128764 75 325 63.6171287645 325 50 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 209 subtable" t a w a
 Ligature2: "Ligature Substitution lookup 140 subtable" t a w a tp_space
 Ligature2: "tokiponaWords subtable" percent t a w a space
@@ -7957,9 +8093,9 @@ StartChar: tp_telo
 Encoding: 61034 61034 106
 Width: 600
 VWidth: 0
-Flags: HW
-HStem: 25 50<359.781 442.71> 175 50<157.367 239.788> 275 50<359.781 442.71> 425 50<157.367 239.788>
-VStem: 74.9989 50.0011<25.2199 49.2508 275.22 299.251> 475 50.0011<200.749 224.741 450.749 474.741>
+Flags: W
+HStem: 25 50<359.781 442.71> 25 21G<92.8915 106.8> 175 50<157.367 239.788> 275 50<359.781 442.71> 425 50<157.367 239.788>
+VStem: 74.9989 50.0011<25.2157 49.2508 275.218 299.251> 475 50.0011<200.749 224.741 450.749 474.741>
 LayerCount: 2
 Back
 SplineSet
@@ -7976,7 +8112,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-74.998878849 49.2507998539 m 1
+74.998878849 49.2507998539 m 1x7e
  74.998878849 49.2507998539 69.5986837141 225 200 225 c 0
  271.06499214 225 320.785880076 138.890544577 320.785880076 138.890544577 c 2
  323.320137516 135.117526971 370.756530594 75 400 75 c 0
@@ -7984,12 +8120,12 @@ SplineSet
  475.019830354 213.641647814 486.399433109 224.9999994 500.000825349 224.9999994 c 0
  500.036390063 224.999973515 l 0
  513.073250191 224.980997009 524.114187772 215.181808731 525.001121151 200.749200146 c 1
- 525.001121151 200.749200146 530.913258848 25 400 25 c 0
+ 525.001121151 200.749200146 530.913258848 25 400 25 c 0xbe
  329.979107023 25 279.230838165 111.084448972 279.230838165 111.084448972 c 2
  277.354033158 113.878647473 229.529720891 175 200 175 c 0
  131.599371032 175 125.029600605 60.0960747921 124.999973515 49.9636099367 c 0
  124.980169646 36.358352186 113.600566891 25.0000006 99.9991746508 25.0000006 c 0
- 85.7838501693 25.0000006 75.7460023426 37.0932452866 74.998878849 49.2507998539 c 1
+ 85.7838501693 25.0000006 75.7460023426 37.0932452866 74.998878849 49.2507998539 c 1x7e
 74.998878849 299.250799854 m 1
  74.998878849 299.250799854 69.5986837141 475 200 475 c 0
  271.06499214 475 320.785880076 388.890544577 320.785880076 388.890544577 c 2
@@ -8005,7 +8141,8 @@ SplineSet
  124.980169646 286.358352186 113.600566891 275.0000006 99.9991746507 275.0000006 c 0
  85.7834919489 275.010347067 75.7464832202 287.085420213 74.998878849 299.250799854 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
+LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 210 subtable" t e l o
 Ligature2: "Ligature Substitution lookup 141 subtable" t e l o tp_space
 Ligature2: "tokiponaWords subtable" percent t e l o space
@@ -8045,7 +8182,7 @@ SplineSet
  505 118.405273438 417.073242188 5 280 5 c 0
  142.926757812 5 55 118.405273438 55 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 243 subtable" t e n p o
 Ligature2: "Ligature Substitution lookup 230 subtable" t e n p o tp_space
 Ligature2: "tokiponaWords subtable" percent t e n p o space
@@ -8104,7 +8241,7 @@ SplineSet
  495.093785891 680.933683222 499.026082749 680.029521356 502.655976918 678.116469024 c 0
 EndSplineSet
 Refer: 12 60940 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 211 subtable" t o k i
 Ligature2: "Ligature Substitution lookup 142 subtable" t o k i tp_space
 Ligature2: "tokiponaWords subtable" percent t o k i space
@@ -8115,7 +8252,9 @@ StartChar: tp_tomo
 Encoding: 61037 61037 109
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 25 50<125 475> 474.632 20G<296.353 303.274>
+VStem: 75 50<75 240.335> 475 50<75 240.335>
 LayerCount: 2
 Back
 SplineSet
@@ -8147,10 +8286,11 @@ SplineSet
  125 240.334828132 l 1
  125 75 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 212 subtable" t o m o
 Ligature2: "Ligature Substitution lookup 143 subtable" t o m o tp_space
 Ligature2: "tokiponaWords subtable" percent t o m o space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_tu
@@ -8185,7 +8325,7 @@ SplineSet
  225 450 l 2
  225 463.6171875 236.3828125 475 250 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 36 subtable" t u
 Ligature2: "Ligature Substitution lookup 23 subtable" t u tp_space
 Ligature2: "tokiponaWords subtable" percent t u space
@@ -8245,7 +8385,7 @@ SplineSet
  261.95349867 25 173 35.5103440304 173 192 c 0
  173 193 173.005192551 192.423417822 173.005192551 193.758678918 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 213 subtable" u n p a
 Ligature2: "Ligature Substitution lookup 144 subtable" u n p a tp_space
 Ligature2: "tokiponaWords subtable" percent u n p a space
@@ -8285,7 +8425,7 @@ SplineSet
  525 250 l 2
  525 128.200481977 424.602071094 5 300 5 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 79 subtable" u t a
 Ligature2: "Ligature Substitution lookup 57 subtable" u t a tp_space
 Ligature2: "tokiponaWords subtable" percent u t a space
@@ -8343,7 +8483,7 @@ SplineSet
  76.6874819139 439.416690782 75.0921933602 444.662226041 75.0921933602 449.883018926 c 0
  75.0921933602 457.539235094 78.5229877699 465.142240827 85 470 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 244 subtable" u t a l a
 Ligature2: "Ligature Substitution lookup 231 subtable" u t a l a tp_space
 Ligature2: "tokiponaWords subtable" percent u t a l a space
@@ -8401,7 +8541,7 @@ SplineSet
  300 416.121501859 l 1
  121.31730855 75 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 214 subtable" w a l o
 Ligature2: "Ligature Substitution lookup 145 subtable" w a l o tp_space
 Ligature2: "tokiponaWords subtable" percent w a l o space
@@ -8439,7 +8579,7 @@ SplineSet
  72.86328125 327.5078125 66.431640625 325.100585938 60 325.100585938 c 0
  53.568359375 325.100585938 47.13671875 327.5078125 42.322265625 332.322265625 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 80 subtable" w a n
 Ligature2: "Ligature Substitution lookup 58 subtable" w a n tp_space
 Ligature2: "tokiponaWords subtable" percent w a n space
@@ -8479,10 +8619,10 @@ SplineSet
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 139 251 2
 Refer: 153 -1 N 1 0 0 1 311 251 2
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 215 subtable" w a s o
 Ligature2: "Ligature Substitution lookup 146 subtable" w a s o tp_space
 Ligature2: "tokiponaWords subtable" percent w a s o space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_wawa
@@ -8586,25 +8726,45 @@ SplineSet
  57.3223304703 407.32233047 l 2
  47.6935663807 416.95109456 47.6935663807 433.04890544 57.3223304703 442.67766953 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 217 subtable" w e k a
 Ligature2: "Ligature Substitution lookup 148 subtable" w e k a tp_space
 Ligature2: "tokiponaWords subtable" percent w e k a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_wile
 Encoding: 61047 61047 119
 Width: 600
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 25 50<148.744 243.424 344.593 454.694>
 VStem: 75 50<100.254 237.291> 475 50<95.131 220.85>
 LayerCount: 2
 Back
 Refer: 78 61006 S 1 0 0 -1 0 500 2
 Fore
-Refer: 78 61006 N 1 0 0 -1 0 500 2
-Validated: 25
+SplineSet
+279.283203125 463.993164062 m 0
+ 280.603515625 465.948242188 283.258789062 468.827148438 285.828125 470.594726562 c 0
+ 290.078125 473.51953125 294.965820312 474.90625 299.818359375 474.90625 c 0
+ 308.482421875 474.90625 317.033203125 470.487304688 321.643554688 462.512695312 c 0
+ 389.284179688 345.51171875 525 274.487304688 525 170 c 0
+ 525 85.3515625 482.771484375 25 392 25 c 0
+ 343.072265625 25 313.192382812 51.8447265625 295.721679688 78.625 c 1
+ 277.266601562 55.88671875 243.70703125 25 196 25 c 0
+ 106.857421875 25 75 110.993164062 75 170 c 0
+ 75 299.52734375 178.944335938 315.436523438 279.283203125 463.993164062 c 0
+298.790039062 405.171875 m 1
+ 191.384765625 262.309570312 125 258.463867188 125 170 c 0
+ 125 121.006835938 149.142578125 75 196 75 c 0
+ 242.721679688 75 274.876953125 137.095703125 277.576171875 143.087890625 c 0
+ 282.532226562 152.279296875 291.176757812 157.037109375 299.985351562 157.037109375 c 0
+ 304.024414062 157.037109375 308.09765625 156.036132812 311.866210938 154.004882812 c 0
+ 318.396484375 150.482421875 323.14453125 143.205078125 324.396484375 137.463867188 c 0
+ 325.817382812 130.736328125 340.107421875 75 392 75 c 0
+ 453.228515625 75 475 102.6484375 475 170 c 0
+ 475 227.088867188 378.848632812 288.838867188 298.790039062 405.171875 c 1
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 218 subtable" w i l e
 Ligature2: "Ligature Substitution lookup 149 subtable" w i l e tp_space
 Ligature2: "tokiponaWords subtable" percent w i l e space
@@ -8671,7 +8831,7 @@ SplineSet
  162.863287485 27.5079484255 156.431643743 25.1007574031 150 25.1007574031 c 0
  143.568356257 25.1007574031 137.136712515 27.5079484255 132.32233047 32.3223304703 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 235 subtable" a p e j a
 Ligature2: "Ligature Substitution lookup 222 subtable" a p e j a tp_space
 EndChar
@@ -8719,7 +8879,7 @@ SplineSet
  118.021493303 130.141287169 109.020536191 125.06204636 99.798134457 125.06204636 c 0
  96.0774970474 125.06204636 92.3208173991 125.888741582 88.8196601125 127.639320225 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 273 subtable" m o n s u t a
 Ligature2: "Ligature Substitution lookup 269 subtable" m o n s u t a tp_space
 EndChar
@@ -8784,24 +8944,43 @@ SplineSet
  475 152.609116911 452.607270585 175 425 175 c 0
  397.390883089 175 375 152.607270585 375 125 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 258 subtable" k i p i s i
 Ligature2: "Ligature Substitution lookup 247 subtable" k i p i s i tp_space
 EndChar
 
 StartChar: tp_kin
 Encoding: 61051 61051 123
-Width: 400
+Width: 380
 VWidth: 0
 Flags: W
-HStem: 15 50<136.008 235.992> 208.744 48.2558<176.826 189.493> 425 50<75.204 235.263>
-VStem: 65 50<86.0075 185.992> 257 50<86.0075 185.992>
+HStem: 15 50<136.008 235.992> 425 50<75.2041 235.263>
+VStem: 65 50<86.0075 186.406> 257 50<86.0075 186.267>
 LayerCount: 2
 Back
 Refer: 0 60928 S -1 0 0 1 372 0 2
 Fore
-Refer: 0 60928 N -1 0 0 1 372 0 2
-Validated: 25
+SplineSet
+257 136 m 0
+ 257 175.193359375 225.192382812 207 186 207 c 0
+ 146.806640625 207 115 175.192382812 115 136 c 0
+ 115 96.806640625 146.807617188 65 186 65 c 0
+ 225.193359375 65 257 96.8076171875 257 136 c 0
+168.491210938 255.741210938 m 1
+ 235.262695312 425 l 1
+ 100 425 l 2
+ 86.3828125 425 75 436.3828125 75 450 c 0
+ 75 463.6171875 86.3828125 475 100 475 c 2
+ 272 475 l 2
+ 273.80859375 475 276.950195312 474.629882812 279.321289062 473.904296875 c 0
+ 290.05078125 470.6171875 296.955078125 460.4453125 296.955078125 449.780273438 c 0
+ 296.955078125 446.787109375 296.411132812 443.754882812 295.255859375 440.826171875 c 2
+ 220.739257812 251.935546875 l 1
+ 270.625 237 307 190.733398438 307 136 c 0
+ 307 69.1923828125 252.806640625 15 186 15 c 0
+ 119.192382812 15 65 69.193359375 65 136 c 0
+ 65 196.861328125 109.975585938 247.252929688 168.491210938 255.741210938 c 1
+EndSplineSet
 Ligature2: "Ligature Substitution lookup 69 subtable" k i n
 Ligature2: "Ligature Substitution lookup 47 subtable" k i n tp_space
 Ligature2: "tokiponaWords subtable" percent k i n space
@@ -8812,45 +8991,31 @@ StartChar: tp_oko
 Encoding: 61052 61052 124
 Width: 400
 VWidth: 0
-Flags: HW
-HStem: 200 100<259.227 340.773>
-VStem: 250 100<209.227 290.773>
+Flags: W
+HStem: 211 78<265.281 334.719>
+VStem: 261 78<215.281 284.719>
 LayerCount: 2
 Back
 SplineSet
-275 250 m 4
- 275 263.799804688 286.200195312 275 300 275 c 4
- 313.799804688 275 325 263.799804688 325 250 c 4
- 325 236.200195312 313.799804688 225 300 225 c 4
- 286.200195312 225 275 236.200195312 275 250 c 4
 286 450 m 29
  80 250 l 29
  280 50 l 1053
 EndSplineSet
+Refer: 153 -1 S 1 0 0 1 300 250 2
 Fore
 SplineSet
 303.936957279 467.41452163 m 0
- 308.586048088 462.625958096 310.899338352 456.317704133 310.899338352 450.01295543 c 0
- 310.899338352 443.454272686 308.395952373 436.899383248 303.41452163 432.063042721 c 2
+ 313.422388615 457.644527353 313.184515906 441.548474058 303.41452163 432.063042721 c 2
  115.618515693 249.736823366 l 1
  297.67766953 67.6776695297 l 2
- 302.492051575 62.8632874848 304.899242597 56.4316437424 304.899242597 50 c 0
- 304.899242597 43.5683562576 302.492051575 37.1367125152 297.67766953 32.3223304703 c 0
- 292.863287485 27.5079484255 286.431643743 25.1007574031 280 25.1007574031 c 0
- 273.568356257 25.1007574031 267.136712515 27.5079484255 262.32233047 32.3223304703 c 2
+ 307.306433619 58.04890544 307.306433619 41.95109456 297.67766953 32.3223304703 c 0
+ 288.04890544 22.6935663807 271.95109456 22.6935663807 262.32233047 32.3223304703 c 2
  62.3223304703 232.32233047 l 2
- 58.0570763857 236.587584555 55.3659027469 243.371741102 55.3659027469 250.364315903 c 0
- 55.3659027469 256.602892179 57.5079964135 263.007363146 62.5854783704 267.936957279 c 2
+ 54.2517380516 240.392922889 51.8168465721 257.48197495 62.5854783704 267.936957279 c 2
  268.58547837 467.936957279 l 2
- 273.374041904 472.586048088 279.682295867 474.899338352 285.98704457 474.899338352 c 0
- 292.545727314 474.899338352 299.100616752 472.395952373 303.936957279 467.41452163 c 0
-250 250 m 0
- 250 277.607900865 272.39097549 300 300 300 c 0
- 327.607900865 300 350 277.60902451 350 250 c 0
- 350 222.392099135 327.60902451 200 300 200 c 0
- 272.392099135 200 250 222.39097549 250 250 c 0
+ 278.355472647 477.422388615 294.451525942 477.184515906 303.936957279 467.41452163 c 0
 EndSplineSet
-Validated: 524289
+Refer: 153 -1 N 1 0 0 1 300 250 2
 Ligature2: "Ligature Substitution lookup 74 subtable" o k o
 Ligature2: "Ligature Substitution lookup 52 subtable" o k o tp_space
 Ligature2: "tokiponaWords subtable" percent o k o space
@@ -8905,7 +9070,7 @@ SplineSet
  325 50 l 2
  325 36.3828712355 313.617128764 25 300 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 260 subtable" n a m a k o
 Ligature2: "Ligature Substitution lookup 249 subtable" n a m a k o tp_space
 Ligature2: "tokiponaWords subtable" percent n a m a k o space
@@ -8915,34 +9080,36 @@ StartChar: tp_pake
 Encoding: 61054 61054 126
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 300 50<75.2041 225 275 424.796>
+VStem: 225 50<125.204 300>
 LayerCount: 2
 Back
 SplineSet
-250 50 m 5
- 250 450 l 1028
-100 450 m 29
- 400 450 l 1053
+400 325 m 5
+ 100 325 l 1029
+250 150 m 1
+ 250 325 l 1024
 EndSplineSet
 Fore
 SplineSet
-75 450 m 0
- 75 463.617128764 86.3828712355 475 100 475 c 2
- 249.999999728 475 l 1
- 400 475 l 2
- 413.617128764 475 425 463.617128764 425 450 c 0
- 425 436.382871236 413.617128764 425 400 425 c 2
- 275 425 l 1
- 275 50 l 2
- 275 36.3828712355 263.617128764 25 250 25 c 0
- 236.382871236 25 225 36.3828712355 225 50 c 2
- 225 425 l 1
- 100 425 l 2
- 86.3828712355 425 75 436.382871236 75 450 c 0
+250 125 m 0
+ 236.382871236 125 225 136.382871236 225 150 c 2
+ 225 300 l 1
+ 100 300 l 2
+ 86.3828712355 300 75 311.382871236 75 325 c 0
+ 75 338.617128764 86.3828712355 350 100 350 c 2
+ 250 350 l 1
+ 400 350 l 2
+ 413.617128764 350 425 338.617128764 425 325 c 0
+ 425 311.382871236 413.617128764 300 400 300 c 2
+ 275 300 l 1
+ 275 150 l 2
+ 275 136.382871236 263.617128764 125 250 125 c 0
 EndSplineSet
-Validated: 524289
 Ligature2: "Ligature Substitution lookup 188 subtable" p a k e
 Ligature2: "Ligature Substitution lookup 119 subtable" p a k e tp_space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_leko
@@ -8995,7 +9162,7 @@ SplineSet
  375 325 l 1
  225 325 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 167 subtable" l e k o
 Ligature2: "Ligature Substitution lookup 98 subtable" l e k o tp_space
 EndChar
@@ -9031,7 +9198,7 @@ SplineSet
  75 675.143467417 137.51331727 725 200 725 c 0
  213.617128764 725 225 713.617128764 225 700 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: tp_name_end
@@ -9039,26 +9206,26 @@ Encoding: 61057 61057 129
 Width: 200
 VWidth: 0
 Flags: W
-HStem: -224.016 50.002<-25.789 -0.509766 0.445312 47.5221> 675 50<-24.7959 51.338>
-VStem: 75 50<-146.407 -100 600 651.232>
+HStem: -224.016 50.002<-25.789 47.5221> 675 50<-24.7959 51.338>
+VStem: 75 50<-146.407 651.232>
 LayerCount: 2
 Back
 Refer: 128 61056 S -1 0 0 1 200 0 2
 Fore
 SplineSet
 -25 700 m 0
- -25 686.3828125 -13.6171875 675 0 675 c 0
- 37.513671875 675 75 644.856445312 75 600 c 2
- 75 -100 l 2
- 75 -134.9375 36.2001953125 -174.013671875 0.4453125 -174.013671875 c 0
- 0.126953125 -174.013671875 -0.19140625 -174.010742188 -0.509765625 -174.004882812 c 0
- -14.21875 -173.736328125 -26 -185.0390625 -26 -198.98828125 c 0
- -26 -212.395507812 -14.9443359375 -223.731445312 -1.490234375 -223.995117188 c 0
- -0.7958984375 -224.008789062 -0.103515625 -224.015625 0.5888671875 -224.015625 c 0
- 65.759765625 -224.015625 125 -164.0703125 125 -100 c 2
- 125 600 l 2
- 125 675.143554688 62.486328125 725 0 725 c 0
- -13.6171875 725 -25 713.6171875 -25 700 c 0
+ -25 713.6171875 -13.6171875 725 0 725 c 0
+ 62.486328125 725 125 675.143554688 125 600 c 2
+ 125 -100 l 2
+ 125 -164.0703125 65.759765625 -224.015625 0.5888671875 -224.015625 c 0
+ -0.103515625 -224.015625 -0.7958984375 -224.008789062 -1.490234375 -223.995117188 c 0
+ -14.9443359375 -223.731445312 -26 -212.395507812 -26 -198.98828125 c 0
+ -26 -185.0390625 -14.21875 -173.736328125 -0.509765625 -174.004882812 c 0
+ -0.19140625 -174.010742188 0.126953125 -174.013671875 0.4453125 -174.013671875 c 0
+ 36.2001953125 -174.013671875 75 -134.9375 75 -100 c 2
+ 75 600 l 2
+ 75 644.856445312 37.513671875 675 0 675 c 0
+ -13.6171875 675 -25 686.3828125 -25 700 c 0
 EndSplineSet
 EndChar
 
@@ -9132,7 +9299,7 @@ SplineSet
  162.479775462 219 88.7424056896 160.983284822 76.717121579 75 c 1
  423.375679685 75 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: NameMe.144
@@ -9165,7 +9332,7 @@ SplineSet
  775 430.231863101 630.23208997 575 450 575 c 0
  269.768136899 575 125 430.23208997 125 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: NameMe.137
@@ -9210,7 +9377,7 @@ SplineSet
  508 -227.607900865 485.60902451 -250 458 -250 c 0
  430.392099135 -250 408 -227.60902451 408 -200 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: NameMe.174
@@ -9247,7 +9414,7 @@ SplineSet
  89.2700956673 -125 75 -115.132537856 75 -100 c 2
  75 600 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: NameMe.185
@@ -9298,7 +9465,7 @@ SplineSet
  269.768136899 575 125 430.23208997 125 250 c 0
  125 69.7681368993 269.76791003 -75 450 -75 c 0
 EndSplineSet
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: NameMe.147
@@ -9372,7 +9539,7 @@ SplineSet
  440.262082756 -125 428 -139.067981264 428 -150 c 0
 EndSplineSet
 Refer: 133 -1 N 1 0 0 1 0 0 2
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: period
@@ -9416,7 +9583,7 @@ SplineSet
  118.438456588 -35.8735363702 109.380367577 -41.9276322382 99.5731429829 -41.9276322382 c 0
  96.4350381453 -41.9276322382 93.2202319449 -41.3077746127 90.0636692592 -39.9405608347 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: colon
@@ -9475,7 +9642,7 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0xdc
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" p_under
 MultipleSubs2: "Multiple Substitution lookup 328 subtable" p_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 299 subtable" tp_name_start p_under
@@ -9520,7 +9687,7 @@ SplineSet
  80 425 l 2
  66.3828712355 425 55 436.382871236 55 450 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "tokiponaLatin subtable" t_under
 MultipleSubs2: "Multiple Substitution lookup 330 subtable" t_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 301 subtable" tp_name_start t_under
@@ -9610,7 +9777,7 @@ SplineSet
  125 36.3828712355 113.617128764 25 100 25 c 0xe8
 EndSplineSet
 Refer: 153 -1 S 1 0 0 1 100 598 2
-Validated: 8912897
+Validated: 1
 Substitution2: "tokiponaLatin subtable" i_under
 MultipleSubs2: "Multiple Substitution lookup 321 subtable" i_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 292 subtable" tp_name_start i_under
@@ -9652,7 +9819,7 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Validated: 8912897
+Validated: 1
 Substitution2: "tokiponaLatin subtable" n_under
 MultipleSubs2: "Multiple Substitution lookup 326 subtable" n_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 297 subtable" tp_name_start n_under
@@ -9760,7 +9927,7 @@ SplineSet
  75.213107119 503.161339943 70.9036860601 504.24583081 66.9075823128 506.702380436 c 0xd8
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 205 49 2
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: tp_mi_alt
@@ -9796,7 +9963,7 @@ SplineSet
  86.3828712355 -125 75 -113.617128764 75 -100 c 2
  75 249.999997767 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: tp_dot
@@ -9823,7 +9990,7 @@ SplineSet
  39 -21.4628845799 21.4628845799 -39 0 -39 c 0
  -21.4628845799 -39 -39 -21.4628845799 -39 0 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: A_under
@@ -9831,8 +9998,8 @@ Encoding: 1114122 -1 154
 Width: 500
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 524.796> 25 21G<93.1914 106.809 393.191 406.809> 149 50<125 375> 425 50<175.825 317.237> 675 50<-24.7959 524.796>
-VStem: 75 50<25.2041 149 199 365.985> 375 50<25.2041 149 199 362.735>
+HStem: -225 50<-24.7959 524.796> 25 21G<93.1914 106.809 393.191 406.809> 149 50<125 375> 425 50<179.8 319.767> 675 50<-24.7959 524.796>
+VStem: 75 50<25.2041 149 199 366.748> 375 50<25.2041 149 199 366.692>
 LayerCount: 2
 Back
 SplineSet
@@ -9843,19 +10010,19 @@ SplineSet
 100 174 m 29
  400 174 l 1053
 100 50 m 5
- 100 50 100 109 100 265 c 7
- 100 397 171 450 242 450 c 31
- 312 450 400 408.00390625 400 265 c 7
- 400 109 400 50 400 50 c 1029
+ 100 50 100 129 100 285 c 7
+ 100 397 179 450 250 450 c 31
+ 320 450 400 397.00390625 400 285 c 7
+ 400 129 400 50 400 50 c 1029
 EndSplineSet
 Fore
 SplineSet
 100 25 m 0
  86.3828712355 25 75 36.3828712355 75 50 c 2
  75 174 l 1
- 75 265 l 2
- 75 407.306377243 155.893792205 475 242 475 c 0
- 323.031328424 475 425 421.924182338 425 265 c 2
+ 75 285 l 2
+ 75 411.070985003 166.53986456 475 250 475 c 0
+ 332.433561108 475 425 411.205948905 425 285 c 2
  425 174 l 1
  425 50 l 2
  425 36.3828712355 413.617128764 25 400 25 c 0
@@ -9879,9 +10046,9 @@ SplineSet
  500 -175 l 2
  513.617128764 -175 525 -186.382871236 525 -200 c 0
 375 199 m 1
- 375 265 l 2
- 375 394.083630162 300.968671576 425 242 425 c 0
- 186.106207795 425 125 386.693622757 125 265 c 2
+ 375 285 l 2
+ 375 382.801863595 307.566438892 425 250 425 c 0
+ 191.46013544 425 125 382.929014997 125 285 c 2
  125 199 l 1
  375 199 l 1
 EndSplineSet
@@ -10565,8 +10732,8 @@ Encoding: 1114136 -1 168
 Width: 500
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 524.796> 25 21G<93.1914 106.809 393.191 406.809> 149 50<125 375> 425 50<175.825 317.237> 675 50<-24.7959 524.796>
-VStem: 75 50<25.2041 149 199 365.985> 375 50<25.2041 149 199 362.735>
+HStem: -225 50<-24.7959 524.796> 25 21G<93.1914 106.809 393.191 406.809> 149 50<125 375> 425 50<179.8 319.767> 675 50<-24.7959 524.796>
+VStem: 75 50<25.2041 149 199 366.748> 375 50<25.2041 149 199 366.692>
 LayerCount: 2
 Back
 SplineSet
@@ -10584,7 +10751,7 @@ StartChar: e_under
 Encoding: 1114137 -1 169
 Width: 450
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -225 50<-24.7959 474.796> 25 50<125 380.796> 225 50<125 273.796> 425 50<125 374.796> 675 50<-24.7959 474.796>
 VStem: 75 50<75 225 275 425>
 LayerCount: 2
@@ -10625,8 +10792,8 @@ Encoding: 1114139 -1 171
 Width: 400
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 224.796> -71.0245 50.0236<-68.7819 39.963> 455 20G<93.1914 106.809> 559 78<65.2807 134.719> 675 50<-24.7959 224.796>
-VStem: 61 78<563.281 632.719> 75 50<11.1527 474.796>
+HStem: -225 50<-24.7959 424.796> 25 50<141.625 258.617> 455 20G<293.191 306.809> 675 50<-29.7959 424.796>
+VStem: 75 50<89.7291 192.796> 275 50<91.3553 474.796>
 LayerCount: 2
 Back
 SplineSet
@@ -10685,9 +10852,8 @@ Encoding: 1114142 -1 174
 Width: 600
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 624.796> 25 21G<93.1914 106.809 493.191 506.809> 425 50<162.175 248.842 360.523 445.602> 675 50<-24.7959 624.796>
-VStem: 75 50<25.2041 378.466 439.498 474.796> 275 50<50 381.086> 475 50<25.2041 391.625>
-CounterMasks: 1 0e
+HStem: -225 50<-24.7959 624.796> 25 21G<93.1914 106.809 493.191 506.809> 675 50<-24.7959 624.796>
+VStem: 75 50<25.2041 367.431> 475 50<25.2041 367.431>
 LayerCount: 2
 Back
 SplineSet
@@ -10746,8 +10912,8 @@ Encoding: 1114145 -1 177
 Width: 490
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 584.796> -125 21G<93.1914 106.809> 5 50<212.562 371.207> 445 50<210.835 369.138> 455 20G<93.1914 106.809> 675 50<-24.7959 584.796>
-VStem: 75 50<-124.796 90.1157 153.362 350.451 410.903 474.796> 455 50<146.533 353.905>
+HStem: -225 50<-24.7959 514.796> 25 21G<93.1914 106.809> 125 50<125 336.32> 425 50<125 325.036> 675 50<-24.7959 514.796>
+VStem: 75 50<25.2041 125 175 425> 375 50<213.2 373.438>
 LayerCount: 2
 Back
 SplineSet
@@ -10786,8 +10952,8 @@ Encoding: 1114147 -1 179
 Width: 500
 VWidth: 0
 Flags: W
-HStem: -225 50<-24.7959 384.796> 25.0116 49.9887<223.521 304.753> 425 50<55.2041 157 207 304.796> 605 20G<175.191 188.809> 675 50<-24.7959 384.796>
-VStem: 157 50<91.7473 425 475 624.796>
+HStem: -225 50<-24.7959 524.796> 425 50<75.2041 232.875 282.875 424.796> 675 50<-24.7959 524.796>
+VStem: 231 49.9994<25.2201 425>
 LayerCount: 2
 Back
 SplineSet
@@ -10828,7 +10994,7 @@ VWidth: 0
 Flags: W
 HStem: -225 50<-24.7959 624.796> 25 50<157.042 229.721 369.3 442.958> 455 20G<93.1914 106.809 493.191 506.809> 675 50<-24.7959 624.796>
 VStem: 75 50<116.148 474.796> 275.054 49.892<146.924 274.649> 475 50<116.148 474.796>
-CounterMasks: 1 07
+CounterMasks: 1 0e
 LayerCount: 2
 Back
 SplineSet
@@ -10884,7 +11050,7 @@ SplineSet
  223.707813205 127.859725652 216.838540335 125.099549661 209.954257647 125.099549661 c 0
  203.973422071 125.099549661 197.981257752 127.182807906 193.275881709 131.417646344 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "Ligature Substitution lookup 335 subtable" tp_combine tp_ala
 EndChar
 
@@ -11851,32 +12017,54 @@ SplineSet
  75 600 l 2
  75 613.617128764 86.3828712355 625 100 625 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" l_under
 MultipleSubs2: "Multiple Substitution lookup 324 subtable" l_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 295 subtable" tp_name_start l_under
 EndChar
 
-StartChar: glyph280
+StartChar: y
 Encoding: 121 121 278
-Width: 1000
+Width: 560
 VWidth: 0
-Flags: H
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
 101 -100 m 29
- 101 -100 165 -200 301 -200 c 7
- 437 -200 501 -75 501 50 c 31
- 501 128 501 172 501 250 c 1052
+ 101 -100 125 -200 261 -200 c 7
+ 397 -200 421 -75 421 50 c 31
+ 421 128 421 172 421 250 c 1052
 101 450 m 29
  101 450 101 328 101 250 c 31
- 101 141 186 50 295 50 c 31
- 407 50 501 138 501 250 c 31
- 501 326 501 444 501 444 c 1053
+ 101 141 146 50 255 50 c 31
+ 367 50 421 138 421 250 c 31
+ 421 326 421 444 421 444 c 1053
 EndSplineSet
 Fore
-Validated: 1
+SplineSet
+101 475 m 0
+ 114.617128764 475 126 463.617128764 126 450 c 2
+ 126 250 l 2
+ 126 145.907167779 165.793411314 75 255 75 c 0
+ 349.079662381 75 396 145.227654493 396 250 c 2
+ 396 444 l 2
+ 396 457.617128764 407.382871236 469 421 469 c 0
+ 434.617128764 469 446 457.617128764 446 444 c 2
+ 446 250 l 1
+ 446 50 l 2
+ 446 -73.1453390611 421.242062888 -225 261 -225 c 0
+ 109.391220134 -225 78.0849347168 -111.572469144 76.5217603938 -105.141322003 c 0
+ 74.3948719436 -93.1544635498 81.3063782318 -79.0588931088 95.0953431572 -75.7073050575 c 0
+ 108.876983465 -72.3574973503 121.597003129 -82.0354950669 124.983827546 -92.935086713 c 0
+ 126.295403534 -97.8181288384 145.806601138 -175 261 -175 c 0
+ 372.757937112 -175 396 -76.8546609389 396 50 c 2
+ 396 88.6865660559 l 1
+ 364.492925848 49.7017740332 317.784891097 25 255 25 c 0
+ 126.206588686 25 76 136.092832221 76 250 c 2
+ 76 450 l 2
+ 76 463.617128764 87.3828712355 475 101 475 c 0
+EndSplineSet
 EndChar
 
 StartChar: u
@@ -11884,14 +12072,13 @@ Encoding: 117 117 279
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 5 50<201.394 351.336 201.394 351.336> 454 21G<93.1914 106.809 93.1914 106.809 93.1914 106.809 93.1914 106.809 453.191 466.809 453.191 466.809 453.191 466.809 453.191 466.809>
-VStem: 75 50<143.631 474.796 143.631 474.796> 435 50<145.974 474.796 145.974 474.796>
+HStem: 5 50<201.394 351.336> 454 21G<93.1914 106.809 93.1914 106.809 453.191 466.809 453.191 466.809>
+VStem: 75 50<143.631 474.796> 435 50<145.974 474.796>
 LayerCount: 2
 Back
 Refer: 84 61012 N 1 0 0 1 0 0 2
 Fore
 Refer: 84 61012 S 1 0 0 1 0 0 2
-Validated: 9
 Substitution2: "tokiponaLatin subtable" u_under
 MultipleSubs2: "Multiple Substitution lookup 331 subtable" u_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 302 subtable" tp_name_start u_under
@@ -11978,7 +12165,7 @@ SplineSet
  505 234.867462144 490.729904333 225 480 225 c 2
  106.197611727 225 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" e_under
 MultipleSubs2: "Multiple Substitution lookup 320 subtable" e_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 291 subtable" tp_name_start e_under
@@ -12037,7 +12224,7 @@ SplineSet
  325 49.6666666667 319.444444444 49.5555555556 312.037037037 49.5555555556 c 0
  297.222222222 49.5555555556 275 50 275 50 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" m_under
 MultipleSubs2: "Multiple Substitution lookup 325 subtable" m_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 296 subtable" tp_name_start m_under
@@ -12085,7 +12272,7 @@ SplineSet
  75 450 l 2
  75 463.617128764 86.3828712355 475 100 475 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" w_under
 MultipleSubs2: "Multiple Substitution lookup 332 subtable" w_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 303 subtable" tp_name_start w_under
@@ -12120,7 +12307,7 @@ SplineSet
  -56.7681254108 -70.3419785555 -68.9999795631 -60.3390693673 -68.9999795631 -46.0048669461 c 0xe8
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 100 598 2
-Validated: 8912897
+Validated: 1
 Substitution2: "tokiponaLatin subtable" j_under
 MultipleSubs2: "Multiple Substitution lookup 322 subtable" j_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 293 subtable" tp_name_start j_under
@@ -12167,7 +12354,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" A_under
 MultipleSubs2: "Multiple Substitution lookup 305 subtable" A_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 276 subtable" tp_name_start A_under
@@ -12393,7 +12580,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" M_under
 MultipleSubs2: "Multiple Substitution lookup 311 subtable" M_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 282 subtable" tp_name_start M_under
@@ -12434,7 +12621,7 @@ SplineSet
  125 50 l 2
  125 36.3828712355 113.617128764 25 100 25 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" N_under
 MultipleSubs2: "Multiple Substitution lookup 312 subtable" N_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 283 subtable" tp_name_start N_under
@@ -12469,7 +12656,7 @@ SplineSet
  455 519.2266579 384.605758798 575 280 575 c 0
  175.398227305 575 105 519.227079487 105 315 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" O_under
 MultipleSubs2: "Multiple Substitution lookup 313 subtable" O_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 284 subtable" tp_name_start O_under
@@ -12515,7 +12702,7 @@ SplineSet
  75 250 l 1
  75 600 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" P_under
 MultipleSubs2: "Multiple Substitution lookup 314 subtable" P_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 285 subtable" tp_name_start P_under
@@ -12678,7 +12865,7 @@ SplineSet
  75 600 l 2
  75 613.617128764 86.3828712355 625 100 625 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" W_under
 MultipleSubs2: "Multiple Substitution lookup 318 subtable" W_under tp_name_end
 MultipleSubs2: "Multiple Substitution lookup 289 subtable" tp_name_start W_under
@@ -12737,7 +12924,7 @@ SplineSet
  100 225 l 2
  86.3828712355 225 75 236.382871236 75 250 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "tokiponaLatin subtable" tp_combine
 EndChar
 
@@ -12766,7 +12953,7 @@ SplineSet
  75 613.617128764 86.3828712355 625 100 625 c 0xd0
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 100 51 2
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -12836,9 +13023,9 @@ Flags: HW
 LayerCount: 2
 Back
 SplineSet
-200 -50 m 29
- 200 -50 100 50 100 260 c 7
- 100 450 200 550 200 550 c 1053
+200 -50 m 25
+ 200 -50 100 50 100 260 c 3
+ 100 450 200 550 200 550 c 1049
 EndSplineSet
 Fore
 SplineSet
@@ -12856,20 +13043,33 @@ SplineSet
  222.371324831 -37.5843371376 224.720750714 -43.9215247473 224.720750714 -50.3649963779 c 0
  224.720750714 -56.5360583979 222.565778227 -62.8046076988 217.650474159 -67.7048231267 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: parenright
 Encoding: 41 41 305
 Width: 300
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 Refer: 304 40 S -1 0 0 1 300 0 2
 Fore
-Refer: 304 40 N -1 0 0 1 300 0 2
-Validated: 25
+SplineSet
+82.349609375 -67.705078125 m 0
+ 77.4345703125 -62.8046875 75.279296875 -56.5361328125 75.279296875 -50.365234375 c 0
+ 75.279296875 -43.921875 77.62890625 -37.583984375 81.638671875 -33.0224609375 c 0
+ 84.4228515625 -30.16796875 175 62.876953125 175 260 c 0
+ 175 437.638671875 83.8955078125 530.71484375 81.6591796875 532.998046875 c 0
+ 77.1552734375 538.122070312 75.0068359375 544.193359375 75.0068359375 550.139648438 c 0
+ 75.0068359375 556.598632812 77.5419921875 562.912109375 82.3486328125 567.704101562 c 0
+ 87.1337890625 572.474609375 93.3984375 575.008789062 99.8310546875 575.008789062 c 0
+ 105.80859375 575.008789062 111.931640625 572.821289062 117.149414062 568.208007812 c 0
+ 120.709960938 564.63671875 225 459.458007812 225 260 c 0
+ 225 41.9697265625 121.786132812 -63.556640625 117.150390625 -68.20703125 c 0
+ 112.470703125 -72.3447265625 106.078125 -74.7421875 99.603515625 -74.7421875 c 0
+ 93.4599609375 -74.7421875 87.2431640625 -72.5830078125 82.349609375 -67.705078125 c 0
+EndSplineSet
 EndChar
 
 StartChar: zero
@@ -12924,7 +13124,7 @@ SplineSet
  149.208481666 92.5152638935 l 1
  162.110064585 81.3473321922 179.549452621 75 200 75 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: one
@@ -12956,7 +13156,7 @@ SplineSet
  112.863287485 327.507948425 106.431643743 325.100757403 100 325.100757403 c 0
  93.5683562576 325.100757403 87.1367125152 327.507948425 82.3223304703 332.32233047 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: two
@@ -12969,8 +13169,8 @@ Back
 SplineSet
 100 350 m 31
  100 405 145 450 200 450 c 31
- 255 450 300 405 300 350 c 31
- 300 209 100 50 100 50 c 5
+ 255 450 300 405 300 350 c 23
+ 300 205.868853536 178 174 100 50 c 5
  300 50 l 1053
 EndSplineSet
 Fore
@@ -12979,20 +13179,18 @@ SplineSet
  86.3828712355 325 75 336.382871236 75 350 c 0
  75 418.844148893 131.15544521 475 200 475 c 0
  268.844148893 475 325 418.84455479 325 350 c 0
- 325 239.52833698 223.960835162 131.05766796 165.635519139 75 c 1
+ 325 208.778352784 218.047288497 158.811425841 148.891811153 75 c 1
  300 75 l 2
  313.617128764 75 325 63.6171287645 325 50 c 0
  325 36.3828712355 313.617128764 25 300 25 c 2
  100 25 l 2
- 93.9148865579 25 86.5119933732 27.8101719488 81.7211816237 32.944654833 c 0
- 77.2816878371 37.7026177949 75.1130207815 43.8248441319 75.1130207815 49.9310882098 c 0
- 75.1130207815 57.3091993816 78.2791960481 64.6639770347 84.431330887 69.5605864445 c 0
- 85.4925887479 70.405263189 275 227.64507346 275 350 c 0
+ 97.0418285896 25 91.9534738136 25.9907691122 88.3900252433 27.8593476575 c 0
+ 75.6632205998 34.5329487041 71.1869435613 51.1472950903 78.8384811782 63.3112779685 c 0
+ 165.311655788 200.781452989 275 221.434524978 275 350 c 0
  275 391.15544521 241.155851107 425 200 425 c 0
  158.84455479 425 125 391.155851107 125 350 c 0
  125 336.382871236 113.617128764 325 100 325 c 0
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: three
@@ -13035,7 +13233,7 @@ SplineSet
  158.84455479 425 125 391.155851107 125 350 c 0
  125 336.382871236 113.617128764 325 100 325 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: four
@@ -13048,15 +13246,11 @@ Back
 SplineSet
 246 50 m 5
  246 450 l 5
- 100 150 l 5
+ 80 150 l 5
  300 150 l 1053
 EndSplineSet
 Fore
 SplineSet
-221 175 m 1
- 221 341.499910083 l 1
- 139.97004376 175 l 1
- 221 175 l 1
 271 175 m 1
  300 175 l 2
  313.617128764 175 325 163.617128764 325 150 c 0
@@ -13066,17 +13260,18 @@ SplineSet
  271 36.3828712355 259.617128764 25 246 25 c 0
  232.382871236 25 221 36.3828712355 221 50 c 2
  221 125 l 1
- 100 125 l 2
- 98.2161253966 125 93.7000558988 125.614789012 90.857463422 126.731694842 c 0
- 81.0407873869 130.588843832 75.0621962089 140.251065045 75.0621962089 150.228045319 c 0
- 75.0621962089 153.844473621 75.8477218188 157.502258038 77.5207163537 160.939918041 c 2
- 223.520716354 460.939918041 l 2
- 227.189184488 468.477866263 235.165916575 474.224662107 244.038572864 474.922937299 c 0
- 244.680508557 474.973457431 245.31904944 474.99826239 245.95321085 474.99826239 c 0
- 259.471657409 474.99826239 271 463.726483286 271 450 c 2
+ 80 125 l 2
+ 76.9062118192 125 72.8786909658 125.774581423 69.6496124933 127.243254221 c 0
+ 56.5686673894 133.192824168 51.1679401326 149.530073234 58.1254633099 162.103910302 c 2
+ 224.12546331 462.103910302 l 2
+ 228.051604901 469.199346912 235.686402467 474.265624179 244.038572864 474.922937299 c 0
+ 258.364679847 476.050397303 271 464.370403869 271 450 c 2
  271 175 l 1
+221 175 m 1
+ 221 353.183071584 l 1
+ 122.405367057 175 l 1
+ 221 175 l 1
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: five
@@ -13090,38 +13285,34 @@ SplineSet
 300 450 m 29
  100 450 l 29
  100 250 l 29
- 100 250 158 305 204 305 c 31
- 270 305 308 236 308 170 c 31
- 308 112 276 50 218 50 c 31
- 169 50 106 107 106 107 c 1053
+ 100 250 144 305 204 305 c 7
+ 278.027022093 305 308 236 308 170 c 31
+ 308 112 298.178710938 30 208 30 c 7
+ 108 30 86 107 86 107 c 1053
 EndSplineSet
 Fore
 SplineSet
 325 450 m 0
  325 436.382871236 313.617128764 425 300 425 c 2
  125 425 l 1
- 125 301.045506902 l 1
- 147.39599608 315.600118782 173.567881346 330 204 330 c 0
- 290.848109573 330 333 242.105327453 333 170 c 0
- 333 106.69235856 297.530432473 25 218 25 c 0
- 153.502427848 25 89.7622951158 87.9788388608 88.6714369744 88.9628620915 c 0
- 83.4706951567 94.283421841 80.983162382 100.774471553 80.983162382 107.141558075 c 0
- 80.983162382 113.14887571 83.19752377 119.04584332 87.4367045608 123.745269853 c 0
- 92.3104781801 129.14818664 99.1703047468 131.9003988 106.044767917 131.9003988 c 0
- 112.035344215 131.9003988 118.037035269 129.810421651 122.745269853 125.563295439 c 0
- 122.824396157 125.491918494 184.251997699 75 218 75 c 0
- 254.469567527 75 283 117.30764144 283 170 c 0
- 283 229.894672547 249.151890427 280 204 280 c 0
- 173.702654202 280 117.353660912 232.002435297 117.172876553 231.83155728 c 0
- 113.390110992 228.256073843 107.668405826 225.526200086 101.961427136 225.077062701 c 0
- 101.319491443 225.026542569 100.68095056 225.00173761 100.04678915 225.00173761 c 0
- 86.5283425905 225.00173761 75 236.273516714 75 250 c 2
+ 125 304.800698253 l 1
+ 145.687026941 318.136099299 172.074484209 330 204 330 c 0
+ 299.019375148 330 333 240.431550292 333 170 c 0
+ 333 113.798211847 322.299565305 5 208 5 c 0
+ 91.4619031361 5 63.0862950707 96.2485127022 61.7680747856 100.800701065 c 0
+ 58.6260550698 114.91521518 66.5238012996 127.387197221 79.0462042861 131.013428018 c 0
+ 91.5604378662 134.637293122 105.040217932 127.951374058 109.636316446 115.150130917 c 0
+ 110.933465124 111.070792471 127.660291147 55 208 55 c 0
+ 274.05785657 55 283 110.201788153 283 170 c 0
+ 283 231.568449708 257.034669039 280 204 280 c 0
+ 160.131789421 280 121.820964286 237.192739922 119.1471716 233.923580132 c 0
+ 115.330696473 229.47144305 108.770888975 225.612965154 101.961427136 225.077062701 c 0
+ 87.6353201526 223.949602697 75 235.629596131 75 250 c 2
  75 450 l 2
  75 460.729904333 84.8674621445 475 100 475 c 2
  300 475 l 2
  313.617128764 475 325 463.617128764 325 450 c 0
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: six
@@ -13159,7 +13350,7 @@ SplineSet
  252.911415851 444.882761136 251.455976429 439.874262199 248.41837854 435.574681363 c 2
  248.41837854 435.574681363 191.636811869 355.19053715 154.776951982 267.542693715 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: seven
@@ -13190,7 +13381,7 @@ SplineSet
  100 425 l 2
  86.3828712355 425 75 436.382871236 75 450 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: eight
@@ -13234,7 +13425,7 @@ SplineSet
  65 197.866655302 88.9097941488 232.330159908 121.561115551 252.79380931 c 1
  93.1919690748 275.742127539 75 310.815713485 75 350 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -13248,6 +13439,1045 @@ Refer: 312 54 S -1 1.22461e-16 -1.22461e-16 -1 400 500 2
 Fore
 Refer: 312 54 N -1 1.22461e-16 -1.22461e-16 -1 400 500 2
 Validated: 1
+EndChar
+
+StartChar: h
+Encoding: 104 104 316
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+393 48 m 5
+ 393 248 l 7
+ 393 392.00390625 326 450 256 450 c 7
+ 160 450 100 361 100 361 c 1029
+100 600 m 29
+ 100 50 l 1029
+EndSplineSet
+Fore
+SplineSet
+100 625 m 0
+ 113.617128764 625 125 613.617128764 125 600 c 2
+ 125 424.521622269 l 1
+ 155.198260765 449.736141518 199.536394418 475 256 475 c 0
+ 343.651063947 475 418 399.607155245 418 248 c 2
+ 418 48 l 2
+ 418 34.3828712355 406.617128764 23 393 23 c 0
+ 379.382871236 23 368 34.3828712355 368 48 c 2
+ 368 248 l 2
+ 368 384.400657255 308.348936053 425 256 425 c 0
+ 189.169727563 425 140.080358323 371.3272496 125 352.560070211 c 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 600 l 2
+ 75 613.617128764 86.3828712355 625 100 625 c 0
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 317
+Width: 580
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+480 450 m 17
+ 480 380.564453125 480 314.232421875 480 250 c 1
+ 480 133.333007812 480 86 480 -50 c 3
+ 480 -131.006172604 425 -200 294 -200 c 3
+ 164 -200 99 -131 100 -50 c 1024
+100 250 m 27
+ 100 365.00390625 172 470 287 470 c 27
+ 409 470 480 372.00390625 480 250 c 27
+ 480 128.99609375 411 30 290 30 c 27
+ 174 30 100 133.99609375 100 250 c 27
+EndSplineSet
+Fore
+SplineSet
+75 250 m 0
+ 75 373.807027324 153.908944274 495 287 495 c 0
+ 360.861390385 495 417.846341181 462.795098357 455 412.877974099 c 1
+ 455 450 l 2
+ 455 463.617128764 466.382871236 475 480 475 c 0
+ 493.617128764 475 505 463.617128764 505 450 c 2
+ 505 250 l 1
+ 505 -50 l 2
+ 505 -145.495471236 435.479062361 -225 294 -225 c 0
+ 154.839767424 -225 73.7951426405 -147.439131015 75.0019049796 -49.691381543 c 0
+ 75.1700048704 -36.0752903926 86.6925273067 -24.8338050889 100.308618457 -25.0019049796 c 0
+ 113.924709607 -25.1700048704 125.166194911 -36.6925273067 124.99809502 -50.308618457 c 0
+ 124.20485736 -114.560868985 173.160232576 -175 294 -175 c 0
+ 414.520937639 -175 455 -116.516873973 455 -50 c 2
+ 455 86.1237311245 l 1
+ 418.53072284 36.9336677463 362.78620566 5 290 5 c 0
+ 156.347739058 5 75 124.732963909 75 250 c 0
+125 250 m 0
+ 125 143.259223591 191.652260942 55 290 55 c 0
+ 393.76662066 55 455 137.812341831 455 250 c 0
+ 455 362.73120509 392.202579933 445 287 445 c 0
+ 190.091055726 445 125 356.200785176 125 250 c 0
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 318
+Width: 580
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+480 450 m 17
+ 480 380.564453125 480 314.232421875 480 250 c 1
+ 480 133.333007812 480 36 480 -100 c 1027
+100 250 m 27
+ 100 365.00390625 172 470 287 470 c 27
+ 409 470 480 372.00390625 480 250 c 27
+ 480 128.99609375 411 30 290 30 c 27
+ 174 30 100 133.99609375 100 250 c 27
+EndSplineSet
+Fore
+SplineSet
+75 250 m 0
+ 75 373.807027324 153.908944274 495 287 495 c 0
+ 360.861390385 495 417.846341181 462.795098357 455 412.877974099 c 1
+ 455 450 l 2
+ 455 463.617128764 466.382871236 475 480 475 c 0
+ 493.617128764 475 505 463.617128764 505 450 c 2
+ 505 250 l 1
+ 505 -100 l 2
+ 505 -113.617128764 493.617128764 -125 480 -125 c 0
+ 466.382871236 -125 455 -113.617128764 455 -100 c 2
+ 455 86.1237311245 l 1
+ 418.53072284 36.9336677463 362.78620566 5 290 5 c 0
+ 156.347739058 5 75 124.732963909 75 250 c 0
+125 250 m 0
+ 125 143.259223591 191.652260942 55 290 55 c 0
+ 393.76662066 55 455 137.812341831 455 250 c 0
+ 455 362.73120509 392.202579933 445 287 445 c 0
+ 190.091055726 445 125 356.200785176 125 250 c 0
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 319
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+428 68 m 29
+ 428 68 366 30 270 30 c 7
+ 152 30 80 132 80 250 c 7
+ 80 370 160 470 280 470 c 7
+ 340.11503238 470 394.256813326 440.133742826 431 393.458763147 c 1029
+EndSplineSet
+Fore
+SplineSet
+449.342202512 81.0196156598 m 0
+ 456.732367429 68.905402739 451.664507721 54.0470384551 441.690249656 47.0669051899 c 0
+ 437.228554508 44.3450888274 372.357638285 5 270 5 c 0
+ 134.515378764 5 55 122.915793412 55 250 c 0
+ 55 380.68144338 143.843801563 495 280 495 c 0
+ 348.650721902 495 409.792836719 460.815405398 450.643640513 408.922507434 c 0
+ 459.066512399 398.222908143 457.163343578 382.237994519 446.463744287 373.815122634 c 0
+ 435.764144996 365.392250748 419.779231372 367.295419569 411.356359487 377.99501886 c 0
+ 378.720789932 419.452080254 331.579342858 445 280 445 c 0
+ 176.156198437 445 105 359.31855662 105 250 c 0
+ 105 141.084206588 169.484621236 55 270 55 c 0
+ 357.048566333 55 412.856466699 88.0712395243 415.755858681 89.8065633501 c 0
+ 426.334489793 95.3804797578 441.953156892 93.1319937908 449.342202512 81.0196156598 c 0
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 320
+Width: 580
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+480 600 m 21
+ 480 530.564453125 480 314.232421875 480 250 c 5
+ 480 133.333007812 480 186 480 50 c 1031
+100 250 m 31
+ 100 365.00390625 172 470 287 470 c 31
+ 409 470 480 372.00390625 480 250 c 31
+ 480 128.99609375 411 30 290 30 c 31
+ 174 30 100 133.99609375 100 250 c 31
+EndSplineSet
+Fore
+SplineSet
+75 250 m 0
+ 75 373.807027324 153.908944274 495 287 495 c 0
+ 360.861390385 495 417.846341181 462.795098357 455 412.877974099 c 1
+ 455 600 l 2
+ 455 613.617128764 466.382871236 625 480 625 c 0
+ 493.617128764 625 505 613.617128764 505 600 c 2
+ 505 250 l 1
+ 505 50 l 2
+ 505 36.3828712355 493.617128764 25 480 25 c 0
+ 466.382871236 25 455 36.3828712355 455 50 c 2
+ 455 86.1237311245 l 1
+ 418.53072284 36.9336677463 362.78620566 5 290 5 c 0
+ 156.347739058 5 75 124.732963909 75 250 c 0
+125 250 m 0
+ 125 143.259223591 191.652260942 55 290 55 c 0
+ 393.76662066 55 455 137.812341831 455 250 c 0
+ 455 362.73120509 392.202579933 445 287 445 c 0
+ 190.091055726 445 125 356.200785176 125 250 c 0
+EndSplineSet
+EndChar
+
+StartChar: b
+Encoding: 98 98 321
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 600 m 29
+ 100 522 100 250 100 250 c 5
+ 100 250 100 50 100 50 c 1029
+100 250 m 31
+ 100 365.00390625 172 470 287 470 c 31
+ 409 470 480 372.00390625 480 250 c 31
+ 480 128.99609375 411 30 290 30 c 31
+ 174 30 100 133.99609375 100 250 c 31
+EndSplineSet
+Fore
+SplineSet
+100 625 m 0
+ 113.617128764 625 125 613.617128764 125 600 c 2
+ 125 410.903355265 l 1
+ 161.42070303 461.127374818 216.638582656 495 287 495 c 0
+ 425.797420067 495 505 381.27660741 505 250 c 0
+ 505 120.179845669 428.23337934 5 290 5 c 0
+ 218.59351566 5 162.117103914 39.177194984 125 90.1156853113 c 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 250 l 1
+ 75 600 l 2
+ 75 613.617128764 86.3828712355 625 100 625 c 0
+125 250 m 2
+ 125 143.259223591 191.652260942 55 290 55 c 0
+ 393.76662066 55 455 137.812341831 455 250 c 0
+ 455 362.73120509 392.202579933 445 287 445 c 0
+ 190.091056726 445 125.000001343 356.200787009 125 250.000003287 c 2
+ 125 250 l 2
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 322
+Width: 480
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 450 m 29
+ 247 50 l 29
+ 369 450 l 1053
+EndSplineSet
+Fore
+SplineSet
+91.3763988871 473.465581259 m 0
+ 104.157752549 478.16272873 118.768433789 471.404954775 123.465581259 458.623601113 c 2
+ 244.796680664 128.470949671 l 1
+ 345.087501214 457.29331213 l 2
+ 349.06006003 470.318095132 363.268529128 477.885057601 376.29331213 473.912498786 c 0
+ 389.318095132 469.93993997 396.885057601 455.731470872 392.912498786 442.70668787 c 2
+ 270.912498786 42.7066878703 l 2
+ 268.860295477 35.9781524324 263.885933324 30.2460616275 257.438059907 27.2833341931 c 0
+ 244.380153419 21.2833687342 228.491403972 27.8880036981 223.534418741 41.3763988871 c 2
+ 76.5344187405 441.376398887 l 2
+ 71.8372712698 454.157752549 78.5950452254 468.768433789 91.3763988871 473.465581259 c 0
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 323
+Width: 330
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+55 366 m 25
+ 150 366 l 1049
+100 50 m 25
+ 100 50 100 294 100 450 c 27
+ 100 517 110 600 177 600 c 27
+ 241 600 249 514 249 450 c 1048
+EndSplineSet
+Fore
+SplineSet
+100 25 m 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 341 l 1
+ 55 341 l 2
+ 41.3828712355 341 30 352.382871236 30 366 c 0
+ 30 379.617128764 41.3828712355 391 55 391 c 2
+ 75 391 l 1
+ 75 450 l 2
+ 75 510.827710532 81.2647580678 625 177 625 c 0
+ 271.019537578 625 274 506.360781934 274 450 c 0
+ 274 436.382871236 262.617128764 425 249 425 c 0
+ 235.382871236 425 224 436.382871236 224 450 c 0
+ 224 521.639218066 210.980462422 575 177 575 c 0
+ 138.735241932 575 125 523.172289468 125 450 c 2
+ 125 391 l 1
+ 150 391 l 2
+ 163.617128764 391 175 379.617128764 175 366 c 0
+ 175 352.382871236 163.617128764 341 150 341 c 2
+ 125 341 l 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 324
+Width: 356
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+293 405 m 7
+ 293 436.400636936 264 470 218 470 c 7
+ 168 470 100 330 100 330 c 1053
+100 50 m 29
+ 100 450 l 1053
+EndSplineSet
+Fore
+SplineSet
+100 25 m 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 450 l 2
+ 75 463.617128764 86.3828712355 475 100 475 c 0
+ 113.617128764 475 125 463.617128764 125 450 c 2
+ 125 428.21837315 l 1
+ 149.574267516 463.071403143 181.930005483 495 218 495 c 0
+ 276.504575743 495 318 451.573441304 318 405 c 0
+ 318 391.382871236 306.617128764 380 293 380 c 0
+ 279.382871236 380 268 391.382871236 268 405 c 0
+ 268 421.227832569 251.495424257 445 218 445 c 0
+ 197.662145445 445 138.204875916 346.631458294 125 323.600799354 c 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+EndSplineSet
+EndChar
+
+StartChar: x
+Encoding: 120 120 325
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 50 m 29
+ 300 450 l 1053
+100 450 m 29
+ 311 50 l 1053
+EndSplineSet
+Fore
+SplineSet
+88.3358388754 472.112153791 m 0
+ 100.380000693 478.465449149 115.758858432 473.708322942 122.112153791 461.664161125 c 2
+ 202.081193348 310.064086134 l 1
+ 277.639320225 461.180339887 l 2
+ 283.72908534 473.359870118 299.000809657 478.45044489 311.180339887 472.360679775 c 0
+ 323.359870118 466.27091466 328.45044489 450.999190343 322.360679775 438.819660113 c 2
+ 230.780119337 255.658539236 l 1
+ 333.112153791 61.6641611246 l 2
+ 339.465449149 49.6199993075 334.708322942 34.2411415679 322.664161125 27.8878462094 c 0
+ 310.619999307 21.5345508509 295.241141568 26.2916770584 288.887846209 38.3358388754 c 2
+ 203.271604705 200.641509973 l 1
+ 122.360679775 38.8196601125 l 2
+ 116.27091466 26.6401298822 100.999190343 21.5495551099 88.8196601125 27.639320225 c 0
+ 76.6401298822 33.7290853401 71.5495551099 49.0008096572 77.639320225 61.1803398875 c 2
+ 174.572678717 255.047056871 l 1
+ 77.8878462094 438.335838875 l 2
+ 71.5345508509 450.380000693 76.2916770584 465.758858432 88.3358388754 472.112153791 c 0
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 326
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 450 m 29
+ 400 450 l 29
+ 100 50 l 29
+ 400 50 l 1053
+EndSplineSet
+Fore
+SplineSet
+75 450 m 0
+ 75 463.617128764 86.3828712355 475 100 475 c 2
+ 400 475 l 2
+ 414.370403869 475 426.050397303 462.364679847 424.922937299 448.038572864 c 0
+ 424.542771617 443.20798535 421.290489159 436.720652212 420 435 c 2
+ 150 75 l 1
+ 400 75 l 2
+ 413.617128764 75 425 63.6171287645 425 50 c 0
+ 425 36.3828712355 413.617128764 25 400 25 c 2
+ 100 25 l 2
+ 96.747549295 25 90.6415400484 26.3326694214 86.6153793297 28.8847938795 c 0
+ 74.4780177404 36.5784900662 71.3777576785 53.5036769046 80 65 c 2
+ 350 425 l 1
+ 100 425 l 2
+ 86.3828712355 425 75 436.382871236 75 450 c 0
+EndSplineSet
+EndChar
+
+StartChar: Q
+Encoding: 81 81 327
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+520 30 m 29
+ 431 98 l 1053
+EndSplineSet
+Refer: 293 79 S 1 0 0 1 0 0 2
+Fore
+SplineSet
+539.86527962 14.8220335485 m 0
+ 531.598066678 4.00171072714 515.64235637 1.86750743748 504.822033548 10.1347203796 c 2
+ 432.813123419 65.1527640741 l 1
+ 394.499186303 24.0115185074 342.38208514 5 280 5 c 0
+ 142.60546875 5 55 97.2265625 55 315 c 0
+ 55 532.772460938 142.6015625 625 280 625 c 0
+ 417.39453125 625 505 532.7734375 505 315 c 0
+ 505 224.231973604 489.781504517 155.274115566 462.081895841 105.713962784 c 1
+ 535.177966452 49.8652796204 l 2
+ 545.998289273 41.5980666783 548.132492563 25.6423563698 539.86527962 14.8220335485 c 0
+105 315 m 0
+ 105 110.7734375 175.39453125 55 280 55 c 0
+ 384.6015625 55 455 110.772460938 455 315 c 0
+ 455 519.2265625 384.60546875 575 280 575 c 0
+ 175.3984375 575 105 519.227539062 105 315 c 0
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 328
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+440 50 m 29
+ 319 252 l 1053
+100 600 m 5
+ 100 522 100 250 100 250 c 29
+ 100 50 l 1029
+100 250 m 7
+ 100 295.119140625 100 600 100 600 c 5
+ 100 600 187.1171875 600 257 600 c 7
+ 379 600 450 542.00390625 450 420 c 7
+ 450 298.99609375 391 250 270 250 c 4
+ 100 250 l 7
+EndSplineSet
+Fore
+SplineSet
+452.846776987 28.553314451 m 0
+ 441.16508584 21.5558657932 425.550763109 25.471531865 418.553314451 37.1532230127 c 2
+ 305.071326239 226.60249259 l 1
+ 293.880209385 225.530938301 282.184870706 225 270 225 c 2
+ 125 225 l 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 250 l 1
+ 75 600 l 2
+ 75 613.617128764 86.3828712355 625 100 625 c 2
+ 257 625 l 2
+ 388.936743035 625 475 556.018416233 475 420 c 0
+ 475 319.595943512 433.232794036 260.163275569 357.317283704 236.682637919 c 1
+ 461.446685549 62.8467769873 l 2
+ 468.444134207 51.1650858396 464.528468135 35.5507631087 452.846776987 28.553314451 c 0
+125 575 m 1
+ 125 275 l 1
+ 270 275 l 2
+ 381.367111572 275 425 311.967261099 425 420 c 0
+ 425 527.989396267 369.063256965 575 257 575 c 2
+ 125 575 l 1
+EndSplineSet
+EndChar
+
+StartChar: V
+Encoding: 86 86 329
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 600 m 4
+ 269 30 l 5
+ 460 600 l 1028
+EndSplineSet
+Fore
+SplineSet
+92.8934966945 623.968679788 m 0
+ 105.948880654 627.839486611 120.097872965 620.161887265 123.968679788 607.106503305 c 2
+ 270.457131442 113.03302731 l 1
+ 436.295423175 607.943112585 l 2
+ 440.621918649 620.854643583 455.031581588 628.0310723 467.943112585 623.704576825 c 0
+ 480.854643583 619.378081351 488.0310723 604.968418412 483.704576825 592.056887415 c 2
+ 292.704576825 22.0568874147 l 2
+ 290.464502505 15.3718488667 284.944501742 9.34392532277 277.96511021 6.6627593978 c 0
+ 264.550487304 1.50946921989 249.116253116 9.11591234402 245.031320212 22.8934966945 c 2
+ 76.0313202122 592.893496695 l 2
+ 72.1605133892 605.948880654 79.8381127351 620.097872965 92.8934966945 623.968679788 c 0
+EndSplineSet
+EndChar
+
+StartChar: X
+Encoding: 88 88 330
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 600 m 4
+ 460 50 l 1029
+100 50 m 5
+ 460 600 l 1028
+EndSplineSet
+Fore
+SplineSet
+86.3085206326 29.0824620776 m 0
+ 74.9150483397 36.5400075785 71.6249165768 52.2980070744 79.0824620776 63.6914793674 c 2
+ 250.120766492 325 l 1
+ 79.0824620776 586.308520633 l 2
+ 71.6249165768 597.701992926 74.9150483397 613.459992421 86.3085206326 620.917537922 c 0
+ 97.7019929256 628.375083423 113.459992421 625.08495166 120.917537922 613.691479367 c 2
+ 280 370.648828971 l 1
+ 439.082462078 613.691479367 l 2
+ 446.540007579 625.08495166 462.298007074 628.375083423 473.691479367 620.917537922 c 0
+ 485.08495166 613.459992421 488.375083423 597.701992926 480.917537922 586.308520633 c 2
+ 309.879233508 325 l 1
+ 480.917537922 63.6914793674 l 2
+ 488.375083423 52.2980070744 485.08495166 36.5400075785 473.691479367 29.0824620776 c 0
+ 462.298007074 21.6249165768 446.540007579 24.9150483397 439.082462078 36.3085206326 c 2
+ 280 279.351171029 l 1
+ 120.917537922 36.3085206326 l 2
+ 113.459992421 24.9150483397 97.7019929256 21.6249165768 86.3085206326 29.0824620776 c 0
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 331
+Width: 520
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+274 49 m 29
+ 274 340 l 1053
+100 600 m 29
+ 274 340 l 29
+ 424 600 l 1053
+EndSplineSet
+Fore
+SplineSet
+86.095635288 620.776636926 m 0
+ 97.4123609005 628.350137913 113.203135939 625.221090325 120.776636926 613.904364712 c 2
+ 272.426732673 387.300773366 l 1
+ 402.345360349 612.493061337 l 2
+ 409.150145344 624.288021996 424.698100678 628.459424647 436.493061337 621.654639651 c 0
+ 448.288021996 614.849854656 452.459424647 599.301899322 445.654639651 587.506938663 c 2
+ 299 333.305563267 l 1
+ 299 49 l 2
+ 299 35.3828712355 287.617128764 24 274 24 c 0
+ 260.382871236 24 249 35.3828712355 249 49 c 2
+ 249 332.406407697 l 1
+ 79.223363074 586.095635288 l 2
+ 71.6498620871 597.412360901 74.7789096754 613.203135939 86.095635288 620.776636926 c 0
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 332
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 600 m 29
+ 460 600 l 29
+ 100 50 l 29
+ 460 50 l 1053
+EndSplineSet
+Fore
+SplineSet
+75 600 m 0
+ 75 613.617128764 86.3828712355 625 100 625 c 2
+ 460 625 l 2
+ 474.370403869 625 486.050397303 612.364679847 484.922937299 598.038572864 c 0
+ 484.590876063 593.819226047 482.113930742 588.136342995 480.917537922 586.308520633 c 2
+ 146.242869872 75 l 1
+ 460 75 l 2
+ 473.617128764 75 485 63.6171287645 485 50 c 0
+ 485 36.3828712355 473.617128764 25 460 25 c 2
+ 100 25 l 2
+ 95.8672212894 25 91.6593005746 26.0643222589 87.9918537881 28.0727469902 c 0
+ 75.3877145284 34.9752234216 71.2123785546 51.6677406516 79.0824620776 63.6914793674 c 2
+ 413.757130128 575 l 1
+ 100 575 l 2
+ 86.3828712355 575 75 586.382871236 75 600 c 0
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 333
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+106 338 m 29
+ 452 338 l 1053
+460 600 m 29
+ 458 50 l 1053
+100 600 m 29
+ 100 50 l 1053
+EndSplineSet
+Fore
+SplineSet
+100 625 m 0
+ 113.617128764 625 125 613.617128764 125 600 c 2
+ 125 363 l 1
+ 434.138016529 363 l 1
+ 435.000165288 600.09090849 l 2
+ 435.049681792 613.707947225 446.473869755 625.049351217 460.09090849 624.999834712 c 0
+ 473.707947225 624.950318208 485.049351217 613.526130245 484.999834712 599.90909151 c 2
+ 482.999834712 49.9090915101 l 2
+ 482.950318208 36.2920527754 471.526130245 24.9506487831 457.90909151 25.0001652876 c 0
+ 444.292052775 25.0496817921 432.950648783 36.4738697551 433.000165288 50.0909084899 c 2
+ 433.956198348 313 l 1
+ 125 313 l 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 600 l 2
+ 75 613.617128764 86.3828712355 625 100 625 c 0
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 334
+Width: 530
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+434 105.490485554 m 5
+ 398.987609671 51.8046160236 345.681601274 30 280 30 c 4
+ 159 30 80 104 80 315 c 4
+ 80 526 159 600 280 600 c 4
+ 345.681601274 600 398.987609671 578.195383976 434 524.509514446 c 1029
+EndSplineSet
+Fore
+SplineSet
+447.656658041 126.430774261 m 0
+ 459.062522349 118.99219542 462.378867549 103.23969182 454.940288707 91.8338275126 c 0
+ 414.597576226 29.9747662373 351.326578354 5 280 5 c 0
+ 142.605758798 5 55 97.2266579 55 315 c 0
+ 55 532.772920513 142.601772695 625 280 625 c 0
+ 351.329088607 625 414.592211683 600.033459427 454.940288707 538.166172487 c 0
+ 462.378867549 526.76030818 459.062522349 511.00780458 447.656658041 503.569225739 c 0
+ 436.250793734 496.130646897 420.498290134 499.446992097 413.059711293 510.852856405 c 0
+ 383.383007658 556.357308526 340.034113942 575 280 575 c 0
+ 175.398227305 575 105 519.227079487 105 315 c 0
+ 105 110.7733421 175.394241202 55 280 55 c 0
+ 340.036624195 55 383.377643115 73.63446581 413.059711293 119.147143595 c 0
+ 420.498290134 130.553007903 436.250793734 133.869353103 447.656658041 126.430774261 c 0
+EndSplineSet
+EndChar
+
+StartChar: F
+Encoding: 70 70 335
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+299 325 m 5
+ 100 325 l 1029
+100 50 m 5
+ 100 600 l 29
+ 400 600 l 1053
+EndSplineSet
+Fore
+SplineSet
+100 25 m 0
+ 86.3828712355 25 75 36.3828712355 75 50 c 2
+ 75 325 l 1
+ 75 600 l 2
+ 75 615.132537856 89.2700956673 625 100 625 c 2
+ 400 625 l 2
+ 413.617128764 625 425 613.617128764 425 600 c 0
+ 425 586.382871236 413.617128764 575 400 575 c 2
+ 125 575 l 1
+ 125 350 l 1
+ 299 350 l 2
+ 312.617128764 350 324 338.617128764 324 325 c 0
+ 324 311.382871236 312.617128764 300 299 300 c 2
+ 125 300 l 1
+ 125 50 l 2
+ 125 36.3828712355 113.617128764 25 100 25 c 0
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 336
+Width: 510
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 325 m 5
+ 299 325 l 13
+ 299 325 408 357.978515625 408 450 c 7
+ 408 530 346.833173384 600 260 600 c 7
+ 182 600 100 600 100 600 c 29
+ 100 50 l 5
+ 100 50 226 50 306 50 c 7
+ 384 50 432 118 432 180 c 7
+ 432 294.070153853 299 325 299 325 c 1029
+EndSplineSet
+Fore
+SplineSet
+125 350 m 1
+ 294.887079133 350 l 1
+ 316.035158562 357.658738126 383 388.873279541 383 450 c 0
+ 383 517.343469331 332.174874063 575 260 575 c 2
+ 125 575 l 1
+ 125 350 l 1
+125 300 m 1
+ 125 75 l 1
+ 306 75 l 2
+ 367.640729875 75 407 129.2568628 407 180 c 0
+ 407 262.163775693 317.392964143 293.970851154 295.78929107 300 c 1
+ 125 300 l 1
+360.405682592 327.382283049 m 1
+ 401.631408744 305.148703299 457 259.606578667 457 180 c 0
+ 457 106.7431372 400.359270125 25 306 25 c 2
+ 100 25 l 2
+ 89.2700956673 25 75 34.8674621445 75 50 c 2
+ 75 326 l 1
+ 75 600 l 2
+ 75 610.729904333 84.8674621445 625 100 625 c 2
+ 260 625 l 2
+ 361.491472706 625 433 542.656530669 433 450 c 0
+ 433 388.255441238 392.900656658 348.840323402 360.405682592 327.382283049 c 1
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 337
+Width: 520
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 600 m 29
+ 100 50 l 5
+ 100 50 166 50 246 50 c 7
+ 374 50 428 130 428 294 c 7
+ 428 482.010637997 336 600 190 600 c 7
+ 104 600 100 600 100 600 c 29
+EndSplineSet
+Fore
+SplineSet
+75 600 m 2
+ 75 610.729904333 84.8674621445 625 100 625 c 2
+ 190 625 l 2
+ 353.754075351 625 453 489.625148431 453 294 c 0
+ 453 124.615705711 391.370254439 25 246 25 c 2
+ 100 25 l 2
+ 89.2700956673 25 75 34.8674621445 75 50 c 2
+ 75 600 l 2
+125 575 m 1
+ 125 75 l 1
+ 246 75 l 2
+ 356.629745561 75 403 135.384294289 403 294 c 0
+ 403 474.396127563 318.245924649 575 190 575 c 2
+ 125 575 l 1
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 338
+Width: 540
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+434 524.509514446 m 5
+ 398.987609671 578.195383976 345.681601274 600 280 600 c 4
+ 159 600 80 526 80 315 c 4
+ 80 104 159 30 280 30 c 4
+ 345.681601274 30 398.987609671 51.8046160236 434 105.490485554 c 5
+ 463.488156972 150.705831693 456 250 456 250 c 29
+ 300 250 l 1053
+EndSplineSet
+Fore
+SplineSet
+480.932230075 251.839650348 m 2
+ 481.048235862 250.278568345 491.952102524 148.585491394 454.940288707 91.8338275126 c 0
+ 414.592211683 29.9665405734 351.329088607 5 280 5 c 0
+ 142.601772695 5 55 97.2270794873 55 315 c 0
+ 55 532.7733421 142.605758798 625 280 625 c 0
+ 351.326578354 625 414.597576226 600.025233763 454.940288707 538.166172487 c 0
+ 462.378867549 526.76030818 459.062522349 511.00780458 447.656658041 503.569225739 c 0
+ 436.250793734 496.130646897 420.498290134 499.446992097 413.059711293 510.852856405 c 0
+ 383.377643115 556.36553419 340.036624195 575 280 575 c 0
+ 175.394241202 575 105 519.2266579 105 315 c 0
+ 105 110.772920513 175.398227305 55 280 55 c 0
+ 340.034113942 55 383.383007658 73.6426914739 413.059711293 119.147143595 c 0
+ 427.23681074 140.885445496 432.009843938 194.838325367 431.840366435 225 c 1
+ 300 225 l 2
+ 286.382871236 225 275 236.382871236 275 250 c 0
+ 275 263.617128764 286.382871236 275 300 275 c 2
+ 456 275 l 2
+ 457 275 480.932230075 251.839650348 480.932230075 251.839650348 c 2
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 339
+Width: 350
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+250 700 m 29
+ 100 700 l 29
+ 100 -100 l 29
+ 250 -100 l 1053
+EndSplineSet
+Fore
+SplineSet
+275 700 m 0
+ 275 686.382871236 263.617128764 675 250 675 c 2
+ 125 675 l 1
+ 125 -75 l 1
+ 250 -75 l 2
+ 263.617128764 -75 275 -86.3828712355 275 -100 c 0
+ 275 -113.617128764 263.617128764 -125 250 -125 c 2
+ 100 -125 l 2
+ 89.2700956673 -125 75 -115.132537856 75 -100 c 2
+ 75 700 l 2
+ 75 710.729904333 84.8674621445 725 100 725 c 2
+ 250 725 l 2
+ 263.617128764 725 275 713.617128764 275 700 c 0
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 340
+Width: 350
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+102 700 m 29
+ 252 700 l 29
+ 252 -100 l 29
+ 102 -100 l 1053
+EndSplineSet
+Fore
+SplineSet
+77 700 m 0
+ 77 713.617128764 88.3828712355 725 102 725 c 2
+ 252 725 l 2
+ 267.132537856 725 277 710.729904333 277 700 c 2
+ 277 -100 l 2
+ 277 -115.132537856 262.729904333 -125 252 -125 c 2
+ 102 -125 l 2
+ 88.3828712355 -125 77 -113.617128764 77 -100 c 0
+ 77 -86.3828712355 88.3828712355 -75 102 -75 c 2
+ 227 -75 l 1
+ 227 675 l 1
+ 102 675 l 2
+ 88.3828712355 675 77 686.382871236 77 700 c 0
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 341
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 50 m 5
+ 300 600 l 1053
+EndSplineSet
+Fore
+SplineSet
+91.4564234228 26.5051644128 m 0
+ 78.6591353632 31.1587237072 71.8516051184 45.7462885175 76.5051644128 58.5435765772 c 2
+ 276.505164413 608.543576577 l 2
+ 281.158723707 621.340864637 295.746288518 628.148394882 308.543576577 623.494835587 c 0
+ 321.340864637 618.841276293 328.148394882 604.253711482 323.494835587 591.456423423 c 2
+ 123.494835587 41.4564234228 l 2
+ 118.841276293 28.6591353632 104.253711482 21.8516051184 91.4564234228 26.5051644128 c 0
+EndSplineSet
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 342
+Width: 400
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+300 50 m 5
+ 100 600 l 1029
+EndSplineSet
+Fore
+SplineSet
+308.543576577 26.5051644128 m 0
+ 295.746288518 21.8516051184 281.158723707 28.6591353632 276.505164413 41.4564234228 c 2
+ 76.5051644128 591.456423423 l 2
+ 71.8516051184 604.253711482 78.6591353632 618.841276293 91.4564234228 623.494835587 c 0
+ 104.253711482 628.148394882 118.841276293 621.340864637 123.494835587 608.543576577 c 2
+ 323.494835587 58.5435765772 l 2
+ 328.148394882 45.7462885175 321.340864637 31.1587237072 308.543576577 26.5051644128 c 0
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 343
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 -100 m 29
+ 400 -100 l 1053
+EndSplineSet
+Fore
+SplineSet
+75 -100 m 0
+ 75 -86.3828712355 86.3828712355 -75 100 -75 c 2
+ 400 -75 l 2
+ 413.617128764 -75 425 -86.3828712355 425 -100 c 0
+ 425 -113.617128764 413.617128764 -125 400 -125 c 2
+ 100 -125 l 2
+ 86.3828712355 -125 75 -113.617128764 75 -100 c 0
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 96 96 344
+Width: 270
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+73 658 m 5
+ 186 538 l 1029
+EndSplineSet
+Fore
+SplineSet
+55.8611520746 676.20054647 m 0
+ 65.7747194689 685.535822433 81.8652705065 685.05241532 91.2005464695 675.138847925 c 2
+ 204.20054647 555.138847925 l 2
+ 213.535822433 545.225280531 213.05241532 529.134729494 203.138847925 519.79945353 c 0
+ 193.225280531 510.464177567 177.134729494 510.94758468 167.79945353 520.861152075 c 2
+ 54.7994535305 640.861152075 l 2
+ 45.4641775675 650.774719469 45.9475846802 666.865270506 55.8611520746 676.20054647 c 0
+EndSplineSet
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 345
+Width: 362
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 550 m 29
+ 180 642 l 29
+ 258 554 l 1053
+EndSplineSet
+Fore
+SplineSet
+83.5955321269 531.134861946 m 0
+ 73.3199715652 540.070132 72.1995918923 556.128907311 81.1348619459 566.404467873 c 2
+ 161.134861946 658.404467873 l 2
+ 171.280316506 670.071740617 189.522845528 668.946186061 198.708673481 658.582687858 c 2
+ 276.708673481 570.582687858 l 2
+ 285.741017314 560.392351226 284.77302449 544.323670352 274.582687858 535.291326519 c 0
+ 264.392351226 526.258982686 248.323670352 527.22697551 239.291326519 537.417312142 c 2
+ 180.179732461 604.107315695 l 1
+ 118.865138054 533.595532127 l 2
+ 109.929868 523.319971565 93.8710926886 522.199591892 83.5955321269 531.134861946 c 0
+EndSplineSet
+EndChar
+
+StartChar: bar
+Encoding: 124 124 346
+Width: 200
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+100 700 m 29
+ 100 -100 l 1053
+EndSplineSet
+Fore
+SplineSet
+100 725 m 0
+ 113.617128764 725 125 713.617128764 125 700 c 2
+ 125 -100 l 2
+ 125 -113.617128764 113.617128764 -125 100 -125 c 0
+ 86.3828712355 -125 75 -113.617128764 75 -100 c 2
+ 75 700 l 2
+ 75 713.617128764 86.3828712355 725 100 725 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

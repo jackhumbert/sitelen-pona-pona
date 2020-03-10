@@ -62,15 +62,21 @@ h1 {
     padding-bottom: 10px;
 }
 
-.spp {
-    font-family: var(--selected-font);
-    line-height: 1.25;
-    text-rendering: optimizeLegibility;
-    font-size: 44px;
+.example .spp {
+    font-size: 48px;
 }
 
+.spp {
+    font-family: var(--selected-font);
+    text-rendering: optimizeLegibility;
+}
+
+.grid .spp {
+    font-size: 64px;
+}
 
 .list .word {
+    align-self: stretch;
     width: 50%;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
@@ -79,14 +85,19 @@ h1 {
     float: left;
     width: 50px;
     text-align: center;
+    font-size: 36px;
+    line-height: 50px;
+    height: 100%;
 }
 
 .tp {
     font-weight: bold;
+    line-height: 25px;
 }
 
 .eng {
     font-style: italic;
+    line-height: 25px;
 }
 
 code, .zlm {
