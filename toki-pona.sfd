@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1583856371
+ModificationTime: 1583856883
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9891,7 +9891,7 @@ StartChar: E_under
 Encoding: 1114123 -1 155
 Width: 450
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -225 50<-24.7959 474.796> 25 50<125 380.796> 225 50<125 273.796> 425 50<125 374.796> 675 50<-24.7959 474.796>
 VStem: 75 50<75 225 275 425>
 LayerCount: 2
@@ -10582,9 +10582,9 @@ EndChar
 
 StartChar: e_under
 Encoding: 1114137 -1 169
-Width: 500
+Width: 450
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: -225 50<-24.7959 474.796> 25 50<125 380.796> 225 50<125 273.796> 425 50<125 374.796> 675 50<-24.7959 474.796>
 VStem: 75 50<75 225 275 425>
 LayerCount: 2
