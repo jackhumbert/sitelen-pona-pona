@@ -38,6 +38,29 @@ h1 {
     font-size: var(--size);
     background: transparent;
     font-family: var(--selected-font);
+    line-height: 1.0;
+    text-rendering: optimizeLegibility;
+}
+
+.word {
+    float: left;
+    width: 100px;
+    text-align: center;
+}
+
+.word .spp {
+    font-family: var(--selected-font);
+    line-height: 1.0;
+    text-rendering: optimizeLegibility;
+    font-size: 56px;
+}
+
+.word .tp {
+
+}
+
+.word .eng {
+    font-style: italic;
 }
 
 code, .zlm {

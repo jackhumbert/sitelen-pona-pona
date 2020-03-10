@@ -1,4 +1,4 @@
-@start_replace = [ perc ];
+@start_replace = [ percent ];
 @tp_words = [ tp_a tp_akesi tp_ala tp_alasa tp_ale tp_anpa tp_ante tp_anu tp_awen tp_e tp_en tp_esun tp_ijo tp_ike tp_ilo tp_insa tp_jaki tp_jan tp_jelo tp_jo tp_kala tp_kalama tp_kama tp_kasi tp_ken tp_kepeken tp_kili tp_kiwen tp_ko tp_kon tp_kule tp_kulupu tp_kute tp_la tp_lape tp_laso tp_lawa tp_len tp_lete tp_li tp_lili tp_linja tp_lipu tp_loje tp_lon tp_luka tp_lukin tp_oko tp_lupa tp_ma tp_mama tp_mani tp_meli tp_mi tp_mije tp_moku tp_moli tp_monsi tp_mu tp_mun tp_musi tp_mute tp_nanpa tp_nasa tp_nasin tp_nena tp_ni tp_nimi tp_noka tp_o tp_olin tp_ona tp_open tp_pakala tp_pali tp_palisa tp_pan tp_pana tp_pi tp_pilin tp_pimeja tp_pini tp_pipi tp_poka tp_poki tp_pona tp_pu tp_sama tp_seli tp_selo tp_seme tp_sewi tp_sijelo tp_sike tp_sin tp_namako tp_sina tp_sinpin tp_sitelen tp_sona tp_soweli tp_suli tp_suno tp_supa tp_suwi tp_tan tp_taso tp_tawa tp_telo tp_tenpo tp_toki tp_tomo tp_tu tp_unpa tp_uta tp_utala tp_walo tp_wan tp_waso tp_wawa tp_weka tp_wile ];
 @punc = [ colon semicolon qmark exclam period comma ];
 @tp_upper = [ A E I J K L M N O P S T U W ];
@@ -148,7 +148,9 @@ lookup tokiponaWords {
 
 lookup spaceShorten {
   lookupflag 0;
-  ignore sub [space tp_space @punc] space';
+  ignore sub space space';
+  ignore sub tp_space space';
+  ignore sub @punc space';
   sub space' by tp_space;
 } spaceShorten;
 
@@ -303,6 +305,7 @@ lookup tokiponaWordsSalt4s {
   sub p' o' k' a' tp_space' by tp_poka;
   sub p' o' k' i' tp_space' by tp_poki;
   sub p' o' n' a' tp_space' by tp_pona;
+  sub s' a' m' a' tp_space' by tp_sama;
   sub s' e' l' i' tp_space' by tp_seli;
   sub s' e' l' o' tp_space' by tp_selo;
   sub s' e' m' e' tp_space' by tp_seme;
@@ -374,6 +377,7 @@ lookup tokiponaWordsSalt4 {
   sub p' o' k' a' by tp_poka;
   sub p' o' k' i' by tp_poki;
   sub p' o' n' a' by tp_pona;
+  sub s' a' m' a' by tp_sama;
   sub s' e' l' i' by tp_seli;
   sub s' e' l' o' by tp_selo;
   sub s' e' m' e' by tp_seme;
