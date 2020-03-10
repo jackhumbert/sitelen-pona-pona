@@ -278,6 +278,7 @@ lookup tokiponaWordsSalt4s {
   sub l' a' p' e' tp_space' by tp_lape;
   sub l' a' s' o' tp_space' by tp_laso;
   sub l' a' w' a' tp_space' by tp_lawa;
+  sub l' e' k' o' tp_space' by tp_leko;
   sub l' e' t' e' tp_space' by tp_lete;
   sub l' i' l' i' tp_space' by tp_lili;
   sub l' i' p' u' tp_space' by tp_lipu;
@@ -298,6 +299,7 @@ lookup tokiponaWordsSalt4s {
   sub n' o' k' a' tp_space' by tp_noka;
   sub o' l' i' n' tp_space' by tp_olin;
   sub o' p' e' n' tp_space' by tp_open;
+  sub p' a' k' e' tp_space' by tp_pake;
   sub p' a' l' i' tp_space' by tp_pali;
   sub p' a' n' a' tp_space' by tp_pana;
   sub p' i' n' i' tp_space' by tp_pini;
@@ -350,6 +352,7 @@ lookup tokiponaWordsSalt4 {
   sub l' a' p' e' by tp_lape;
   sub l' a' s' o' by tp_laso;
   sub l' a' w' a' by tp_lawa;
+  sub l' e' k' o' by tp_leko;
   sub l' e' t' e' by tp_lete;
   sub l' i' l' i' by tp_lili;
   sub l' i' p' u' by tp_lipu;
@@ -370,6 +373,7 @@ lookup tokiponaWordsSalt4 {
   sub n' o' k' a' by tp_noka;
   sub o' l' i' n' by tp_olin;
   sub o' p' e' n' by tp_open;
+  sub p' a' k' e' by tp_pake;
   sub p' a' l' i' by tp_pali;
   sub p' a' n' a' by tp_pana;
   sub p' i' n' i' by tp_pini;
@@ -407,6 +411,7 @@ lookup tokiponaWordsSalt5s {
   ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' tp_space';
   sub a' k' e' s' i' tp_space' by tp_akesi;
   sub a' l' a' s' a' tp_space' by tp_alasa;
+  sub a' p' e' j' a' tp_space' by tp_apeja;
   sub k' i' w' e' n' tp_space' by tp_kiwen;
   sub l' i' n' j' a' tp_space' by tp_linja;
   sub l' u' k' i' n' tp_space' by tp_lukin;
@@ -424,6 +429,7 @@ lookup tokiponaWordsSalt5 {
   ignore sub @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters;
   sub a' k' e' s' i' by tp_akesi;
   sub a' l' a' s' a' by tp_alasa;
+  sub a' p' e' j' a' by tp_apeja;
   sub k' i' w' e' n' by tp_kiwen;
   sub l' i' n' j' a' by tp_linja;
   sub l' u' k' i' n' by tp_lukin;
@@ -439,6 +445,7 @@ lookup tokiponaWordsSalt6s {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters'  @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' tp_space';
   sub k' a' l' a' m' a' tp_space' by tp_kalama;
+  sub k' i' p' i' s' i' tp_space' by tp_kipisi;
   sub k' u' l' u' p' u' tp_space' by tp_kulupu;
   sub n' a' m' a' k' o' tp_space' by tp_namako;
   sub p' a' k' a' l' a' tp_space' by tp_pakala;
@@ -454,6 +461,7 @@ lookup tokiponaWordsSalt6 {
   ignore sub @tp_letters @tp_letters'  @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters';
   ignore sub @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters;
   sub k' a' l' a' m' a' by tp_kalama;
+  sub k' i' p' i' s' i' by tp_kipisi;
   sub k' u' l' u' p' u' by tp_kulupu;
   sub n' a' m' a' k' o' by tp_namako;
   sub p' a' k' a' l' a' by tp_pakala;
@@ -468,6 +476,7 @@ lookup tokiponaWordsSalt7s {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' tp_space';
   sub k' e' p' e' k' e' n' tp_space' by tp_kepeken;
+  sub m' o' n' s' u' t' a' tp_space' by tp_monsuta;
   sub s' i' t' e' l' e' n' tp_space' by tp_sitelen;
 } tokiponaWordsSalt7s;
 
@@ -476,6 +485,7 @@ lookup tokiponaWordsSalt7 {
   ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters';
   ignore sub @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters;
   sub k' e' p' e' k' e' n' by tp_kepeken;
+  sub m' o' n' s' u' t' a' by tp_monsuta;
   sub s' i' t' e' l' e' n' by tp_sitelen;
 } tokiponaWordsSalt7;
 
