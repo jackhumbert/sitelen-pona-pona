@@ -18,7 +18,7 @@ body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif, "sitelen pona pona";
     padding-top: 50px;
     text-rendering: optimizeLegibility;
-    font-feature-settings: "kern" 1, "mark" 1, "salt" 1;
+    font-feature-settings: "salt" 1;
 }
 
 .system {
@@ -52,7 +52,7 @@ h1 {
 }
 
 .grid .word {
-    flex-basis: 6.25%;
+    flex-basis: 60px;
     align-self: stretch;
     text-align: center;
 }
@@ -73,7 +73,12 @@ h1 {
 
 .grid .spp {
     font-size: 64px;
+    line-height: 64px;
 }
+
+.grid .tp {
+    padding-bottom: 20px;
+} 
 
 .list .word {
     align-self: stretch;
@@ -90,7 +95,7 @@ h1 {
     height: 100%;
 }
 
-.tp {
+.list .tp {
     font-weight: bold;
     line-height: 25px;
 }
