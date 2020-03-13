@@ -9,3 +9,5 @@ This concept (and embedded font) adapts [sitelen pona](http://tokipona.net/tp/ja
 * align with standard Latin punctuation and text (can be used inline)
 
 [The font can be downloaded from the releases page](https://github.com/jackhumbert/sitelen-pona-pona/releases), and [the full write-up/demo is hosted here](https://jackhumbert.github.io/sitelen-pona-pona/).
+
+![sitelen pona preview](preview.png)
