@@ -18,7 +18,7 @@ body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif, "sitelen pona pona";
     padding-top: 50px;
     text-rendering: optimizeLegibility;
-    font-feature-settings: "salt" 1;
+    font-feature-settings: "liga" 1;
 }
 
 .system {

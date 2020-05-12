@@ -583,17 +583,17 @@
 
       <p>The glyphs are mapped to the currently-unused <a href="https://www.kreativekorp.com/ucsur/roadmap.shtml">UCSUR</a> range of 0xEE00 to 0xEE82 - this includes discrete codes for the left and right cartouche ends and a combining code, for optionally inserting glyphs into each other, where readable (this is not widely implemented). All the details of this deserve a full Unicode proposal, mapping all words (e.g. ones that may be missing), along with full names that follow the correct conventions.</p>
 
-      <p>The font uses OpenType features (the <code>salt</code> table - stylistic alternatives) to automatically convert Latin text into the individual sitelen pona glyphs - in cases where there shouldn't be a space between the glyphs (anywhere but double spaces or after punctuation), this is removed. A full Latin font is included as well, and toki pona text will render in this if the <code>salt</code> table is not active. When active, any words not listed above will automatically be cartouched, so long as valid toki pona letters are used. To use the cartouche with toki pona characters, you can use the square brackets - the encapsulated characters don't have the lines above/below them: <span class="spp">jan [jaki akesi kon olin]</span>  - <em>jan [jaki akesi kon olin]</em>, compared to <span class="spp">jan jako</span> - <em>jan jako</em>.</p>
+      <p>The font uses OpenType features (the <code>liga</code> table) to automatically convert Latin text into the individual sitelen pona glyphs - in cases where there shouldn't be a space between the glyphs (anywhere but double spaces or after punctuation), this is removed. A full Latin font is included as well, and toki pona text will render in this if the <code>liga</code> table is not active. When active, any words not listed above will automatically be cartouched, so long as valid toki pona letters are used. To use the cartouche with toki pona characters, you can use the square brackets - the encapsulated characters don't have the lines above/below them: <span class="spp">jan [jaki akesi kon olin]</span>  - <em>jan [jaki akesi kon olin]</em>, compared to <span class="spp">jan jako</span> - <em>jan jako</em>.</p>
 
       <p>Some glyphs can be combined by using a hyphen between words, like this: <span class="spp">sona-ala</span> (sona-ala), which is one of the few combinations currently enabled. Because of the difficulty of reading these at smaller sizes, and the already-high density of information in these glyphs, this wasn't seen as important of a feature.</p>
 
-      <p>When using the font on a webpage, you can use this css to force the <code>salt</code> table to activate:</p>
+      <p>When using the font on a webpage, you can use this css to force the <code>liga</code> table to activate:</p>
 
       <pre><code>text-rendering: optimizeLegibility;
-font-feature-settings: "salt" 1;
+font-feature-settings: "liga" 1;
 </code></pre>
 
-      <p>Many graphic programs have glyph/typography option panels that allow you to enable stylistic alternatives, or at least a glyph browser to manually select them. If all else fails, the glyphs in the table above (and only this table) are the Unicode representations, and can be copy/pasted into any program where the font is available - the <code>salt</code> is not required for these to work.</p>
+      <p>Many graphic programs have glyph/typography option panels that allow you to enable stylistic alternatives, or at least a glyph browser to manually select them. If all else fails, the glyphs in the table above (and only this table) are the Unicode representations, and can be copy/pasted into any program where the font is available - the <code>liga</code> is not required for these to work.</p>
 
       <h2>Examples</h2> 
 

@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1584069287
+ModificationTime: 1589292963
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,17 +44,17 @@ OS2CapHeight: 716
 OS2XHeight: 520
 OS2Vendor: 'PfEd'
 Lookup: 4 0 1 "tokiponaWords" { "tokiponaWords subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 6 0 0 "spaceShorten" { "spaceShorten contextual 0"  "spaceShorten contextual 1"  "spaceShorten contextual 2"  "spaceShorten contextual 3"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "spaceShorten" { "spaceShorten contextual 0"  "spaceShorten contextual 1"  "spaceShorten contextual 2"  "spaceShorten contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt1s" { "tokiponaWordsSalt1s contextual 0"  "tokiponaWordsSalt1s contextual 1"  "tokiponaWordsSalt1s contextual 2"  "tokiponaWordsSalt1s contextual 3"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt1s" { "tokiponaWordsSalt1s contextual 0"  "tokiponaWordsSalt1s contextual 1"  "tokiponaWordsSalt1s contextual 2"  "tokiponaWordsSalt1s contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 4" { "Ligature Substitution lookup 4 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 5" { "Ligature Substitution lookup 5 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 6" { "Ligature Substitution lookup 6 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt1" { "tokiponaWordsSalt1 contextual 0"  "tokiponaWordsSalt1 contextual 1"  "tokiponaWordsSalt1 contextual 2"  "tokiponaWordsSalt1 contextual 3"  "tokiponaWordsSalt1 contextual 4"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt1" { "tokiponaWordsSalt1 contextual 0"  "tokiponaWordsSalt1 contextual 1"  "tokiponaWordsSalt1 contextual 2"  "tokiponaWordsSalt1 contextual 3"  "tokiponaWordsSalt1 contextual 4"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 9" { "Single Substitution lookup 9 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 10" { "Single Substitution lookup 10 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt2s" { "tokiponaWordsSalt2s contextual 0"  "tokiponaWordsSalt2s contextual 1"  "tokiponaWordsSalt2s contextual 2"  "tokiponaWordsSalt2s contextual 3"  "tokiponaWordsSalt2s contextual 4"  "tokiponaWordsSalt2s contextual 5"  "tokiponaWordsSalt2s contextual 6"  "tokiponaWordsSalt2s contextual 7"  "tokiponaWordsSalt2s contextual 8"  "tokiponaWordsSalt2s contextual 9"  "tokiponaWordsSalt2s contextual 10"  "tokiponaWordsSalt2s contextual 11"  "tokiponaWordsSalt2s contextual 12"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt2s" { "tokiponaWordsSalt2s contextual 0"  "tokiponaWordsSalt2s contextual 1"  "tokiponaWordsSalt2s contextual 2"  "tokiponaWordsSalt2s contextual 3"  "tokiponaWordsSalt2s contextual 4"  "tokiponaWordsSalt2s contextual 5"  "tokiponaWordsSalt2s contextual 6"  "tokiponaWordsSalt2s contextual 7"  "tokiponaWordsSalt2s contextual 8"  "tokiponaWordsSalt2s contextual 9"  "tokiponaWordsSalt2s contextual 10"  "tokiponaWordsSalt2s contextual 11"  "tokiponaWordsSalt2s contextual 12"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 12" { "Ligature Substitution lookup 12 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 13" { "Ligature Substitution lookup 13 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 14" { "Ligature Substitution lookup 14 subtable"  } []
@@ -67,7 +67,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 20" { "Ligature Substitution lookup 
 Lookup: 4 0 0 "Ligature Substitution lookup 21" { "Ligature Substitution lookup 21 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 22" { "Ligature Substitution lookup 22 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 23" { "Ligature Substitution lookup 23 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt2" { "tokiponaWordsSalt2 contextual 0"  "tokiponaWordsSalt2 contextual 1"  "tokiponaWordsSalt2 contextual 2"  "tokiponaWordsSalt2 contextual 3"  "tokiponaWordsSalt2 contextual 4"  "tokiponaWordsSalt2 contextual 5"  "tokiponaWordsSalt2 contextual 6"  "tokiponaWordsSalt2 contextual 7"  "tokiponaWordsSalt2 contextual 8"  "tokiponaWordsSalt2 contextual 9"  "tokiponaWordsSalt2 contextual 10"  "tokiponaWordsSalt2 contextual 11"  "tokiponaWordsSalt2 contextual 12"  "tokiponaWordsSalt2 contextual 13"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt2" { "tokiponaWordsSalt2 contextual 0"  "tokiponaWordsSalt2 contextual 1"  "tokiponaWordsSalt2 contextual 2"  "tokiponaWordsSalt2 contextual 3"  "tokiponaWordsSalt2 contextual 4"  "tokiponaWordsSalt2 contextual 5"  "tokiponaWordsSalt2 contextual 6"  "tokiponaWordsSalt2 contextual 7"  "tokiponaWordsSalt2 contextual 8"  "tokiponaWordsSalt2 contextual 9"  "tokiponaWordsSalt2 contextual 10"  "tokiponaWordsSalt2 contextual 11"  "tokiponaWordsSalt2 contextual 12"  "tokiponaWordsSalt2 contextual 13"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 25" { "Ligature Substitution lookup 25 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 26" { "Ligature Substitution lookup 26 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 27" { "Ligature Substitution lookup 27 subtable"  } []
@@ -80,7 +80,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 33" { "Ligature Substitution lookup 
 Lookup: 4 0 0 "Ligature Substitution lookup 34" { "Ligature Substitution lookup 34 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 35" { "Ligature Substitution lookup 35 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 36" { "Ligature Substitution lookup 36 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt3s" { "tokiponaWordsSalt3s contextual 0"  "tokiponaWordsSalt3s contextual 1"  "tokiponaWordsSalt3s contextual 2"  "tokiponaWordsSalt3s contextual 3"  "tokiponaWordsSalt3s contextual 4"  "tokiponaWordsSalt3s contextual 5"  "tokiponaWordsSalt3s contextual 6"  "tokiponaWordsSalt3s contextual 7"  "tokiponaWordsSalt3s contextual 8"  "tokiponaWordsSalt3s contextual 9"  "tokiponaWordsSalt3s contextual 10"  "tokiponaWordsSalt3s contextual 11"  "tokiponaWordsSalt3s contextual 12"  "tokiponaWordsSalt3s contextual 13"  "tokiponaWordsSalt3s contextual 14"  "tokiponaWordsSalt3s contextual 15"  "tokiponaWordsSalt3s contextual 16"  "tokiponaWordsSalt3s contextual 17"  "tokiponaWordsSalt3s contextual 18"  "tokiponaWordsSalt3s contextual 19"  "tokiponaWordsSalt3s contextual 20"  "tokiponaWordsSalt3s contextual 21"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt3s" { "tokiponaWordsSalt3s contextual 0"  "tokiponaWordsSalt3s contextual 1"  "tokiponaWordsSalt3s contextual 2"  "tokiponaWordsSalt3s contextual 3"  "tokiponaWordsSalt3s contextual 4"  "tokiponaWordsSalt3s contextual 5"  "tokiponaWordsSalt3s contextual 6"  "tokiponaWordsSalt3s contextual 7"  "tokiponaWordsSalt3s contextual 8"  "tokiponaWordsSalt3s contextual 9"  "tokiponaWordsSalt3s contextual 10"  "tokiponaWordsSalt3s contextual 11"  "tokiponaWordsSalt3s contextual 12"  "tokiponaWordsSalt3s contextual 13"  "tokiponaWordsSalt3s contextual 14"  "tokiponaWordsSalt3s contextual 15"  "tokiponaWordsSalt3s contextual 16"  "tokiponaWordsSalt3s contextual 17"  "tokiponaWordsSalt3s contextual 18"  "tokiponaWordsSalt3s contextual 19"  "tokiponaWordsSalt3s contextual 20"  "tokiponaWordsSalt3s contextual 21"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 38" { "Ligature Substitution lookup 38 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 39" { "Ligature Substitution lookup 39 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 40" { "Ligature Substitution lookup 40 subtable"  } []
@@ -102,7 +102,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 55" { "Ligature Substitution lookup 
 Lookup: 4 0 0 "Ligature Substitution lookup 56" { "Ligature Substitution lookup 56 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 57" { "Ligature Substitution lookup 57 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 58" { "Ligature Substitution lookup 58 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt3" { "tokiponaWordsSalt3 contextual 0"  "tokiponaWordsSalt3 contextual 1"  "tokiponaWordsSalt3 contextual 2"  "tokiponaWordsSalt3 contextual 3"  "tokiponaWordsSalt3 contextual 4"  "tokiponaWordsSalt3 contextual 5"  "tokiponaWordsSalt3 contextual 6"  "tokiponaWordsSalt3 contextual 7"  "tokiponaWordsSalt3 contextual 8"  "tokiponaWordsSalt3 contextual 9"  "tokiponaWordsSalt3 contextual 10"  "tokiponaWordsSalt3 contextual 11"  "tokiponaWordsSalt3 contextual 12"  "tokiponaWordsSalt3 contextual 13"  "tokiponaWordsSalt3 contextual 14"  "tokiponaWordsSalt3 contextual 15"  "tokiponaWordsSalt3 contextual 16"  "tokiponaWordsSalt3 contextual 17"  "tokiponaWordsSalt3 contextual 18"  "tokiponaWordsSalt3 contextual 19"  "tokiponaWordsSalt3 contextual 20"  "tokiponaWordsSalt3 contextual 21"  "tokiponaWordsSalt3 contextual 22"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt3" { "tokiponaWordsSalt3 contextual 0"  "tokiponaWordsSalt3 contextual 1"  "tokiponaWordsSalt3 contextual 2"  "tokiponaWordsSalt3 contextual 3"  "tokiponaWordsSalt3 contextual 4"  "tokiponaWordsSalt3 contextual 5"  "tokiponaWordsSalt3 contextual 6"  "tokiponaWordsSalt3 contextual 7"  "tokiponaWordsSalt3 contextual 8"  "tokiponaWordsSalt3 contextual 9"  "tokiponaWordsSalt3 contextual 10"  "tokiponaWordsSalt3 contextual 11"  "tokiponaWordsSalt3 contextual 12"  "tokiponaWordsSalt3 contextual 13"  "tokiponaWordsSalt3 contextual 14"  "tokiponaWordsSalt3 contextual 15"  "tokiponaWordsSalt3 contextual 16"  "tokiponaWordsSalt3 contextual 17"  "tokiponaWordsSalt3 contextual 18"  "tokiponaWordsSalt3 contextual 19"  "tokiponaWordsSalt3 contextual 20"  "tokiponaWordsSalt3 contextual 21"  "tokiponaWordsSalt3 contextual 22"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 60" { "Ligature Substitution lookup 60 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 61" { "Ligature Substitution lookup 61 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 62" { "Ligature Substitution lookup 62 subtable"  } []
@@ -124,7 +124,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 77" { "Ligature Substitution lookup 
 Lookup: 4 0 0 "Ligature Substitution lookup 78" { "Ligature Substitution lookup 78 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 79" { "Ligature Substitution lookup 79 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 80" { "Ligature Substitution lookup 80 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt4s" { "tokiponaWordsSalt4s contextual 0"  "tokiponaWordsSalt4s contextual 1"  "tokiponaWordsSalt4s contextual 2"  "tokiponaWordsSalt4s contextual 3"  "tokiponaWordsSalt4s contextual 4"  "tokiponaWordsSalt4s contextual 5"  "tokiponaWordsSalt4s contextual 6"  "tokiponaWordsSalt4s contextual 7"  "tokiponaWordsSalt4s contextual 8"  "tokiponaWordsSalt4s contextual 9"  "tokiponaWordsSalt4s contextual 10"  "tokiponaWordsSalt4s contextual 11"  "tokiponaWordsSalt4s contextual 12"  "tokiponaWordsSalt4s contextual 13"  "tokiponaWordsSalt4s contextual 14"  "tokiponaWordsSalt4s contextual 15"  "tokiponaWordsSalt4s contextual 16"  "tokiponaWordsSalt4s contextual 17"  "tokiponaWordsSalt4s contextual 18"  "tokiponaWordsSalt4s contextual 19"  "tokiponaWordsSalt4s contextual 20"  "tokiponaWordsSalt4s contextual 21"  "tokiponaWordsSalt4s contextual 22"  "tokiponaWordsSalt4s contextual 23"  "tokiponaWordsSalt4s contextual 24"  "tokiponaWordsSalt4s contextual 25"  "tokiponaWordsSalt4s contextual 26"  "tokiponaWordsSalt4s contextual 27"  "tokiponaWordsSalt4s contextual 28"  "tokiponaWordsSalt4s contextual 29"  "tokiponaWordsSalt4s contextual 30"  "tokiponaWordsSalt4s contextual 31"  "tokiponaWordsSalt4s contextual 32"  "tokiponaWordsSalt4s contextual 33"  "tokiponaWordsSalt4s contextual 34"  "tokiponaWordsSalt4s contextual 35"  "tokiponaWordsSalt4s contextual 36"  "tokiponaWordsSalt4s contextual 37"  "tokiponaWordsSalt4s contextual 38"  "tokiponaWordsSalt4s contextual 39"  "tokiponaWordsSalt4s contextual 40"  "tokiponaWordsSalt4s contextual 41"  "tokiponaWordsSalt4s contextual 42"  "tokiponaWordsSalt4s contextual 43"  "tokiponaWordsSalt4s contextual 44"  "tokiponaWordsSalt4s contextual 45"  "tokiponaWordsSalt4s contextual 46"  "tokiponaWordsSalt4s contextual 47"  "tokiponaWordsSalt4s contextual 48"  "tokiponaWordsSalt4s contextual 49"  "tokiponaWordsSalt4s contextual 50"  "tokiponaWordsSalt4s contextual 51"  "tokiponaWordsSalt4s contextual 52"  "tokiponaWordsSalt4s contextual 53"  "tokiponaWordsSalt4s contextual 54"  "tokiponaWordsSalt4s contextual 55"  "tokiponaWordsSalt4s contextual 56"  "tokiponaWordsSalt4s contextual 57"  "tokiponaWordsSalt4s contextual 58"  "tokiponaWordsSalt4s contextual 59"  "tokiponaWordsSalt4s contextual 60"  "tokiponaWordsSalt4s contextual 61"  "tokiponaWordsSalt4s contextual 62"  "tokiponaWordsSalt4s contextual 63"  "tokiponaWordsSalt4s contextual 64"  "tokiponaWordsSalt4s contextual 65"  "tokiponaWordsSalt4s contextual 66"  "tokiponaWordsSalt4s contextual 67"  "tokiponaWordsSalt4s contextual 68"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt4s" { "tokiponaWordsSalt4s contextual 0"  "tokiponaWordsSalt4s contextual 1"  "tokiponaWordsSalt4s contextual 2"  "tokiponaWordsSalt4s contextual 3"  "tokiponaWordsSalt4s contextual 4"  "tokiponaWordsSalt4s contextual 5"  "tokiponaWordsSalt4s contextual 6"  "tokiponaWordsSalt4s contextual 7"  "tokiponaWordsSalt4s contextual 8"  "tokiponaWordsSalt4s contextual 9"  "tokiponaWordsSalt4s contextual 10"  "tokiponaWordsSalt4s contextual 11"  "tokiponaWordsSalt4s contextual 12"  "tokiponaWordsSalt4s contextual 13"  "tokiponaWordsSalt4s contextual 14"  "tokiponaWordsSalt4s contextual 15"  "tokiponaWordsSalt4s contextual 16"  "tokiponaWordsSalt4s contextual 17"  "tokiponaWordsSalt4s contextual 18"  "tokiponaWordsSalt4s contextual 19"  "tokiponaWordsSalt4s contextual 20"  "tokiponaWordsSalt4s contextual 21"  "tokiponaWordsSalt4s contextual 22"  "tokiponaWordsSalt4s contextual 23"  "tokiponaWordsSalt4s contextual 24"  "tokiponaWordsSalt4s contextual 25"  "tokiponaWordsSalt4s contextual 26"  "tokiponaWordsSalt4s contextual 27"  "tokiponaWordsSalt4s contextual 28"  "tokiponaWordsSalt4s contextual 29"  "tokiponaWordsSalt4s contextual 30"  "tokiponaWordsSalt4s contextual 31"  "tokiponaWordsSalt4s contextual 32"  "tokiponaWordsSalt4s contextual 33"  "tokiponaWordsSalt4s contextual 34"  "tokiponaWordsSalt4s contextual 35"  "tokiponaWordsSalt4s contextual 36"  "tokiponaWordsSalt4s contextual 37"  "tokiponaWordsSalt4s contextual 38"  "tokiponaWordsSalt4s contextual 39"  "tokiponaWordsSalt4s contextual 40"  "tokiponaWordsSalt4s contextual 41"  "tokiponaWordsSalt4s contextual 42"  "tokiponaWordsSalt4s contextual 43"  "tokiponaWordsSalt4s contextual 44"  "tokiponaWordsSalt4s contextual 45"  "tokiponaWordsSalt4s contextual 46"  "tokiponaWordsSalt4s contextual 47"  "tokiponaWordsSalt4s contextual 48"  "tokiponaWordsSalt4s contextual 49"  "tokiponaWordsSalt4s contextual 50"  "tokiponaWordsSalt4s contextual 51"  "tokiponaWordsSalt4s contextual 52"  "tokiponaWordsSalt4s contextual 53"  "tokiponaWordsSalt4s contextual 54"  "tokiponaWordsSalt4s contextual 55"  "tokiponaWordsSalt4s contextual 56"  "tokiponaWordsSalt4s contextual 57"  "tokiponaWordsSalt4s contextual 58"  "tokiponaWordsSalt4s contextual 59"  "tokiponaWordsSalt4s contextual 60"  "tokiponaWordsSalt4s contextual 61"  "tokiponaWordsSalt4s contextual 62"  "tokiponaWordsSalt4s contextual 63"  "tokiponaWordsSalt4s contextual 64"  "tokiponaWordsSalt4s contextual 65"  "tokiponaWordsSalt4s contextual 66"  "tokiponaWordsSalt4s contextual 67"  "tokiponaWordsSalt4s contextual 68"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 82" { "Ligature Substitution lookup 82 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 83" { "Ligature Substitution lookup 83 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 84" { "Ligature Substitution lookup 84 subtable"  } []
@@ -193,7 +193,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 146" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 147" { "Ligature Substitution lookup 147 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 148" { "Ligature Substitution lookup 148 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 149" { "Ligature Substitution lookup 149 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt4" { "tokiponaWordsSalt4 contextual 0"  "tokiponaWordsSalt4 contextual 1"  "tokiponaWordsSalt4 contextual 2"  "tokiponaWordsSalt4 contextual 3"  "tokiponaWordsSalt4 contextual 4"  "tokiponaWordsSalt4 contextual 5"  "tokiponaWordsSalt4 contextual 6"  "tokiponaWordsSalt4 contextual 7"  "tokiponaWordsSalt4 contextual 8"  "tokiponaWordsSalt4 contextual 9"  "tokiponaWordsSalt4 contextual 10"  "tokiponaWordsSalt4 contextual 11"  "tokiponaWordsSalt4 contextual 12"  "tokiponaWordsSalt4 contextual 13"  "tokiponaWordsSalt4 contextual 14"  "tokiponaWordsSalt4 contextual 15"  "tokiponaWordsSalt4 contextual 16"  "tokiponaWordsSalt4 contextual 17"  "tokiponaWordsSalt4 contextual 18"  "tokiponaWordsSalt4 contextual 19"  "tokiponaWordsSalt4 contextual 20"  "tokiponaWordsSalt4 contextual 21"  "tokiponaWordsSalt4 contextual 22"  "tokiponaWordsSalt4 contextual 23"  "tokiponaWordsSalt4 contextual 24"  "tokiponaWordsSalt4 contextual 25"  "tokiponaWordsSalt4 contextual 26"  "tokiponaWordsSalt4 contextual 27"  "tokiponaWordsSalt4 contextual 28"  "tokiponaWordsSalt4 contextual 29"  "tokiponaWordsSalt4 contextual 30"  "tokiponaWordsSalt4 contextual 31"  "tokiponaWordsSalt4 contextual 32"  "tokiponaWordsSalt4 contextual 33"  "tokiponaWordsSalt4 contextual 34"  "tokiponaWordsSalt4 contextual 35"  "tokiponaWordsSalt4 contextual 36"  "tokiponaWordsSalt4 contextual 37"  "tokiponaWordsSalt4 contextual 38"  "tokiponaWordsSalt4 contextual 39"  "tokiponaWordsSalt4 contextual 40"  "tokiponaWordsSalt4 contextual 41"  "tokiponaWordsSalt4 contextual 42"  "tokiponaWordsSalt4 contextual 43"  "tokiponaWordsSalt4 contextual 44"  "tokiponaWordsSalt4 contextual 45"  "tokiponaWordsSalt4 contextual 46"  "tokiponaWordsSalt4 contextual 47"  "tokiponaWordsSalt4 contextual 48"  "tokiponaWordsSalt4 contextual 49"  "tokiponaWordsSalt4 contextual 50"  "tokiponaWordsSalt4 contextual 51"  "tokiponaWordsSalt4 contextual 52"  "tokiponaWordsSalt4 contextual 53"  "tokiponaWordsSalt4 contextual 54"  "tokiponaWordsSalt4 contextual 55"  "tokiponaWordsSalt4 contextual 56"  "tokiponaWordsSalt4 contextual 57"  "tokiponaWordsSalt4 contextual 58"  "tokiponaWordsSalt4 contextual 59"  "tokiponaWordsSalt4 contextual 60"  "tokiponaWordsSalt4 contextual 61"  "tokiponaWordsSalt4 contextual 62"  "tokiponaWordsSalt4 contextual 63"  "tokiponaWordsSalt4 contextual 64"  "tokiponaWordsSalt4 contextual 65"  "tokiponaWordsSalt4 contextual 66"  "tokiponaWordsSalt4 contextual 67"  "tokiponaWordsSalt4 contextual 68"  "tokiponaWordsSalt4 contextual 69"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt4" { "tokiponaWordsSalt4 contextual 0"  "tokiponaWordsSalt4 contextual 1"  "tokiponaWordsSalt4 contextual 2"  "tokiponaWordsSalt4 contextual 3"  "tokiponaWordsSalt4 contextual 4"  "tokiponaWordsSalt4 contextual 5"  "tokiponaWordsSalt4 contextual 6"  "tokiponaWordsSalt4 contextual 7"  "tokiponaWordsSalt4 contextual 8"  "tokiponaWordsSalt4 contextual 9"  "tokiponaWordsSalt4 contextual 10"  "tokiponaWordsSalt4 contextual 11"  "tokiponaWordsSalt4 contextual 12"  "tokiponaWordsSalt4 contextual 13"  "tokiponaWordsSalt4 contextual 14"  "tokiponaWordsSalt4 contextual 15"  "tokiponaWordsSalt4 contextual 16"  "tokiponaWordsSalt4 contextual 17"  "tokiponaWordsSalt4 contextual 18"  "tokiponaWordsSalt4 contextual 19"  "tokiponaWordsSalt4 contextual 20"  "tokiponaWordsSalt4 contextual 21"  "tokiponaWordsSalt4 contextual 22"  "tokiponaWordsSalt4 contextual 23"  "tokiponaWordsSalt4 contextual 24"  "tokiponaWordsSalt4 contextual 25"  "tokiponaWordsSalt4 contextual 26"  "tokiponaWordsSalt4 contextual 27"  "tokiponaWordsSalt4 contextual 28"  "tokiponaWordsSalt4 contextual 29"  "tokiponaWordsSalt4 contextual 30"  "tokiponaWordsSalt4 contextual 31"  "tokiponaWordsSalt4 contextual 32"  "tokiponaWordsSalt4 contextual 33"  "tokiponaWordsSalt4 contextual 34"  "tokiponaWordsSalt4 contextual 35"  "tokiponaWordsSalt4 contextual 36"  "tokiponaWordsSalt4 contextual 37"  "tokiponaWordsSalt4 contextual 38"  "tokiponaWordsSalt4 contextual 39"  "tokiponaWordsSalt4 contextual 40"  "tokiponaWordsSalt4 contextual 41"  "tokiponaWordsSalt4 contextual 42"  "tokiponaWordsSalt4 contextual 43"  "tokiponaWordsSalt4 contextual 44"  "tokiponaWordsSalt4 contextual 45"  "tokiponaWordsSalt4 contextual 46"  "tokiponaWordsSalt4 contextual 47"  "tokiponaWordsSalt4 contextual 48"  "tokiponaWordsSalt4 contextual 49"  "tokiponaWordsSalt4 contextual 50"  "tokiponaWordsSalt4 contextual 51"  "tokiponaWordsSalt4 contextual 52"  "tokiponaWordsSalt4 contextual 53"  "tokiponaWordsSalt4 contextual 54"  "tokiponaWordsSalt4 contextual 55"  "tokiponaWordsSalt4 contextual 56"  "tokiponaWordsSalt4 contextual 57"  "tokiponaWordsSalt4 contextual 58"  "tokiponaWordsSalt4 contextual 59"  "tokiponaWordsSalt4 contextual 60"  "tokiponaWordsSalt4 contextual 61"  "tokiponaWordsSalt4 contextual 62"  "tokiponaWordsSalt4 contextual 63"  "tokiponaWordsSalt4 contextual 64"  "tokiponaWordsSalt4 contextual 65"  "tokiponaWordsSalt4 contextual 66"  "tokiponaWordsSalt4 contextual 67"  "tokiponaWordsSalt4 contextual 68"  "tokiponaWordsSalt4 contextual 69"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 151" { "Ligature Substitution lookup 151 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 152" { "Ligature Substitution lookup 152 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 153" { "Ligature Substitution lookup 153 subtable"  } []
@@ -262,7 +262,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 215" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 216" { "Ligature Substitution lookup 216 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 217" { "Ligature Substitution lookup 217 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 218" { "Ligature Substitution lookup 218 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt5s" { "tokiponaWordsSalt5s contextual 0"  "tokiponaWordsSalt5s contextual 1"  "tokiponaWordsSalt5s contextual 2"  "tokiponaWordsSalt5s contextual 3"  "tokiponaWordsSalt5s contextual 4"  "tokiponaWordsSalt5s contextual 5"  "tokiponaWordsSalt5s contextual 6"  "tokiponaWordsSalt5s contextual 7"  "tokiponaWordsSalt5s contextual 8"  "tokiponaWordsSalt5s contextual 9"  "tokiponaWordsSalt5s contextual 10"  "tokiponaWordsSalt5s contextual 11"  "tokiponaWordsSalt5s contextual 12"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt5s" { "tokiponaWordsSalt5s contextual 0"  "tokiponaWordsSalt5s contextual 1"  "tokiponaWordsSalt5s contextual 2"  "tokiponaWordsSalt5s contextual 3"  "tokiponaWordsSalt5s contextual 4"  "tokiponaWordsSalt5s contextual 5"  "tokiponaWordsSalt5s contextual 6"  "tokiponaWordsSalt5s contextual 7"  "tokiponaWordsSalt5s contextual 8"  "tokiponaWordsSalt5s contextual 9"  "tokiponaWordsSalt5s contextual 10"  "tokiponaWordsSalt5s contextual 11"  "tokiponaWordsSalt5s contextual 12"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 220" { "Ligature Substitution lookup 220 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 221" { "Ligature Substitution lookup 221 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 222" { "Ligature Substitution lookup 222 subtable"  } []
@@ -275,7 +275,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 228" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 229" { "Ligature Substitution lookup 229 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 230" { "Ligature Substitution lookup 230 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 231" { "Ligature Substitution lookup 231 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt5" { "tokiponaWordsSalt5 contextual 0"  "tokiponaWordsSalt5 contextual 1"  "tokiponaWordsSalt5 contextual 2"  "tokiponaWordsSalt5 contextual 3"  "tokiponaWordsSalt5 contextual 4"  "tokiponaWordsSalt5 contextual 5"  "tokiponaWordsSalt5 contextual 6"  "tokiponaWordsSalt5 contextual 7"  "tokiponaWordsSalt5 contextual 8"  "tokiponaWordsSalt5 contextual 9"  "tokiponaWordsSalt5 contextual 10"  "tokiponaWordsSalt5 contextual 11"  "tokiponaWordsSalt5 contextual 12"  "tokiponaWordsSalt5 contextual 13"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt5" { "tokiponaWordsSalt5 contextual 0"  "tokiponaWordsSalt5 contextual 1"  "tokiponaWordsSalt5 contextual 2"  "tokiponaWordsSalt5 contextual 3"  "tokiponaWordsSalt5 contextual 4"  "tokiponaWordsSalt5 contextual 5"  "tokiponaWordsSalt5 contextual 6"  "tokiponaWordsSalt5 contextual 7"  "tokiponaWordsSalt5 contextual 8"  "tokiponaWordsSalt5 contextual 9"  "tokiponaWordsSalt5 contextual 10"  "tokiponaWordsSalt5 contextual 11"  "tokiponaWordsSalt5 contextual 12"  "tokiponaWordsSalt5 contextual 13"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 233" { "Ligature Substitution lookup 233 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 234" { "Ligature Substitution lookup 234 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 235" { "Ligature Substitution lookup 235 subtable"  } []
@@ -288,7 +288,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 241" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 242" { "Ligature Substitution lookup 242 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 243" { "Ligature Substitution lookup 243 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 244" { "Ligature Substitution lookup 244 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt6s" { "tokiponaWordsSalt6s contextual 0"  "tokiponaWordsSalt6s contextual 1"  "tokiponaWordsSalt6s contextual 2"  "tokiponaWordsSalt6s contextual 3"  "tokiponaWordsSalt6s contextual 4"  "tokiponaWordsSalt6s contextual 5"  "tokiponaWordsSalt6s contextual 6"  "tokiponaWordsSalt6s contextual 7"  "tokiponaWordsSalt6s contextual 8"  "tokiponaWordsSalt6s contextual 9"  "tokiponaWordsSalt6s contextual 10"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt6s" { "tokiponaWordsSalt6s contextual 0"  "tokiponaWordsSalt6s contextual 1"  "tokiponaWordsSalt6s contextual 2"  "tokiponaWordsSalt6s contextual 3"  "tokiponaWordsSalt6s contextual 4"  "tokiponaWordsSalt6s contextual 5"  "tokiponaWordsSalt6s contextual 6"  "tokiponaWordsSalt6s contextual 7"  "tokiponaWordsSalt6s contextual 8"  "tokiponaWordsSalt6s contextual 9"  "tokiponaWordsSalt6s contextual 10"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 246" { "Ligature Substitution lookup 246 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 247" { "Ligature Substitution lookup 247 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 248" { "Ligature Substitution lookup 248 subtable"  } []
@@ -299,7 +299,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 252" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 253" { "Ligature Substitution lookup 253 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 254" { "Ligature Substitution lookup 254 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 255" { "Ligature Substitution lookup 255 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt6" { "tokiponaWordsSalt6 contextual 0"  "tokiponaWordsSalt6 contextual 1"  "tokiponaWordsSalt6 contextual 2"  "tokiponaWordsSalt6 contextual 3"  "tokiponaWordsSalt6 contextual 4"  "tokiponaWordsSalt6 contextual 5"  "tokiponaWordsSalt6 contextual 6"  "tokiponaWordsSalt6 contextual 7"  "tokiponaWordsSalt6 contextual 8"  "tokiponaWordsSalt6 contextual 9"  "tokiponaWordsSalt6 contextual 10"  "tokiponaWordsSalt6 contextual 11"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt6" { "tokiponaWordsSalt6 contextual 0"  "tokiponaWordsSalt6 contextual 1"  "tokiponaWordsSalt6 contextual 2"  "tokiponaWordsSalt6 contextual 3"  "tokiponaWordsSalt6 contextual 4"  "tokiponaWordsSalt6 contextual 5"  "tokiponaWordsSalt6 contextual 6"  "tokiponaWordsSalt6 contextual 7"  "tokiponaWordsSalt6 contextual 8"  "tokiponaWordsSalt6 contextual 9"  "tokiponaWordsSalt6 contextual 10"  "tokiponaWordsSalt6 contextual 11"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 257" { "Ligature Substitution lookup 257 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 258" { "Ligature Substitution lookup 258 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 259" { "Ligature Substitution lookup 259 subtable"  } []
@@ -310,15 +310,15 @@ Lookup: 4 0 0 "Ligature Substitution lookup 263" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 264" { "Ligature Substitution lookup 264 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 265" { "Ligature Substitution lookup 265 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 266" { "Ligature Substitution lookup 266 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt7s" { "tokiponaWordsSalt7s contextual 0"  "tokiponaWordsSalt7s contextual 1"  "tokiponaWordsSalt7s contextual 2"  "tokiponaWordsSalt7s contextual 3"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt7s" { "tokiponaWordsSalt7s contextual 0"  "tokiponaWordsSalt7s contextual 1"  "tokiponaWordsSalt7s contextual 2"  "tokiponaWordsSalt7s contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 268" { "Ligature Substitution lookup 268 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 269" { "Ligature Substitution lookup 269 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 270" { "Ligature Substitution lookup 270 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt7" { "tokiponaWordsSalt7 contextual 0"  "tokiponaWordsSalt7 contextual 1"  "tokiponaWordsSalt7 contextual 2"  "tokiponaWordsSalt7 contextual 3"  "tokiponaWordsSalt7 contextual 4"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt7" { "tokiponaWordsSalt7 contextual 0"  "tokiponaWordsSalt7 contextual 1"  "tokiponaWordsSalt7 contextual 2"  "tokiponaWordsSalt7 contextual 3"  "tokiponaWordsSalt7 contextual 4"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 272" { "Ligature Substitution lookup 272 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 273" { "Ligature Substitution lookup 273 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 274" { "Ligature Substitution lookup 274 subtable"  } []
-Lookup: 6 0 0 "tokiponaLatinStartBrace" { "tokiponaLatinStartBrace contextual 0"  "tokiponaLatinStartBrace contextual 1"  "tokiponaLatinStartBrace contextual 2"  "tokiponaLatinStartBrace contextual 3"  "tokiponaLatinStartBrace contextual 4"  "tokiponaLatinStartBrace contextual 5"  "tokiponaLatinStartBrace contextual 6"  "tokiponaLatinStartBrace contextual 7"  "tokiponaLatinStartBrace contextual 8"  "tokiponaLatinStartBrace contextual 9"  "tokiponaLatinStartBrace contextual 10"  "tokiponaLatinStartBrace contextual 11"  "tokiponaLatinStartBrace contextual 12"  "tokiponaLatinStartBrace contextual 13"  "tokiponaLatinStartBrace contextual 14"  "tokiponaLatinStartBrace contextual 15"  "tokiponaLatinStartBrace contextual 16"  "tokiponaLatinStartBrace contextual 17"  "tokiponaLatinStartBrace contextual 18"  "tokiponaLatinStartBrace contextual 19"  "tokiponaLatinStartBrace contextual 20"  "tokiponaLatinStartBrace contextual 21"  "tokiponaLatinStartBrace contextual 22"  "tokiponaLatinStartBrace contextual 23"  "tokiponaLatinStartBrace contextual 24"  "tokiponaLatinStartBrace contextual 25"  "tokiponaLatinStartBrace contextual 26"  "tokiponaLatinStartBrace contextual 27"  "tokiponaLatinStartBrace contextual 28"  "tokiponaLatinStartBrace contextual 29"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaLatinStartBrace" { "tokiponaLatinStartBrace contextual 0"  "tokiponaLatinStartBrace contextual 1"  "tokiponaLatinStartBrace contextual 2"  "tokiponaLatinStartBrace contextual 3"  "tokiponaLatinStartBrace contextual 4"  "tokiponaLatinStartBrace contextual 5"  "tokiponaLatinStartBrace contextual 6"  "tokiponaLatinStartBrace contextual 7"  "tokiponaLatinStartBrace contextual 8"  "tokiponaLatinStartBrace contextual 9"  "tokiponaLatinStartBrace contextual 10"  "tokiponaLatinStartBrace contextual 11"  "tokiponaLatinStartBrace contextual 12"  "tokiponaLatinStartBrace contextual 13"  "tokiponaLatinStartBrace contextual 14"  "tokiponaLatinStartBrace contextual 15"  "tokiponaLatinStartBrace contextual 16"  "tokiponaLatinStartBrace contextual 17"  "tokiponaLatinStartBrace contextual 18"  "tokiponaLatinStartBrace contextual 19"  "tokiponaLatinStartBrace contextual 20"  "tokiponaLatinStartBrace contextual 21"  "tokiponaLatinStartBrace contextual 22"  "tokiponaLatinStartBrace contextual 23"  "tokiponaLatinStartBrace contextual 24"  "tokiponaLatinStartBrace contextual 25"  "tokiponaLatinStartBrace contextual 26"  "tokiponaLatinStartBrace contextual 27"  "tokiponaLatinStartBrace contextual 28"  "tokiponaLatinStartBrace contextual 29"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 2 0 0 "Multiple Substitution lookup 276" { "Multiple Substitution lookup 276 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 277" { "Multiple Substitution lookup 277 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 278" { "Multiple Substitution lookup 278 subtable"  } []
@@ -347,7 +347,7 @@ Lookup: 2 0 0 "Multiple Substitution lookup 300" { "Multiple Substitution lookup
 Lookup: 2 0 0 "Multiple Substitution lookup 301" { "Multiple Substitution lookup 301 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 302" { "Multiple Substitution lookup 302 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 303" { "Multiple Substitution lookup 303 subtable"  } []
-Lookup: 6 0 0 "tokiponaLatinEndBrace" { "tokiponaLatinEndBrace contextual 0"  "tokiponaLatinEndBrace contextual 1"  "tokiponaLatinEndBrace contextual 2"  "tokiponaLatinEndBrace contextual 3"  "tokiponaLatinEndBrace contextual 4"  "tokiponaLatinEndBrace contextual 5"  "tokiponaLatinEndBrace contextual 6"  "tokiponaLatinEndBrace contextual 7"  "tokiponaLatinEndBrace contextual 8"  "tokiponaLatinEndBrace contextual 9"  "tokiponaLatinEndBrace contextual 10"  "tokiponaLatinEndBrace contextual 11"  "tokiponaLatinEndBrace contextual 12"  "tokiponaLatinEndBrace contextual 13"  "tokiponaLatinEndBrace contextual 14"  "tokiponaLatinEndBrace contextual 15"  "tokiponaLatinEndBrace contextual 16"  "tokiponaLatinEndBrace contextual 17"  "tokiponaLatinEndBrace contextual 18"  "tokiponaLatinEndBrace contextual 19"  "tokiponaLatinEndBrace contextual 20"  "tokiponaLatinEndBrace contextual 21"  "tokiponaLatinEndBrace contextual 22"  "tokiponaLatinEndBrace contextual 23"  "tokiponaLatinEndBrace contextual 24"  "tokiponaLatinEndBrace contextual 25"  "tokiponaLatinEndBrace contextual 26"  "tokiponaLatinEndBrace contextual 27"  "tokiponaLatinEndBrace contextual 28"  "tokiponaLatinEndBrace contextual 29"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaLatinEndBrace" { "tokiponaLatinEndBrace contextual 0"  "tokiponaLatinEndBrace contextual 1"  "tokiponaLatinEndBrace contextual 2"  "tokiponaLatinEndBrace contextual 3"  "tokiponaLatinEndBrace contextual 4"  "tokiponaLatinEndBrace contextual 5"  "tokiponaLatinEndBrace contextual 6"  "tokiponaLatinEndBrace contextual 7"  "tokiponaLatinEndBrace contextual 8"  "tokiponaLatinEndBrace contextual 9"  "tokiponaLatinEndBrace contextual 10"  "tokiponaLatinEndBrace contextual 11"  "tokiponaLatinEndBrace contextual 12"  "tokiponaLatinEndBrace contextual 13"  "tokiponaLatinEndBrace contextual 14"  "tokiponaLatinEndBrace contextual 15"  "tokiponaLatinEndBrace contextual 16"  "tokiponaLatinEndBrace contextual 17"  "tokiponaLatinEndBrace contextual 18"  "tokiponaLatinEndBrace contextual 19"  "tokiponaLatinEndBrace contextual 20"  "tokiponaLatinEndBrace contextual 21"  "tokiponaLatinEndBrace contextual 22"  "tokiponaLatinEndBrace contextual 23"  "tokiponaLatinEndBrace contextual 24"  "tokiponaLatinEndBrace contextual 25"  "tokiponaLatinEndBrace contextual 26"  "tokiponaLatinEndBrace contextual 27"  "tokiponaLatinEndBrace contextual 28"  "tokiponaLatinEndBrace contextual 29"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 2 0 0 "Multiple Substitution lookup 305" { "Multiple Substitution lookup 305 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 306" { "Multiple Substitution lookup 306 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 307" { "Multiple Substitution lookup 307 subtable"  } []
@@ -376,7 +376,7 @@ Lookup: 2 0 0 "Multiple Substitution lookup 329" { "Multiple Substitution lookup
 Lookup: 2 0 0 "Multiple Substitution lookup 330" { "Multiple Substitution lookup 330 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 331" { "Multiple Substitution lookup 331 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 332" { "Multiple Substitution lookup 332 subtable"  } []
-Lookup: 1 0 0 "tokiponaLatin" { "tokiponaLatin subtable"  } ['salt' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "tokiponaLatin" { "tokiponaLatin subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 6 0 0 "tokiponaSmall" { "tokiponaSmall subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 335" { "Ligature Substitution lookup 335 subtable"  } []
 Lookup: 260 0 0 "Combining" { "Small"  "Above"  "Circle"  "Square"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -2841,7 +2841,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 23 10
+WinInfo: 0 17 4
 BeginPrivate: 4
 BlueValues 47 [38 50 188 200 285 297 370 382 520 532 716 728]
 OtherBlues 49 [-208 -196 -12 0 222 235 470 482 550 570 675 675]
@@ -3098,13 +3098,13 @@ SplineSet
  284.612262855 38 324.964791033 170.193387652 336.897235547 234.757947058 c 0
  338.368379693 242.718074045 339.314516394 248.828718274 339.802666671 252.187200345 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 62 subtable" a l i
 Ligature2: "Ligature Substitution lookup 61 subtable" a l e
 Ligature2: "Ligature Substitution lookup 40 subtable" a l i tp_space
 Ligature2: "Ligature Substitution lookup 39 subtable" a l e tp_space
 Ligature2: "tokiponaWords subtable" percent a l i space
 Ligature2: "tokiponaWords subtable" percent a l e space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_anpa
@@ -3271,10 +3271,10 @@ SplineSet
  68 0 l 2
  54.3828712355 0 43 11.3828712355 43 25 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 153 subtable" a w e n
 Ligature2: "Ligature Substitution lookup 84 subtable" a w e n tp_space
 Ligature2: "tokiponaWords subtable" percent a w e n space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_e
@@ -3356,10 +3356,10 @@ SplineSet
  193 406 l 2
  193 419.6171875 204.3828125 431 218 431 c 0
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "Ligature Substitution lookup 25 subtable" e n
 Ligature2: "Ligature Substitution lookup 12 subtable" e n tp_space
 Ligature2: "tokiponaWords subtable" percent e n space
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: tp_esun
@@ -3420,10 +3420,10 @@ SplineSet
  452 456.97379365 428.546350226 482 375 482 c 0
  329.307976785 482 310.212172552 447.018525328 301.02081977 371.826748737 c 1
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 154 subtable" e s u n
 Ligature2: "Ligature Substitution lookup 85 subtable" e s u n tp_space
 Ligature2: "tokiponaWords subtable" percent e s u n space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_ijo
@@ -3547,10 +3547,10 @@ SplineSet
  300 470 l 1
  300 50 l 1
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 66 subtable" i l o
 Ligature2: "Ligature Substitution lookup 44 subtable" i l o tp_space
 Ligature2: "tokiponaWords subtable" percent i l o space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_insa
@@ -3648,10 +3648,10 @@ SplineSet
  195.674948236 38 255 82.3125862809 255 124 c 0xf4
  255 128.016477973 237.316001297 154.517830108 201.302144051 187.908274563 c 1
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 156 subtable" j a k i
 Ligature2: "Ligature Substitution lookup 87 subtable" j a k i tp_space
 Ligature2: "tokiponaWords subtable" percent j a k i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_jan
@@ -3768,10 +3768,10 @@ SplineSet
  294.15544521 332 328 365.844148893 328 407 c 0
  328 448.15544521 294.155851107 482 253 482 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 157 subtable" j e l o
 Ligature2: "Ligature Substitution lookup 88 subtable" j e l o tp_space
 Ligature2: "tokiponaWords subtable" percent j e l o space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_jo
@@ -3863,10 +3863,10 @@ SplineSet
  281.42649901 482 203.264562495 392.173448743 152.686844435 275.242179167 c 0
  150.549035193 270.299750795 148.379743205 265.109231633 146.309962537 260 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 158 subtable" k a l a
 Ligature2: "Ligature Substitution lookup 89 subtable" k a l a tp_space
 Ligature2: "tokiponaWords subtable" percent k a l a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_kalama
@@ -4003,10 +4003,10 @@ SplineSet
  183.193881268 532 244.794974899 465.642296556 275 388.128078521 c 1
  305.205025101 465.642296556 366.806118732 532 482 532 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 160 subtable" k a s i
 Ligature2: "Ligature Substitution lookup 91 subtable" k a s i tp_space
 Ligature2: "tokiponaWords subtable" percent k a s i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_ken
@@ -4170,10 +4170,10 @@ SplineSet
  547.288588369 532 587 400.511333808 587 300 c 0
  587 139.903236918 495.857114464 -12 315 -12 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 161 subtable" k i l i
 Ligature2: "Ligature Substitution lookup 92 subtable" k i l i tp_space
 Ligature2: "tokiponaWords subtable" percent k i l i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_kiwen
@@ -4214,10 +4214,10 @@ SplineSet
  348.993681044 -208.212802268 332.142717604 -211.693979241 320.454865287 -203.333200834 c 0
  317.714883734 -201.373184744 313.967380397 -196.533964134 313.588307544 -195.905015543 c 2
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 236 subtable" k i w e n
 Ligature2: "Ligature Substitution lookup 223 subtable" k i w e n tp_space
 Ligature2: "tokiponaWords subtable" percent k i w e n space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_ko
@@ -4271,10 +4271,10 @@ SplineSet
  199 343.474387319 224.96972995 279.868713495 224.96972995 279.868713495 c 2
  231.970963642 263.573129748 219.056037259 247.564469014 206.068118953 245.332638789 c 0
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "Ligature Substitution lookup 27 subtable" k o
 Ligature2: "Ligature Substitution lookup 14 subtable" k o tp_space
 Ligature2: "tokiponaWords subtable" percent k o space
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: tp_kon
@@ -4321,10 +4321,10 @@ SplineSet
  243 -17.4013162859 67.2507998539 -12.001121151 67.2507998539 -12.001121151 c 1
  55.0996883806 -11.2543936077 43.02068213 -1.22681832664 43.0000264847 12.9636099367 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 70 subtable" k o n
 Ligature2: "Ligature Substitution lookup 48 subtable" k o n tp_space
 Ligature2: "tokiponaWords subtable" percent k o n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_kule
@@ -4440,10 +4440,10 @@ SplineSet
  495 160.155680827 470.155852269 185 440 185 c 0
  409.844319173 185 385 160.155852269 385 130 c 0
 EndSplineSet
-LCarets2: 7 0 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 259 subtable" k u l u p u
 Ligature2: "Ligature Substitution lookup 248 subtable" k u l u p u tp_space
 Ligature2: "tokiponaWords subtable" percent k u l u p u space
+LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_kute
@@ -4764,10 +4764,10 @@ SplineSet
  116.708984375 376.897460938 l 2
  109.572265625 388.495117188 113.30078125 404.154296875 124.897460938 411.291015625 c 0x40
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 168 subtable" l e t e
 Ligature2: "Ligature Substitution lookup 99 subtable" l e t e tp_space
 Ligature2: "tokiponaWords subtable" percent l e t e space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_li
@@ -4876,10 +4876,10 @@ SplineSet
  103.78622849 310 93.3323526334 193.717556929 92.9848908349 184.130960319 c 0
  92.5115378253 170.522061292 80.7398593454 159.541756155 67.1309603188 160.015109165 c 0
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 237 subtable" l i n j a
 Ligature2: "Ligature Substitution lookup 224 subtable" l i n j a tp_space
 Ligature2: "tokiponaWords subtable" percent l i n j a space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_lipu
@@ -4973,10 +4973,10 @@ SplineSet
  127.936580725 -146 l 1
  422.063419275 -146 l 1
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 171 subtable" l o j e
 Ligature2: "Ligature Substitution lookup 102 subtable" l o j e tp_space
 Ligature2: "tokiponaWords subtable" percent l o j e space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_lon
@@ -5123,10 +5123,10 @@ SplineSet
  70 470 l 2
  56.3828125 470 45 481.3828125 45 495 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 173 subtable" l u p a
 Ligature2: "Ligature Substitution lookup 104 subtable" l u p a tp_space
 Ligature2: "tokiponaWords subtable" percent l u p a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_ma
@@ -5586,10 +5586,10 @@ SplineSet
  399 520 l 2
  412.617128764 520 424 508.617128764 424 495 c 0
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 239 subtable" m o n s i
 Ligature2: "Ligature Substitution lookup 226 subtable" m o n s i tp_space
 Ligature2: "tokiponaWords subtable" percent m o n s i space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_mu
@@ -5685,10 +5685,10 @@ SplineSet
  45.5842688855 430.1432048 39.7644446833 444.619653507 44.6997926797 457.310923729 c 0
  45.9471008789 460.518382538 49.5462892587 465.151628318 50.3223304703 465.92766953 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 73 subtable" m u n
 Ligature2: "Ligature Substitution lookup 51 subtable" m u n tp_space
 Ligature2: "tokiponaWords subtable" percent m u n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_musi
@@ -5750,10 +5750,10 @@ SplineSet
  457 535.202355274 434.202656844 558 406 558 c 0
  377.797644726 558 355 535.202656844 355 507 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 180 subtable" m u s i
 Ligature2: "Ligature Substitution lookup 111 subtable" m u s i tp_space
 Ligature2: "tokiponaWords subtable" percent m u s i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_mute
@@ -5868,10 +5868,10 @@ SplineSet
  330 187 l 1
  330 320 l 1
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 240 subtable" n a n p a
 Ligature2: "Ligature Substitution lookup 227 subtable" n a n p a tp_space
 Ligature2: "tokiponaWords subtable" percent n a n p a space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_nasa
@@ -6141,10 +6141,10 @@ SplineSet
  55 507 l 2
  55 520.617128764 66.3828712355 532 80 532 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 185 subtable" n o k a
 Ligature2: "Ligature Substitution lookup 116 subtable" n o k a tp_space
 Ligature2: "tokiponaWords subtable" percent n o k a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_o
@@ -6251,10 +6251,10 @@ SplineSet
  120.937189896 678 100 650.485144645 100 579 c 0xd8
  100 556.106970902 105.739225767 535.5918452 112.003397268 519.177303095 c 1
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 186 subtable" o l i n
 Ligature2: "Ligature Substitution lookup 117 subtable" o l i n tp_space
 Ligature2: "tokiponaWords subtable" percent o l i n space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_ona
@@ -6622,10 +6622,10 @@ SplineSet
  55 507 l 2
  55 520.6171875 66.3828125 532 80 532 c 0
 EndSplineSet
-LCarets2: 3 0 0 0
 Ligature2: "Ligature Substitution lookup 34 subtable" p i
 Ligature2: "Ligature Substitution lookup 21 subtable" p i tp_space
 Ligature2: "tokiponaWords subtable" percent p i space
+LCarets2: 3 0 0 0
 EndChar
 
 StartChar: tp_pilin
@@ -6773,10 +6773,10 @@ SplineSet
  68 470 l 2
  54.3828712355 470 43 481.382871236 43 495 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 191 subtable" p i n i
 Ligature2: "Ligature Substitution lookup 122 subtable" p i n i tp_space
 Ligature2: "tokiponaWords subtable" percent p i n i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_pipi
@@ -7259,10 +7259,10 @@ SplineSet
  457 396.721488786 382.225993246 482 275 482 c 0
  167.77545175 482 93 396.721414699 93 260 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 199 subtable" s e m e
 Ligature2: "Ligature Substitution lookup 130 subtable" s e m e tp_space
 Ligature2: "tokiponaWords subtable" percent s e m e space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_sewi
@@ -7311,10 +7311,10 @@ SplineSet
  283 507 l 2
  283 520.617128764 294.382871236 532 308 532 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 200 subtable" s e w i
 Ligature2: "Ligature Substitution lookup 131 subtable" s e w i tp_space
 Ligature2: "tokiponaWords subtable" percent s e w i space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_sijelo
@@ -7441,10 +7441,10 @@ SplineSet
  68 235 l 2
  54.3828712355 235 43 246.382871236 43 260 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 77 subtable" s i n
 Ligature2: "Ligature Substitution lookup 55 subtable" s i n tp_space
 Ligature2: "tokiponaWords subtable" percent s i n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_sina
@@ -7920,10 +7920,10 @@ SplineSet
  47.0515136058 151.355920046 l 2
  39.6197858615 162.766249512 42.9455905799 178.51675865 54.3559200459 185.948486394 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 78 subtable" t a n
 Ligature2: "Ligature Substitution lookup 56 subtable" t a n tp_space
 Ligature2: "tokiponaWords subtable" percent t a n space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_taso
@@ -8051,10 +8051,10 @@ SplineSet
  133.420803994 482 105 446.514172267 105 300 c 0
  105 286.382871236 93.6171287645 275 80 275 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 210 subtable" t e l o
 Ligature2: "Ligature Substitution lookup 141 subtable" t e l o tp_space
 Ligature2: "tokiponaWords subtable" percent t e l o space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_tenpo
@@ -8284,10 +8284,10 @@ SplineSet
  92.9999958645 311.881525107 117.873175254 271.216075734 157.910517856 241.214615635 c 1
  174.011637452 312.858756935 207.297831787 379.912339611 243.207035407 431.082651816 c 1
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 213 subtable" u n p a
 Ligature2: "Ligature Substitution lookup 144 subtable" u n p a tp_space
 Ligature2: "tokiponaWords subtable" percent u n p a space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_uta
@@ -8324,10 +8324,10 @@ SplineSet
  105 260 l 2
  105 120.30859375 168.981445312 38 275 38 c 0
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 79 subtable" u t a
 Ligature2: "Ligature Substitution lookup 57 subtable" u t a tp_space
 Ligature2: "tokiponaWords subtable" percent u t a space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_utala
@@ -8715,9 +8715,9 @@ SplineSet
  253 369.155852269 205.844319173 322 148 322 c 0
  90.1558522686 322 43 369.155680827 43 427 c 0
 EndSplineSet
-LCarets2: 5 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 235 subtable" a p e j a
 Ligature2: "Ligature Substitution lookup 222 subtable" a p e j a tp_space
+LCarets2: 5 0 0 0 0 0
 EndChar
 
 StartChar: tp_monsuta
@@ -8757,9 +8757,9 @@ SplineSet
  731.783623413 20.7031978664 l 2
  735.979440902 7.74861136663 728.657784366 -6.58780592276 715.703197866 -10.7836234126 c 0
 EndSplineSet
-LCarets2: 7 0 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 273 subtable" m o n s u t a
 Ligature2: "Ligature Substitution lookup 269 subtable" m o n s u t a tp_space
+LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_kipisi
@@ -8816,9 +8816,9 @@ SplineSet
  243 376.783051835 198.220961214 332 143 332 c 0
  87.7830518354 332 43 376.779038786 43 432 c 0
 EndSplineSet
-LCarets2: 6 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 258 subtable" k i p i s i
 Ligature2: "Ligature Substitution lookup 247 subtable" k i p i s i tp_space
+LCarets2: 6 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_kin
@@ -8944,10 +8944,10 @@ SplineSet
  68 235 l 2
  54.3828712355 235 43 246.382871236 43 260 c 0
 EndSplineSet
-LCarets2: 7 0 0 0 0 0 0 0
 Ligature2: "Ligature Substitution lookup 260 subtable" n a m a k o
 Ligature2: "Ligature Substitution lookup 249 subtable" n a m a k o tp_space
 Ligature2: "tokiponaWords subtable" percent n a m a k o space
+LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
 StartChar: tp_pake
@@ -9038,9 +9038,9 @@ SplineSet
  55 495 l 2
  55 510.132537856 69.2700956673 520 80 520 c 2
 EndSplineSet
-LCarets2: 4 0 0 0 0
 Ligature2: "Ligature Substitution lookup 167 subtable" l e k o
 Ligature2: "Ligature Substitution lookup 98 subtable" l e k o tp_space
+LCarets2: 4 0 0 0 0
 EndChar
 
 StartChar: tp_name_start
@@ -10922,8 +10922,8 @@ SplineSet
  203.973422071 125.099549661 197.981257752 127.182807906 193.275881709 131.417646344 c 0
 EndSplineSet
 Validated: 1
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 335 subtable" tp_combine tp_ala
+LCarets2: 1 0
 EndChar
 
 StartChar: NameMe.167
@@ -13786,7 +13786,7 @@ StartChar: nine
 Encoding: 57 57 315
 Width: 480
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 333 50<168.157 321.158> 678 50<163.544 316.24>
 VStem: 43 50<457.418 607.456> 387 50<448.719 607.966>
 LayerCount: 2
