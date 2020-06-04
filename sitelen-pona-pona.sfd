@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1589292963
+ModificationTime: 1591213151
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -262,7 +262,7 @@ Lookup: 4 0 0 "Ligature Substitution lookup 215" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 216" { "Ligature Substitution lookup 216 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 217" { "Ligature Substitution lookup 217 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 218" { "Ligature Substitution lookup 218 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt5s" { "tokiponaWordsSalt5s contextual 0"  "tokiponaWordsSalt5s contextual 1"  "tokiponaWordsSalt5s contextual 2"  "tokiponaWordsSalt5s contextual 3"  "tokiponaWordsSalt5s contextual 4"  "tokiponaWordsSalt5s contextual 5"  "tokiponaWordsSalt5s contextual 6"  "tokiponaWordsSalt5s contextual 7"  "tokiponaWordsSalt5s contextual 8"  "tokiponaWordsSalt5s contextual 9"  "tokiponaWordsSalt5s contextual 10"  "tokiponaWordsSalt5s contextual 11"  "tokiponaWordsSalt5s contextual 12"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "tokiponaWordsSalt5s" { "tokiponaWordsSalt5s contextual 0"  "tokiponaWordsSalt5s contextual 1"  "tokiponaWordsSalt5s contextual 2"  "tokiponaWordsSalt5s contextual 3"  "tokiponaWordsSalt5s contextual 4"  "tokiponaWordsSalt5s contextual 5"  "tokiponaWordsSalt5s contextual 6"  "tokiponaWordsSalt5s contextual 7"  "tokiponaWordsSalt5s contextual 8"  "tokiponaWordsSalt5s contextual 9"  "tokiponaWordsSalt5s contextual 10"  "tokiponaWordsSalt5s contextual 11"  "tokiponaWordsSalt5s contextual 12"  "tokiponaWordsSalt5s contextual 13"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 220" { "Ligature Substitution lookup 220 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 221" { "Ligature Substitution lookup 221 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 222" { "Ligature Substitution lookup 222 subtable"  } []
@@ -275,8 +275,8 @@ Lookup: 4 0 0 "Ligature Substitution lookup 228" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 229" { "Ligature Substitution lookup 229 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 230" { "Ligature Substitution lookup 230 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 231" { "Ligature Substitution lookup 231 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt5" { "tokiponaWordsSalt5 contextual 0"  "tokiponaWordsSalt5 contextual 1"  "tokiponaWordsSalt5 contextual 2"  "tokiponaWordsSalt5 contextual 3"  "tokiponaWordsSalt5 contextual 4"  "tokiponaWordsSalt5 contextual 5"  "tokiponaWordsSalt5 contextual 6"  "tokiponaWordsSalt5 contextual 7"  "tokiponaWordsSalt5 contextual 8"  "tokiponaWordsSalt5 contextual 9"  "tokiponaWordsSalt5 contextual 10"  "tokiponaWordsSalt5 contextual 11"  "tokiponaWordsSalt5 contextual 12"  "tokiponaWordsSalt5 contextual 13"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "Ligature Substitution lookup 233" { "Ligature Substitution lookup 233 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 232" { "Ligature Substitution lookup 232 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt5" { "tokiponaWordsSalt5 contextual 0"  "tokiponaWordsSalt5 contextual 1"  "tokiponaWordsSalt5 contextual 2"  "tokiponaWordsSalt5 contextual 3"  "tokiponaWordsSalt5 contextual 4"  "tokiponaWordsSalt5 contextual 5"  "tokiponaWordsSalt5 contextual 6"  "tokiponaWordsSalt5 contextual 7"  "tokiponaWordsSalt5 contextual 8"  "tokiponaWordsSalt5 contextual 9"  "tokiponaWordsSalt5 contextual 10"  "tokiponaWordsSalt5 contextual 11"  "tokiponaWordsSalt5 contextual 12"  "tokiponaWordsSalt5 contextual 13"  "tokiponaWordsSalt5 contextual 14"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 234" { "Ligature Substitution lookup 234 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 235" { "Ligature Substitution lookup 235 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 236" { "Ligature Substitution lookup 236 subtable"  } []
@@ -288,9 +288,9 @@ Lookup: 4 0 0 "Ligature Substitution lookup 241" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 242" { "Ligature Substitution lookup 242 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 243" { "Ligature Substitution lookup 243 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 244" { "Ligature Substitution lookup 244 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt6s" { "tokiponaWordsSalt6s contextual 0"  "tokiponaWordsSalt6s contextual 1"  "tokiponaWordsSalt6s contextual 2"  "tokiponaWordsSalt6s contextual 3"  "tokiponaWordsSalt6s contextual 4"  "tokiponaWordsSalt6s contextual 5"  "tokiponaWordsSalt6s contextual 6"  "tokiponaWordsSalt6s contextual 7"  "tokiponaWordsSalt6s contextual 8"  "tokiponaWordsSalt6s contextual 9"  "tokiponaWordsSalt6s contextual 10"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 245" { "Ligature Substitution lookup 245 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 246" { "Ligature Substitution lookup 246 subtable"  } []
-Lookup: 4 0 0 "Ligature Substitution lookup 247" { "Ligature Substitution lookup 247 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt6s" { "tokiponaWordsSalt6s contextual 0"  "tokiponaWordsSalt6s contextual 1"  "tokiponaWordsSalt6s contextual 2"  "tokiponaWordsSalt6s contextual 3"  "tokiponaWordsSalt6s contextual 4"  "tokiponaWordsSalt6s contextual 5"  "tokiponaWordsSalt6s contextual 6"  "tokiponaWordsSalt6s contextual 7"  "tokiponaWordsSalt6s contextual 8"  "tokiponaWordsSalt6s contextual 9"  "tokiponaWordsSalt6s contextual 10"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 248" { "Ligature Substitution lookup 248 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 249" { "Ligature Substitution lookup 249 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 250" { "Ligature Substitution lookup 250 subtable"  } []
@@ -299,9 +299,9 @@ Lookup: 4 0 0 "Ligature Substitution lookup 252" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 253" { "Ligature Substitution lookup 253 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 254" { "Ligature Substitution lookup 254 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 255" { "Ligature Substitution lookup 255 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt6" { "tokiponaWordsSalt6 contextual 0"  "tokiponaWordsSalt6 contextual 1"  "tokiponaWordsSalt6 contextual 2"  "tokiponaWordsSalt6 contextual 3"  "tokiponaWordsSalt6 contextual 4"  "tokiponaWordsSalt6 contextual 5"  "tokiponaWordsSalt6 contextual 6"  "tokiponaWordsSalt6 contextual 7"  "tokiponaWordsSalt6 contextual 8"  "tokiponaWordsSalt6 contextual 9"  "tokiponaWordsSalt6 contextual 10"  "tokiponaWordsSalt6 contextual 11"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 256" { "Ligature Substitution lookup 256 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 257" { "Ligature Substitution lookup 257 subtable"  } []
-Lookup: 4 0 0 "Ligature Substitution lookup 258" { "Ligature Substitution lookup 258 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt6" { "tokiponaWordsSalt6 contextual 0"  "tokiponaWordsSalt6 contextual 1"  "tokiponaWordsSalt6 contextual 2"  "tokiponaWordsSalt6 contextual 3"  "tokiponaWordsSalt6 contextual 4"  "tokiponaWordsSalt6 contextual 5"  "tokiponaWordsSalt6 contextual 6"  "tokiponaWordsSalt6 contextual 7"  "tokiponaWordsSalt6 contextual 8"  "tokiponaWordsSalt6 contextual 9"  "tokiponaWordsSalt6 contextual 10"  "tokiponaWordsSalt6 contextual 11"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 259" { "Ligature Substitution lookup 259 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 260" { "Ligature Substitution lookup 260 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 261" { "Ligature Substitution lookup 261 subtable"  } []
@@ -310,21 +310,21 @@ Lookup: 4 0 0 "Ligature Substitution lookup 263" { "Ligature Substitution lookup
 Lookup: 4 0 0 "Ligature Substitution lookup 264" { "Ligature Substitution lookup 264 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 265" { "Ligature Substitution lookup 265 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 266" { "Ligature Substitution lookup 266 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt7s" { "tokiponaWordsSalt7s contextual 0"  "tokiponaWordsSalt7s contextual 1"  "tokiponaWordsSalt7s contextual 2"  "tokiponaWordsSalt7s contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 267" { "Ligature Substitution lookup 267 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 268" { "Ligature Substitution lookup 268 subtable"  } []
-Lookup: 4 0 0 "Ligature Substitution lookup 269" { "Ligature Substitution lookup 269 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt7s" { "tokiponaWordsSalt7s contextual 0"  "tokiponaWordsSalt7s contextual 1"  "tokiponaWordsSalt7s contextual 2"  "tokiponaWordsSalt7s contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 270" { "Ligature Substitution lookup 270 subtable"  } []
-Lookup: 6 0 0 "tokiponaWordsSalt7" { "tokiponaWordsSalt7 contextual 0"  "tokiponaWordsSalt7 contextual 1"  "tokiponaWordsSalt7 contextual 2"  "tokiponaWordsSalt7 contextual 3"  "tokiponaWordsSalt7 contextual 4"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 271" { "Ligature Substitution lookup 271 subtable"  } []
 Lookup: 4 0 0 "Ligature Substitution lookup 272" { "Ligature Substitution lookup 272 subtable"  } []
-Lookup: 4 0 0 "Ligature Substitution lookup 273" { "Ligature Substitution lookup 273 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt7" { "tokiponaWordsSalt7 contextual 0"  "tokiponaWordsSalt7 contextual 1"  "tokiponaWordsSalt7 contextual 2"  "tokiponaWordsSalt7 contextual 3"  "tokiponaWordsSalt7 contextual 4"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 4 0 0 "Ligature Substitution lookup 274" { "Ligature Substitution lookup 274 subtable"  } []
-Lookup: 6 0 0 "tokiponaLatinStartBrace" { "tokiponaLatinStartBrace contextual 0"  "tokiponaLatinStartBrace contextual 1"  "tokiponaLatinStartBrace contextual 2"  "tokiponaLatinStartBrace contextual 3"  "tokiponaLatinStartBrace contextual 4"  "tokiponaLatinStartBrace contextual 5"  "tokiponaLatinStartBrace contextual 6"  "tokiponaLatinStartBrace contextual 7"  "tokiponaLatinStartBrace contextual 8"  "tokiponaLatinStartBrace contextual 9"  "tokiponaLatinStartBrace contextual 10"  "tokiponaLatinStartBrace contextual 11"  "tokiponaLatinStartBrace contextual 12"  "tokiponaLatinStartBrace contextual 13"  "tokiponaLatinStartBrace contextual 14"  "tokiponaLatinStartBrace contextual 15"  "tokiponaLatinStartBrace contextual 16"  "tokiponaLatinStartBrace contextual 17"  "tokiponaLatinStartBrace contextual 18"  "tokiponaLatinStartBrace contextual 19"  "tokiponaLatinStartBrace contextual 20"  "tokiponaLatinStartBrace contextual 21"  "tokiponaLatinStartBrace contextual 22"  "tokiponaLatinStartBrace contextual 23"  "tokiponaLatinStartBrace contextual 24"  "tokiponaLatinStartBrace contextual 25"  "tokiponaLatinStartBrace contextual 26"  "tokiponaLatinStartBrace contextual 27"  "tokiponaLatinStartBrace contextual 28"  "tokiponaLatinStartBrace contextual 29"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 2 0 0 "Multiple Substitution lookup 276" { "Multiple Substitution lookup 276 subtable"  } []
-Lookup: 2 0 0 "Multiple Substitution lookup 277" { "Multiple Substitution lookup 277 subtable"  } []
-Lookup: 2 0 0 "Multiple Substitution lookup 278" { "Multiple Substitution lookup 278 subtable"  } []
-Lookup: 2 0 0 "Multiple Substitution lookup 279" { "Multiple Substitution lookup 279 subtable"  } []
-Lookup: 2 0 0 "Multiple Substitution lookup 280" { "Multiple Substitution lookup 280 subtable"  } []
-Lookup: 2 0 0 "Multiple Substitution lookup 281" { "Multiple Substitution lookup 281 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 275" { "Ligature Substitution lookup 275 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 276" { "Ligature Substitution lookup 276 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt15s" { "tokiponaWordsSalt15s contextual 0"  "tokiponaWordsSalt15s contextual 1"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 278" { "Ligature Substitution lookup 278 subtable"  } []
+Lookup: 6 0 0 "tokiponaWordsSalt15" { "tokiponaWordsSalt15 contextual 0"  "tokiponaWordsSalt15 contextual 1"  "tokiponaWordsSalt15 contextual 2"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 280" { "Ligature Substitution lookup 280 subtable"  } []
+Lookup: 6 0 0 "tokiponaLatinStartBrace" { "tokiponaLatinStartBrace contextual 0"  "tokiponaLatinStartBrace contextual 1"  "tokiponaLatinStartBrace contextual 2"  "tokiponaLatinStartBrace contextual 3"  "tokiponaLatinStartBrace contextual 4"  "tokiponaLatinStartBrace contextual 5"  "tokiponaLatinStartBrace contextual 6"  "tokiponaLatinStartBrace contextual 7"  "tokiponaLatinStartBrace contextual 8"  "tokiponaLatinStartBrace contextual 9"  "tokiponaLatinStartBrace contextual 10"  "tokiponaLatinStartBrace contextual 11"  "tokiponaLatinStartBrace contextual 12"  "tokiponaLatinStartBrace contextual 13"  "tokiponaLatinStartBrace contextual 14"  "tokiponaLatinStartBrace contextual 15"  "tokiponaLatinStartBrace contextual 16"  "tokiponaLatinStartBrace contextual 17"  "tokiponaLatinStartBrace contextual 18"  "tokiponaLatinStartBrace contextual 19"  "tokiponaLatinStartBrace contextual 20"  "tokiponaLatinStartBrace contextual 21"  "tokiponaLatinStartBrace contextual 22"  "tokiponaLatinStartBrace contextual 23"  "tokiponaLatinStartBrace contextual 24"  "tokiponaLatinStartBrace contextual 25"  "tokiponaLatinStartBrace contextual 26"  "tokiponaLatinStartBrace contextual 27"  "tokiponaLatinStartBrace contextual 28"  "tokiponaLatinStartBrace contextual 29"  "tokiponaLatinStartBrace contextual 30"  "tokiponaLatinStartBrace contextual 31"  "tokiponaLatinStartBrace contextual 32"  "tokiponaLatinStartBrace contextual 33"  "tokiponaLatinStartBrace contextual 34"  "tokiponaLatinStartBrace contextual 35"  "tokiponaLatinStartBrace contextual 36"  "tokiponaLatinStartBrace contextual 37"  "tokiponaLatinStartBrace contextual 38"  "tokiponaLatinStartBrace contextual 39"  "tokiponaLatinStartBrace contextual 40"  "tokiponaLatinStartBrace contextual 41"  "tokiponaLatinStartBrace contextual 42"  "tokiponaLatinStartBrace contextual 43"  "tokiponaLatinStartBrace contextual 44"  "tokiponaLatinStartBrace contextual 45"  "tokiponaLatinStartBrace contextual 46"  "tokiponaLatinStartBrace contextual 47"  "tokiponaLatinStartBrace contextual 48"  "tokiponaLatinStartBrace contextual 49"  "tokiponaLatinStartBrace contextual 50"  "tokiponaLatinStartBrace contextual 51"  "tokiponaLatinStartBrace contextual 52"  "tokiponaLatinStartBrace contextual 53"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 2 0 0 "Multiple Substitution lookup 282" { "Multiple Substitution lookup 282 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 283" { "Multiple Substitution lookup 283 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 284" { "Multiple Substitution lookup 284 subtable"  } []
@@ -347,7 +347,7 @@ Lookup: 2 0 0 "Multiple Substitution lookup 300" { "Multiple Substitution lookup
 Lookup: 2 0 0 "Multiple Substitution lookup 301" { "Multiple Substitution lookup 301 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 302" { "Multiple Substitution lookup 302 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 303" { "Multiple Substitution lookup 303 subtable"  } []
-Lookup: 6 0 0 "tokiponaLatinEndBrace" { "tokiponaLatinEndBrace contextual 0"  "tokiponaLatinEndBrace contextual 1"  "tokiponaLatinEndBrace contextual 2"  "tokiponaLatinEndBrace contextual 3"  "tokiponaLatinEndBrace contextual 4"  "tokiponaLatinEndBrace contextual 5"  "tokiponaLatinEndBrace contextual 6"  "tokiponaLatinEndBrace contextual 7"  "tokiponaLatinEndBrace contextual 8"  "tokiponaLatinEndBrace contextual 9"  "tokiponaLatinEndBrace contextual 10"  "tokiponaLatinEndBrace contextual 11"  "tokiponaLatinEndBrace contextual 12"  "tokiponaLatinEndBrace contextual 13"  "tokiponaLatinEndBrace contextual 14"  "tokiponaLatinEndBrace contextual 15"  "tokiponaLatinEndBrace contextual 16"  "tokiponaLatinEndBrace contextual 17"  "tokiponaLatinEndBrace contextual 18"  "tokiponaLatinEndBrace contextual 19"  "tokiponaLatinEndBrace contextual 20"  "tokiponaLatinEndBrace contextual 21"  "tokiponaLatinEndBrace contextual 22"  "tokiponaLatinEndBrace contextual 23"  "tokiponaLatinEndBrace contextual 24"  "tokiponaLatinEndBrace contextual 25"  "tokiponaLatinEndBrace contextual 26"  "tokiponaLatinEndBrace contextual 27"  "tokiponaLatinEndBrace contextual 28"  "tokiponaLatinEndBrace contextual 29"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "Multiple Substitution lookup 304" { "Multiple Substitution lookup 304 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 305" { "Multiple Substitution lookup 305 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 306" { "Multiple Substitution lookup 306 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 307" { "Multiple Substitution lookup 307 subtable"  } []
@@ -376,9 +376,63 @@ Lookup: 2 0 0 "Multiple Substitution lookup 329" { "Multiple Substitution lookup
 Lookup: 2 0 0 "Multiple Substitution lookup 330" { "Multiple Substitution lookup 330 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 331" { "Multiple Substitution lookup 331 subtable"  } []
 Lookup: 2 0 0 "Multiple Substitution lookup 332" { "Multiple Substitution lookup 332 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 333" { "Multiple Substitution lookup 333 subtable"  } []
+Lookup: 6 0 0 "tokiponaLatinEndBrace" { "tokiponaLatinEndBrace contextual 0"  "tokiponaLatinEndBrace contextual 1"  "tokiponaLatinEndBrace contextual 2"  "tokiponaLatinEndBrace contextual 3"  "tokiponaLatinEndBrace contextual 4"  "tokiponaLatinEndBrace contextual 5"  "tokiponaLatinEndBrace contextual 6"  "tokiponaLatinEndBrace contextual 7"  "tokiponaLatinEndBrace contextual 8"  "tokiponaLatinEndBrace contextual 9"  "tokiponaLatinEndBrace contextual 10"  "tokiponaLatinEndBrace contextual 11"  "tokiponaLatinEndBrace contextual 12"  "tokiponaLatinEndBrace contextual 13"  "tokiponaLatinEndBrace contextual 14"  "tokiponaLatinEndBrace contextual 15"  "tokiponaLatinEndBrace contextual 16"  "tokiponaLatinEndBrace contextual 17"  "tokiponaLatinEndBrace contextual 18"  "tokiponaLatinEndBrace contextual 19"  "tokiponaLatinEndBrace contextual 20"  "tokiponaLatinEndBrace contextual 21"  "tokiponaLatinEndBrace contextual 22"  "tokiponaLatinEndBrace contextual 23"  "tokiponaLatinEndBrace contextual 24"  "tokiponaLatinEndBrace contextual 25"  "tokiponaLatinEndBrace contextual 26"  "tokiponaLatinEndBrace contextual 27"  "tokiponaLatinEndBrace contextual 28"  "tokiponaLatinEndBrace contextual 29"  "tokiponaLatinEndBrace contextual 30"  "tokiponaLatinEndBrace contextual 31"  "tokiponaLatinEndBrace contextual 32"  "tokiponaLatinEndBrace contextual 33"  "tokiponaLatinEndBrace contextual 34"  "tokiponaLatinEndBrace contextual 35"  "tokiponaLatinEndBrace contextual 36"  "tokiponaLatinEndBrace contextual 37"  "tokiponaLatinEndBrace contextual 38"  "tokiponaLatinEndBrace contextual 39"  "tokiponaLatinEndBrace contextual 40"  "tokiponaLatinEndBrace contextual 41"  "tokiponaLatinEndBrace contextual 42"  "tokiponaLatinEndBrace contextual 43"  "tokiponaLatinEndBrace contextual 44"  "tokiponaLatinEndBrace contextual 45"  "tokiponaLatinEndBrace contextual 46"  "tokiponaLatinEndBrace contextual 47"  "tokiponaLatinEndBrace contextual 48"  "tokiponaLatinEndBrace contextual 49"  "tokiponaLatinEndBrace contextual 50"  "tokiponaLatinEndBrace contextual 51"  "tokiponaLatinEndBrace contextual 52"  "tokiponaLatinEndBrace contextual 53"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 2 0 0 "Multiple Substitution lookup 335" { "Multiple Substitution lookup 335 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 336" { "Multiple Substitution lookup 336 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 337" { "Multiple Substitution lookup 337 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 338" { "Multiple Substitution lookup 338 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 339" { "Multiple Substitution lookup 339 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 340" { "Multiple Substitution lookup 340 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 341" { "Multiple Substitution lookup 341 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 342" { "Multiple Substitution lookup 342 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 343" { "Multiple Substitution lookup 343 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 344" { "Multiple Substitution lookup 344 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 345" { "Multiple Substitution lookup 345 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 346" { "Multiple Substitution lookup 346 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 347" { "Multiple Substitution lookup 347 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 348" { "Multiple Substitution lookup 348 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 349" { "Multiple Substitution lookup 349 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 350" { "Multiple Substitution lookup 350 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 351" { "Multiple Substitution lookup 351 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 352" { "Multiple Substitution lookup 352 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 353" { "Multiple Substitution lookup 353 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 354" { "Multiple Substitution lookup 354 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 355" { "Multiple Substitution lookup 355 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 356" { "Multiple Substitution lookup 356 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 357" { "Multiple Substitution lookup 357 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 358" { "Multiple Substitution lookup 358 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 359" { "Multiple Substitution lookup 359 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 360" { "Multiple Substitution lookup 360 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 361" { "Multiple Substitution lookup 361 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 362" { "Multiple Substitution lookup 362 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 363" { "Multiple Substitution lookup 363 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 364" { "Multiple Substitution lookup 364 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 365" { "Multiple Substitution lookup 365 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 366" { "Multiple Substitution lookup 366 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 367" { "Multiple Substitution lookup 367 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 368" { "Multiple Substitution lookup 368 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 369" { "Multiple Substitution lookup 369 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 370" { "Multiple Substitution lookup 370 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 371" { "Multiple Substitution lookup 371 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 372" { "Multiple Substitution lookup 372 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 373" { "Multiple Substitution lookup 373 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 374" { "Multiple Substitution lookup 374 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 375" { "Multiple Substitution lookup 375 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 376" { "Multiple Substitution lookup 376 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 377" { "Multiple Substitution lookup 377 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 378" { "Multiple Substitution lookup 378 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 379" { "Multiple Substitution lookup 379 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 380" { "Multiple Substitution lookup 380 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 381" { "Multiple Substitution lookup 381 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 382" { "Multiple Substitution lookup 382 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 383" { "Multiple Substitution lookup 383 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 384" { "Multiple Substitution lookup 384 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 385" { "Multiple Substitution lookup 385 subtable"  } []
+Lookup: 2 0 0 "Multiple Substitution lookup 386" { "Multiple Substitution lookup 386 subtable"  } []
 Lookup: 1 0 0 "tokiponaLatin" { "tokiponaLatin subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 6 0 0 "tokiponaSmall" { "tokiponaSmall subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
-Lookup: 4 0 0 "Ligature Substitution lookup 335" { "Ligature Substitution lookup 335 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 389" { "Ligature Substitution lookup 389 subtable"  } []
 Lookup: 260 0 0 "Combining" { "Small"  "Above"  "Circle"  "Square"  } [' RQD' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -388,422 +442,830 @@ ChainSub2: coverage "tokiponaSmall subtable" 0 0 0 1
   Coverage: 6 tp_ala
   BCoverage: 22 tp_sona tp_pana tp_ijo
  1
-  SeqLookup: 0 "Ligature Substitution lookup 335"
+  SeqLookup: 0 "Ligature Substitution lookup 389"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 29" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 53" 0 0 0 1
+ String: 1 z
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 386"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 52" 0 0 0 1
+ String: 1 y
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 385"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 51" 0 0 0 1
+ String: 1 x
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 384"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 50" 0 0 0 1
  String: 1 w
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 332"
+  SeqLookup: 0 "Multiple Substitution lookup 383"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 28" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 49" 0 0 0 1
+ String: 1 v
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 382"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 48" 0 0 0 1
  String: 1 u
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 331"
+  SeqLookup: 0 "Multiple Substitution lookup 381"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 27" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 47" 0 0 0 1
  String: 1 t
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 330"
+  SeqLookup: 0 "Multiple Substitution lookup 380"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 26" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 46" 0 0 0 1
  String: 1 s
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 329"
+  SeqLookup: 0 "Multiple Substitution lookup 379"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 25" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 45" 0 0 0 1
+ String: 1 r
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 378"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 44" 0 0 0 1
+ String: 1 q
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 377"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 43" 0 0 0 1
  String: 1 p
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 328"
+  SeqLookup: 0 "Multiple Substitution lookup 376"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 24" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 42" 0 0 0 1
  String: 1 o
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 327"
+  SeqLookup: 0 "Multiple Substitution lookup 375"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 23" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 41" 0 0 0 1
  String: 1 n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 326"
+  SeqLookup: 0 "Multiple Substitution lookup 374"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 22" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 40" 0 0 0 1
  String: 1 m
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 325"
+  SeqLookup: 0 "Multiple Substitution lookup 373"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 21" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 39" 0 0 0 1
  String: 1 l
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 324"
+  SeqLookup: 0 "Multiple Substitution lookup 372"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 20" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 38" 0 0 0 1
  String: 1 k
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 323"
+  SeqLookup: 0 "Multiple Substitution lookup 371"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 19" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 37" 0 0 0 1
  String: 1 j
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 322"
+  SeqLookup: 0 "Multiple Substitution lookup 370"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 18" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 36" 0 0 0 1
  String: 1 i
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 321"
+  SeqLookup: 0 "Multiple Substitution lookup 369"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 17" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 35" 0 0 0 1
+ String: 1 h
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 368"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 34" 0 0 0 1
+ String: 1 g
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 367"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 33" 0 0 0 1
+ String: 1 f
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 366"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 32" 0 0 0 1
  String: 1 e
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 320"
+  SeqLookup: 0 "Multiple Substitution lookup 365"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 16" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 31" 0 0 0 1
+ String: 1 d
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 364"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 30" 0 0 0 1
+ String: 1 c
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 363"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 29" 0 0 0 1
+ String: 1 b
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 362"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 28" 0 0 0 1
  String: 1 a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 319"
+  SeqLookup: 0 "Multiple Substitution lookup 361"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 15" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 27" 0 0 0 1
+ String: 1 Z
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 360"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 26" 0 0 0 1
+ String: 1 Y
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 359"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 25" 0 0 0 1
+ String: 1 X
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 358"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 24" 0 0 0 1
  String: 1 W
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 318"
+  SeqLookup: 0 "Multiple Substitution lookup 357"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 14" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 23" 0 0 0 1
+ String: 1 V
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 356"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 22" 0 0 0 1
  String: 1 U
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 317"
+  SeqLookup: 0 "Multiple Substitution lookup 355"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 13" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 21" 0 0 0 1
  String: 1 T
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 316"
+  SeqLookup: 0 "Multiple Substitution lookup 354"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 12" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 20" 0 0 0 1
  String: 1 S
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 315"
+  SeqLookup: 0 "Multiple Substitution lookup 353"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 11" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 19" 0 0 0 1
+ String: 1 R
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 352"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 18" 0 0 0 1
+ String: 1 Q
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 351"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 17" 0 0 0 1
  String: 1 P
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 314"
+  SeqLookup: 0 "Multiple Substitution lookup 350"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 10" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 16" 0 0 0 1
  String: 1 O
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 313"
+  SeqLookup: 0 "Multiple Substitution lookup 349"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 9" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 15" 0 0 0 1
  String: 1 N
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 312"
+  SeqLookup: 0 "Multiple Substitution lookup 348"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 8" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 14" 0 0 0 1
  String: 1 M
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 311"
+  SeqLookup: 0 "Multiple Substitution lookup 347"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 7" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 13" 0 0 0 1
  String: 1 L
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 310"
+  SeqLookup: 0 "Multiple Substitution lookup 346"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 6" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 12" 0 0 0 1
  String: 1 K
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 309"
+  SeqLookup: 0 "Multiple Substitution lookup 345"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 5" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 11" 0 0 0 1
  String: 1 J
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 308"
+  SeqLookup: 0 "Multiple Substitution lookup 344"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 4" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 10" 0 0 0 1
  String: 1 I
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 307"
+  SeqLookup: 0 "Multiple Substitution lookup 343"
 EndFPST
-ChainSub2: glyph "tokiponaLatinEndBrace contextual 3" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 9" 0 0 0 1
+ String: 1 H
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 342"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 8" 0 0 0 1
+ String: 1 G
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 341"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 7" 0 0 0 1
+ String: 1 F
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 340"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 6" 0 0 0 1
  String: 1 E
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 306"
+  SeqLookup: 0 "Multiple Substitution lookup 339"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 5" 0 0 0 1
+ String: 1 D
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 338"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 4" 0 0 0 1
+ String: 1 C
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 337"
+EndFPST
+ChainSub2: glyph "tokiponaLatinEndBrace contextual 3" 0 0 0 1
+ String: 1 B
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 336"
 EndFPST
 ChainSub2: glyph "tokiponaLatinEndBrace contextual 2" 0 0 0 1
  String: 1 A
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 305"
+  SeqLookup: 0 "Multiple Substitution lookup 335"
 EndFPST
 ChainSub2: coverage "tokiponaLatinEndBrace contextual 1" 0 0 0 1
  1 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 223 A_under E_under I_under J_under K_under L_under M_under N_under O_under P_under S_under T_under U_under W_under a_under e_under i_under j_under k_under l_under m_under n_under o_under p_under s_under t_under u_under w_under
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 415 A_under B_under C_under D_under E_under F_under G_under H_under I_under J_under K_under L_under M_under N_under O_under P_under Q_under R_under S_under T_under U_under V_under W_under X_under Y_under Z_under a_under b_under c_under d_under e_under f_under g_under h_under i_under j_under k_under l_under m_under n_under o_under p_under q_under r_under s_under t_under u_under v_under w_under x_under y_under z_under
  0
 EndFPST
 ChainSub2: coverage "tokiponaLatinEndBrace contextual 0" 0 0 0 1
  1 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 29" 0 0 0 1
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 53" 0 0 0 1
+ String: 1 z
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 333"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 52" 0 0 0 1
+ String: 1 y
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 332"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 51" 0 0 0 1
+ String: 1 x
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 331"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 50" 0 0 0 1
  String: 1 w
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 330"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 49" 0 0 0 1
+ String: 1 v
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 329"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 48" 0 0 0 1
+ String: 1 u
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 328"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 47" 0 0 0 1
+ String: 1 t
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 327"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 46" 0 0 0 1
+ String: 1 s
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 326"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 45" 0 0 0 1
+ String: 1 r
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 325"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 44" 0 0 0 1
+ String: 1 q
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 324"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 43" 0 0 0 1
+ String: 1 p
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 323"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 42" 0 0 0 1
+ String: 1 o
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 322"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 41" 0 0 0 1
+ String: 1 n
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 321"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 40" 0 0 0 1
+ String: 1 m
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 320"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 39" 0 0 0 1
+ String: 1 l
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 319"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 38" 0 0 0 1
+ String: 1 k
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 318"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 37" 0 0 0 1
+ String: 1 j
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 317"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 36" 0 0 0 1
+ String: 1 i
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 316"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 35" 0 0 0 1
+ String: 1 h
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 315"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 34" 0 0 0 1
+ String: 1 g
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 314"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 33" 0 0 0 1
+ String: 1 f
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 313"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 32" 0 0 0 1
+ String: 1 e
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 312"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 31" 0 0 0 1
+ String: 1 d
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 311"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 30" 0 0 0 1
+ String: 1 c
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 310"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 29" 0 0 0 1
+ String: 1 b
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 309"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 28" 0 0 0 1
+ String: 1 a
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 308"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 27" 0 0 0 1
+ String: 1 Z
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 307"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 26" 0 0 0 1
+ String: 1 Y
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 306"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 25" 0 0 0 1
+ String: 1 X
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 305"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 24" 0 0 0 1
+ String: 1 W
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Multiple Substitution lookup 304"
+EndFPST
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 23" 0 0 0 1
+ String: 1 V
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 303"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 28" 0 0 0 1
- String: 1 u
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 22" 0 0 0 1
+ String: 1 U
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 302"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 27" 0 0 0 1
- String: 1 t
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 21" 0 0 0 1
+ String: 1 T
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 301"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 26" 0 0 0 1
- String: 1 s
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 20" 0 0 0 1
+ String: 1 S
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 300"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 25" 0 0 0 1
- String: 1 p
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 19" 0 0 0 1
+ String: 1 R
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 299"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 24" 0 0 0 1
- String: 1 o
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 18" 0 0 0 1
+ String: 1 Q
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 298"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 23" 0 0 0 1
- String: 1 n
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 17" 0 0 0 1
+ String: 1 P
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 297"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 22" 0 0 0 1
- String: 1 m
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 16" 0 0 0 1
+ String: 1 O
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 296"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 21" 0 0 0 1
- String: 1 l
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 15" 0 0 0 1
+ String: 1 N
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 295"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 20" 0 0 0 1
- String: 1 k
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 14" 0 0 0 1
+ String: 1 M
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 294"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 19" 0 0 0 1
- String: 1 j
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 13" 0 0 0 1
+ String: 1 L
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 293"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 18" 0 0 0 1
- String: 1 i
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 12" 0 0 0 1
+ String: 1 K
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 292"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 17" 0 0 0 1
- String: 1 e
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 11" 0 0 0 1
+ String: 1 J
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 291"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 16" 0 0 0 1
- String: 1 a
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 10" 0 0 0 1
+ String: 1 I
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 290"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 15" 0 0 0 1
- String: 1 W
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 9" 0 0 0 1
+ String: 1 H
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 289"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 14" 0 0 0 1
- String: 1 U
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 8" 0 0 0 1
+ String: 1 G
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 288"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 13" 0 0 0 1
- String: 1 T
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 7" 0 0 0 1
+ String: 1 F
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 287"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 12" 0 0 0 1
- String: 1 S
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 6" 0 0 0 1
+ String: 1 E
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 286"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 11" 0 0 0 1
- String: 1 P
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 5" 0 0 0 1
+ String: 1 D
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 285"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 10" 0 0 0 1
- String: 1 O
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 4" 0 0 0 1
+ String: 1 C
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 284"
 EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 9" 0 0 0 1
- String: 1 N
+ChainSub2: glyph "tokiponaLatinStartBrace contextual 3" 0 0 0 1
+ String: 1 B
  BString: 0 
  FString: 0 
  1
   SeqLookup: 0 "Multiple Substitution lookup 283"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 8" 0 0 0 1
- String: 1 M
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 282"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 7" 0 0 0 1
- String: 1 L
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 281"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 6" 0 0 0 1
- String: 1 K
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 280"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 5" 0 0 0 1
- String: 1 J
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 279"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 4" 0 0 0 1
- String: 1 I
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 278"
-EndFPST
-ChainSub2: glyph "tokiponaLatinStartBrace contextual 3" 0 0 0 1
- String: 1 E
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Multiple Substitution lookup 277"
 EndFPST
 ChainSub2: glyph "tokiponaLatinStartBrace contextual 2" 0 0 0 1
  String: 1 A
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Multiple Substitution lookup 276"
+  SeqLookup: 0 "Multiple Substitution lookup 282"
 EndFPST
 ChainSub2: coverage "tokiponaLatinStartBrace contextual 1" 0 0 0 1
  1 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 223 A_under E_under I_under J_under K_under L_under M_under N_under O_under P_under S_under T_under U_under W_under a_under e_under i_under j_under k_under l_under m_under n_under o_under p_under s_under t_under u_under w_under
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 415 A_under B_under C_under D_under E_under F_under G_under H_under I_under J_under K_under L_under M_under N_under O_under P_under Q_under R_under S_under T_under U_under V_under W_under X_under Y_under Z_under a_under b_under c_under d_under e_under f_under g_under h_under i_under j_under k_under l_under m_under n_under o_under p_under q_under r_under s_under t_under u_under v_under w_under x_under y_under z_under
  0
 EndFPST
 ChainSub2: coverage "tokiponaLatinStartBrace contextual 0" 0 0 0 1
  1 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+ 0
+EndFPST
+ChainSub2: glyph "tokiponaWordsSalt15 contextual 2" 0 0 0 1
+ String: 29 k i j e t e s a n t a k a l u
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 280"
+EndFPST
+ChainSub2: coverage "tokiponaWordsSalt15 contextual 1" 0 0 0 1
+ 14 0 1
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+ 0
+EndFPST
+ChainSub2: coverage "tokiponaWordsSalt15 contextual 0" 0 0 0 1
+ 14 1 0
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+ 0
+EndFPST
+ChainSub2: glyph "tokiponaWordsSalt15s contextual 1" 0 0 0 1
+ String: 38 k i j e t e s a n t a k a l u tp_space
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 278"
+EndFPST
+ChainSub2: coverage "tokiponaWordsSalt15s contextual 0" 0 0 0 1
+ 15 1 0
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 8 tp_space
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7 contextual 4" 0 0 0 1
@@ -811,44 +1273,44 @@ ChainSub2: glyph "tokiponaWordsSalt7 contextual 4" 0 0 0 1
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 274"
+  SeqLookup: 0 "Ligature Substitution lookup 276"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7 contextual 3" 0 0 0 1
  String: 13 m o n s u t a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 273"
+  SeqLookup: 0 "Ligature Substitution lookup 275"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7 contextual 2" 0 0 0 1
  String: 13 k e p e k e n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 272"
+  SeqLookup: 0 "Ligature Substitution lookup 274"
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt7 contextual 1" 0 0 0 1
  7 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt7 contextual 0" 0 0 0 1
  7 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7s contextual 3" 0 0 0 1
@@ -856,33 +1318,33 @@ ChainSub2: glyph "tokiponaWordsSalt7s contextual 3" 0 0 0 1
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 270"
+  SeqLookup: 0 "Ligature Substitution lookup 272"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7s contextual 2" 0 0 0 1
  String: 22 m o n s u t a tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 269"
+  SeqLookup: 0 "Ligature Substitution lookup 271"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt7s contextual 1" 0 0 0 1
  String: 22 k e p e k e n tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 268"
+  SeqLookup: 0 "Ligature Substitution lookup 270"
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt7s contextual 0" 0 0 0 1
  8 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 11" 0 0 0 1
@@ -890,91 +1352,91 @@ ChainSub2: glyph "tokiponaWordsSalt6 contextual 11" 0 0 0 1
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 266"
+  SeqLookup: 0 "Ligature Substitution lookup 268"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 10" 0 0 0 1
  String: 11 s i n p i n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 265"
+  SeqLookup: 0 "Ligature Substitution lookup 267"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 9" 0 0 0 1
  String: 11 s i j e l o
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 264"
+  SeqLookup: 0 "Ligature Substitution lookup 266"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 8" 0 0 0 1
  String: 11 p i m e j a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 263"
+  SeqLookup: 0 "Ligature Substitution lookup 265"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 7" 0 0 0 1
  String: 11 p a l i s a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 262"
+  SeqLookup: 0 "Ligature Substitution lookup 264"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 6" 0 0 0 1
  String: 11 p a k a l a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 261"
+  SeqLookup: 0 "Ligature Substitution lookup 263"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 5" 0 0 0 1
  String: 11 n a m a k o
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 260"
+  SeqLookup: 0 "Ligature Substitution lookup 262"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 4" 0 0 0 1
  String: 11 k u l u p u
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 259"
+  SeqLookup: 0 "Ligature Substitution lookup 261"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 3" 0 0 0 1
  String: 11 k i p i s i
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 258"
+  SeqLookup: 0 "Ligature Substitution lookup 260"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6 contextual 2" 0 0 0 1
  String: 11 k a l a m a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 257"
+  SeqLookup: 0 "Ligature Substitution lookup 259"
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt6 contextual 1" 0 0 0 1
  6 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt6 contextual 0" 0 0 0 1
  6 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 10" 0 0 0 1
@@ -982,189 +1444,203 @@ ChainSub2: glyph "tokiponaWordsSalt6s contextual 10" 0 0 0 1
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 255"
+  SeqLookup: 0 "Ligature Substitution lookup 257"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 9" 0 0 0 1
  String: 20 s i n p i n tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 254"
+  SeqLookup: 0 "Ligature Substitution lookup 256"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 8" 0 0 0 1
  String: 20 s i j e l o tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 253"
+  SeqLookup: 0 "Ligature Substitution lookup 255"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 7" 0 0 0 1
  String: 20 p i m e j a tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 252"
+  SeqLookup: 0 "Ligature Substitution lookup 254"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 6" 0 0 0 1
  String: 20 p a l i s a tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 251"
+  SeqLookup: 0 "Ligature Substitution lookup 253"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 5" 0 0 0 1
  String: 20 p a k a l a tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 250"
+  SeqLookup: 0 "Ligature Substitution lookup 252"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 4" 0 0 0 1
  String: 20 n a m a k o tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 249"
+  SeqLookup: 0 "Ligature Substitution lookup 251"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 3" 0 0 0 1
  String: 20 k u l u p u tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 248"
+  SeqLookup: 0 "Ligature Substitution lookup 250"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 2" 0 0 0 1
  String: 20 k i p i s i tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 247"
+  SeqLookup: 0 "Ligature Substitution lookup 249"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt6s contextual 1" 0 0 0 1
  String: 20 k a l a m a tp_space
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 246"
+  SeqLookup: 0 "Ligature Substitution lookup 248"
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt6s contextual 0" 0 0 0 1
  7 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
-ChainSub2: glyph "tokiponaWordsSalt5 contextual 13" 0 0 0 1
+ChainSub2: glyph "tokiponaWordsSalt5 contextual 14" 0 0 0 1
  String: 9 u t a l a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 244"
+  SeqLookup: 0 "Ligature Substitution lookup 246"
+EndFPST
+ChainSub2: glyph "tokiponaWordsSalt5 contextual 13" 0 0 0 1
+ String: 9 t o n s i
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 245"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 12" 0 0 0 1
  String: 9 t e n p o
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 243"
+  SeqLookup: 0 "Ligature Substitution lookup 244"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 11" 0 0 0 1
  String: 9 p i l i n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 242"
+  SeqLookup: 0 "Ligature Substitution lookup 243"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 10" 0 0 0 1
  String: 9 n a s i n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 241"
+  SeqLookup: 0 "Ligature Substitution lookup 242"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 9" 0 0 0 1
  String: 9 n a n p a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 240"
+  SeqLookup: 0 "Ligature Substitution lookup 241"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 8" 0 0 0 1
  String: 9 m o n s i
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 239"
+  SeqLookup: 0 "Ligature Substitution lookup 240"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 7" 0 0 0 1
  String: 9 l u k i n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 238"
+  SeqLookup: 0 "Ligature Substitution lookup 239"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 6" 0 0 0 1
  String: 9 l i n j a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 237"
+  SeqLookup: 0 "Ligature Substitution lookup 238"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 5" 0 0 0 1
  String: 9 k i w e n
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 236"
+  SeqLookup: 0 "Ligature Substitution lookup 237"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 4" 0 0 0 1
  String: 9 a p e j a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 235"
+  SeqLookup: 0 "Ligature Substitution lookup 236"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 3" 0 0 0 1
  String: 9 a l a s a
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 234"
+  SeqLookup: 0 "Ligature Substitution lookup 235"
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt5 contextual 2" 0 0 0 1
  String: 9 a k e s i
  BString: 0 
  FString: 0 
  1
-  SeqLookup: 0 "Ligature Substitution lookup 233"
+  SeqLookup: 0 "Ligature Substitution lookup 234"
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt5 contextual 1" 0 0 0 1
  5 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt5 contextual 0" 0 0 0 1
  5 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
-ChainSub2: glyph "tokiponaWordsSalt5s contextual 12" 0 0 0 1
+ChainSub2: glyph "tokiponaWordsSalt5s contextual 13" 0 0 0 1
  String: 18 u t a l a tp_space
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 232"
+EndFPST
+ChainSub2: glyph "tokiponaWordsSalt5s contextual 12" 0 0 0 1
+ String: 18 t o n s i tp_space
  BString: 0 
  FString: 0 
  1
@@ -1249,13 +1725,13 @@ ChainSub2: glyph "tokiponaWordsSalt5s contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt5s contextual 0" 0 0 0 1
  6 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt4 contextual 69" 0 0 0 1
@@ -1736,20 +2212,20 @@ ChainSub2: glyph "tokiponaWordsSalt4 contextual 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt4 contextual 1" 0 0 0 1
  4 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt4 contextual 0" 0 0 0 1
  4 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt4s contextual 68" 0 0 0 1
@@ -2230,12 +2706,12 @@ ChainSub2: glyph "tokiponaWordsSalt4s contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt4s contextual 0" 0 0 0 1
  5 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt3 contextual 22" 0 0 0 1
@@ -2387,18 +2863,18 @@ ChainSub2: glyph "tokiponaWordsSalt3 contextual 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt3 contextual 1" 0 0 0 1
  3 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt3 contextual 0" 0 0 0 1
  3 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt3s contextual 21" 0 0 0 1
@@ -2550,11 +3026,11 @@ ChainSub2: glyph "tokiponaWordsSalt3s contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt3s contextual 0" 0 0 0 1
  4 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt2 contextual 13" 0 0 0 1
@@ -2643,16 +3119,16 @@ ChainSub2: glyph "tokiponaWordsSalt2 contextual 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt2 contextual 1" 0 0 0 1
  2 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt2 contextual 0" 0 0 0 1
  2 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt2s contextual 12" 0 0 0 1
@@ -2741,10 +3217,10 @@ ChainSub2: glyph "tokiponaWordsSalt2s contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt2s contextual 0" 0 0 0 1
  3 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt1 contextual 4" 0 0 0 1
@@ -2770,14 +3246,14 @@ ChainSub2: glyph "tokiponaWordsSalt1 contextual 2" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt1 contextual 1" 0 0 0 1
  1 0 1
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  FCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  FCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt1 contextual 0" 0 0 0 1
  1 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "tokiponaWordsSalt1s contextual 3" 0 0 0 1
@@ -2803,9 +3279,9 @@ ChainSub2: glyph "tokiponaWordsSalt1s contextual 1" 0 0 0 1
 EndFPST
 ChainSub2: coverage "tokiponaWordsSalt1s contextual 0" 0 0 0 1
  2 1 0
-  Coverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  Coverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
   Coverage: 8 tp_space
-  BCoverage: 55 A E I J K L M N O P S T U W a e i j k l m n o p s t u w
+  BCoverage: 103 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z
  0
 EndFPST
 ChainSub2: glyph "spaceShorten contextual 3" 0 0 0 1
@@ -2841,7 +3317,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 17 4
+WinInfo: 140 20 10
 BeginPrivate: 4
 BlueValues 47 [38 50 188 200 285 297 370 382 520 532 716 728]
 OtherBlues 49 [-208 -196 -12 0 222 235 470 482 550 570 675 675]
@@ -2893,7 +3369,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 145752 72876 48584 498074 1048576 48584 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Small" "Small" "Above" "Above" "Circle" "Circle" "Square" "Square"
-BeginChars: 1114244 347
+BeginChars: 1114243 347
 
 StartChar: tp_a
 Encoding: 60928 60928 0
@@ -2956,7 +3432,7 @@ Fore
 Refer: 153 -1 S 1 0 0 1 157 649 2
 Refer: 153 -1 N 1 0 0 1 399 649 2
 Refer: 36 60964 N 1 0 0 1 0 0 2
-Ligature2: "Ligature Substitution lookup 233 subtable" a k e s i
+Ligature2: "Ligature Substitution lookup 234 subtable" a k e s i
 Ligature2: "Ligature Substitution lookup 220 subtable" a k e s i tp_space
 Ligature2: "tokiponaWords subtable" percent a k e s i space
 LCarets2: 6 0 0 0 0 0 0
@@ -3045,7 +3521,7 @@ SplineSet
  105 666 l 1
  105 370 l 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 234 subtable" a l a s a
+Ligature2: "Ligature Substitution lookup 235 subtable" a l a s a
 Ligature2: "Ligature Substitution lookup 221 subtable" a l a s a tp_space
 Ligature2: "tokiponaWords subtable" percent a l a s a space
 LCarets2: 6 0 0 0 0 0 0
@@ -3914,8 +4390,8 @@ SplineSet
  48.174842569 663.4691488 47.2940919492 679.542847612 56.3816203748 689.684002521 c 0
 EndSplineSet
 Refer: 112 61040 N 1 0 0 1 5 0 2
-Ligature2: "Ligature Substitution lookup 257 subtable" k a l a m a
-Ligature2: "Ligature Substitution lookup 246 subtable" k a l a m a tp_space
+Ligature2: "Ligature Substitution lookup 259 subtable" k a l a m a
+Ligature2: "Ligature Substitution lookup 248 subtable" k a l a m a tp_space
 Ligature2: "tokiponaWords subtable" percent k a l a m a space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -4118,8 +4594,8 @@ SplineSet
  300 666 l 1
  300 370 l 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 272 subtable" k e p e k e n
-Ligature2: "Ligature Substitution lookup 268 subtable" k e p e k e n tp_space
+Ligature2: "Ligature Substitution lookup 274 subtable" k e p e k e n
+Ligature2: "Ligature Substitution lookup 270 subtable" k e p e k e n tp_space
 Ligature2: "tokiponaWords subtable" percent k e p e k e n space
 LCarets2: 8 0 0 0 0 0 0 0 0
 EndChar
@@ -4214,7 +4690,7 @@ SplineSet
  348.993681044 -208.212802268 332.142717604 -211.693979241 320.454865287 -203.333200834 c 0
  317.714883734 -201.373184744 313.967380397 -196.533964134 313.588307544 -195.905015543 c 2
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 236 subtable" k i w e n
+Ligature2: "Ligature Substitution lookup 237 subtable" k i w e n
 Ligature2: "Ligature Substitution lookup 223 subtable" k i w e n tp_space
 Ligature2: "tokiponaWords subtable" percent k i w e n space
 LCarets2: 6 0 0 0 0 0 0
@@ -4440,8 +4916,8 @@ SplineSet
  495 160.155680827 470.155852269 185 440 185 c 0
  409.844319173 185 385 160.155852269 385 130 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 259 subtable" k u l u p u
-Ligature2: "Ligature Substitution lookup 248 subtable" k u l u p u tp_space
+Ligature2: "Ligature Substitution lookup 261 subtable" k u l u p u
+Ligature2: "Ligature Substitution lookup 250 subtable" k u l u p u tp_space
 Ligature2: "tokiponaWords subtable" percent k u l u p u space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -4876,7 +5352,7 @@ SplineSet
  103.78622849 310 93.3323526334 193.717556929 92.9848908349 184.130960319 c 0
  92.5115378253 170.522061292 80.7398593454 159.541756155 67.1309603188 160.015109165 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 237 subtable" l i n j a
+Ligature2: "Ligature Substitution lookup 238 subtable" l i n j a
 Ligature2: "Ligature Substitution lookup 224 subtable" l i n j a tp_space
 Ligature2: "tokiponaWords subtable" percent l i n j a space
 LCarets2: 6 0 0 0 0 0 0
@@ -5083,7 +5559,7 @@ SplineSet
  309 238.537109375 291.462890625 221 270 221 c 0
  248.537109375 221 231 238.537109375 231 260 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 238 subtable" l u k i n
+Ligature2: "Ligature Substitution lookup 239 subtable" l u k i n
 Ligature2: "Ligature Substitution lookup 225 subtable" l u k i n tp_space
 Ligature2: "tokiponaWords subtable" percent l u k i n space
 LCarets2: 6 0 0 0 0 0 0
@@ -5586,7 +6062,7 @@ SplineSet
  399 520 l 2
  412.617128764 520 424 508.617128764 424 495 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 239 subtable" m o n s i
+Ligature2: "Ligature Substitution lookup 240 subtable" m o n s i
 Ligature2: "Ligature Substitution lookup 226 subtable" m o n s i tp_space
 Ligature2: "tokiponaWords subtable" percent m o n s i space
 LCarets2: 6 0 0 0 0 0 0
@@ -5868,7 +6344,7 @@ SplineSet
  330 187 l 1
  330 320 l 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 240 subtable" n a n p a
+Ligature2: "Ligature Substitution lookup 241 subtable" n a n p a
 Ligature2: "Ligature Substitution lookup 227 subtable" n a n p a tp_space
 Ligature2: "tokiponaWords subtable" percent n a n p a space
 LCarets2: 6 0 0 0 0 0 0
@@ -5961,7 +6437,7 @@ SplineSet
  193 703 l 2
  193 716.617128764 204.382871236 728 218 728 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 241 subtable" n a s i n
+Ligature2: "Ligature Substitution lookup 242 subtable" n a s i n
 Ligature2: "Ligature Substitution lookup 228 subtable" n a s i n tp_space
 Ligature2: "tokiponaWords subtable" percent n a s i n space
 LCarets2: 6 0 0 0 0 0 0
@@ -6394,8 +6870,8 @@ SplineSet
  365.858398438 286 377.701171875 268.975585938 372.854492188 253.520507812 c 2
  309.0390625 50 l 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 261 subtable" p a k a l a
-Ligature2: "Ligature Substitution lookup 250 subtable" p a k a l a tp_space
+Ligature2: "Ligature Substitution lookup 263 subtable" p a k a l a
+Ligature2: "Ligature Substitution lookup 252 subtable" p a k a l a tp_space
 Ligature2: "tokiponaWords subtable" percent p a k a l a space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -6494,8 +6970,8 @@ SplineSet
  55 300 l 2
  55 439.212612927 68.5112039542 532 160 532 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 262 subtable" p a l i s a
-Ligature2: "Ligature Substitution lookup 251 subtable" p a l i s a tp_space
+Ligature2: "Ligature Substitution lookup 264 subtable" p a l i s a
+Ligature2: "Ligature Substitution lookup 253 subtable" p a l i s a tp_space
 Ligature2: "tokiponaWords subtable" percent p a l i s a space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -6667,7 +7143,7 @@ SplineSet
  289.45094126 -11.9535328977 272.666233341 -15.7412950394 260.827920588 -7.59495484675 c 0
  258.258704087 -5.82699077244 255.603416781 -2.94800835098 254.282867975 -0.992871066242 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 242 subtable" p i l i n
+Ligature2: "Ligature Substitution lookup 243 subtable" p i l i n
 Ligature2: "Ligature Substitution lookup 229 subtable" p i l i n tp_space
 Ligature2: "tokiponaWords subtable" percent p i l i n space
 LCarets2: 6 0 0 0 0 0 0
@@ -6727,8 +7203,8 @@ SplineSet
  275 442.312020862 l 1
  232.274984416 340.349906377 l 2
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 263 subtable" p i m e j a
-Ligature2: "Ligature Substitution lookup 252 subtable" p i m e j a tp_space
+Ligature2: "Ligature Substitution lookup 265 subtable" p i m e j a
+Ligature2: "Ligature Substitution lookup 254 subtable" p i m e j a tp_space
 Ligature2: "tokiponaWords subtable" percent p i m e j a space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -7357,8 +7833,8 @@ SplineSet
  105 13 l 2
  105 -0.617128764476 93.6171287645 -12 80 -12 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 264 subtable" s i j e l o
-Ligature2: "Ligature Substitution lookup 253 subtable" s i j e l o tp_space
+Ligature2: "Ligature Substitution lookup 266 subtable" s i j e l o
+Ligature2: "Ligature Substitution lookup 255 subtable" s i j e l o tp_space
 Ligature2: "tokiponaWords subtable" percent s i j e l o space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -7530,8 +8006,8 @@ SplineSet
  68 470 l 2
  54.3828712355 470 43 481.382871236 43 495 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 265 subtable" s i n p i n
-Ligature2: "Ligature Substitution lookup 254 subtable" s i n p i n tp_space
+Ligature2: "Ligature Substitution lookup 267 subtable" s i n p i n
+Ligature2: "Ligature Substitution lookup 256 subtable" s i n p i n tp_space
 Ligature2: "tokiponaWords subtable" percent s i n p i n space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -7572,8 +8048,8 @@ SplineSet
  105 470 l 1
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 275 260 2
-Ligature2: "Ligature Substitution lookup 274 subtable" s i t e l e n
-Ligature2: "Ligature Substitution lookup 270 subtable" s i t e l e n tp_space
+Ligature2: "Ligature Substitution lookup 276 subtable" s i t e l e n
+Ligature2: "Ligature Substitution lookup 272 subtable" s i t e l e n tp_space
 Ligature2: "tokiponaWords subtable" percent s i t e l e n space
 LCarets2: 8 0 0 0 0 0 0 0 0
 EndChar
@@ -7684,8 +8160,8 @@ SplineSet
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 282 260 2
 Refer: 153 -1 N 1 0 0 1 110 260 2
-Ligature2: "Ligature Substitution lookup 266 subtable" s o w e l i
-Ligature2: "Ligature Substitution lookup 255 subtable" s o w e l i tp_space
+Ligature2: "Ligature Substitution lookup 268 subtable" s o w e l i
+Ligature2: "Ligature Substitution lookup 257 subtable" s o w e l i tp_space
 Ligature2: "tokiponaWords subtable" percent s o w e l i space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -8091,7 +8567,7 @@ SplineSet
  456.135776544 285 l 1
  448.267073016 396.663299305 387.315478525 468.913979666 300 480.391755129 c 1
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 243 subtable" t e n p o
+Ligature2: "Ligature Substitution lookup 244 subtable" t e n p o
 Ligature2: "Ligature Substitution lookup 230 subtable" t e n p o tp_space
 Ligature2: "tokiponaWords subtable" percent t e n p o space
 LCarets2: 6 0 0 0 0 0 0
@@ -8376,8 +8852,8 @@ SplineSet
  46.8434638427 493.68080416 l 2
  39.588695651 505.204455243 43.1571530775 520.901767966 54.6808041601 528.156536157 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 244 subtable" u t a l a
-Ligature2: "Ligature Substitution lookup 231 subtable" u t a l a tp_space
+Ligature2: "Ligature Substitution lookup 246 subtable" u t a l a
+Ligature2: "Ligature Substitution lookup 232 subtable" u t a l a tp_space
 Ligature2: "tokiponaWords subtable" percent u t a l a space
 LCarets2: 6 0 0 0 0 0 0
 EndChar
@@ -8715,7 +9191,7 @@ SplineSet
  253 369.155852269 205.844319173 322 148 322 c 0
  90.1558522686 322 43 369.155680827 43 427 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 235 subtable" a p e j a
+Ligature2: "Ligature Substitution lookup 236 subtable" a p e j a
 Ligature2: "Ligature Substitution lookup 222 subtable" a p e j a tp_space
 LCarets2: 5 0 0 0 0 0
 EndChar
@@ -8757,8 +9233,8 @@ SplineSet
  731.783623413 20.7031978664 l 2
  735.979440902 7.74861136663 728.657784366 -6.58780592276 715.703197866 -10.7836234126 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 273 subtable" m o n s u t a
-Ligature2: "Ligature Substitution lookup 269 subtable" m o n s u t a tp_space
+Ligature2: "Ligature Substitution lookup 275 subtable" m o n s u t a
+Ligature2: "Ligature Substitution lookup 271 subtable" m o n s u t a tp_space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
 
@@ -8816,8 +9292,8 @@ SplineSet
  243 376.783051835 198.220961214 332 143 332 c 0
  87.7830518354 332 43 376.779038786 43 432 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 258 subtable" k i p i s i
-Ligature2: "Ligature Substitution lookup 247 subtable" k i p i s i tp_space
+Ligature2: "Ligature Substitution lookup 260 subtable" k i p i s i
+Ligature2: "Ligature Substitution lookup 249 subtable" k i p i s i tp_space
 LCarets2: 6 0 0 0 0 0 0
 EndChar
 
@@ -8944,8 +9420,8 @@ SplineSet
  68 235 l 2
  54.3828712355 235 43 246.382871236 43 260 c 0
 EndSplineSet
-Ligature2: "Ligature Substitution lookup 260 subtable" n a m a k o
-Ligature2: "Ligature Substitution lookup 249 subtable" n a m a k o tp_space
+Ligature2: "Ligature Substitution lookup 262 subtable" n a m a k o
+Ligature2: "Ligature Substitution lookup 251 subtable" n a m a k o tp_space
 Ligature2: "tokiponaWords subtable" percent n a m a k o space
 LCarets2: 7 0 0 0 0 0 0 0
 EndChar
@@ -9512,8 +9988,8 @@ SplineSet
  174.994862759 482 105 398.076373236 105 260 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" p_under
-MultipleSubs2: "Multiple Substitution lookup 328 subtable" p_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 299 subtable" tp_name_start p_under
+MultipleSubs2: "Multiple Substitution lookup 376 subtable" p_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 323 subtable" tp_name_start p_under
 EndChar
 
 StartChar: t
@@ -9555,8 +10031,8 @@ SplineSet
  54.3828712355 470 43 481.382871236 43 495 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" t_under
-MultipleSubs2: "Multiple Substitution lookup 330 subtable" t_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 301 subtable" tp_name_start t_under
+MultipleSubs2: "Multiple Substitution lookup 380 subtable" t_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 327 subtable" tp_name_start t_under
 EndChar
 
 StartChar: o
@@ -9572,8 +10048,8 @@ Refer: 12 60940 N 1 0 0 1 0 0 2
 Fore
 Refer: 12 60940 N 1 0 0 1 0 0 2
 Substitution2: "tokiponaLatin subtable" o_under
-MultipleSubs2: "Multiple Substitution lookup 327 subtable" o_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 298 subtable" tp_name_start o_under
+MultipleSubs2: "Multiple Substitution lookup 375 subtable" o_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 322 subtable" tp_name_start o_under
 Substitution2: "Single Substitution lookup 10 subtable" tp_o
 EndChar
 
@@ -9613,8 +10089,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0xf4
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" k_under
-MultipleSubs2: "Multiple Substitution lookup 323 subtable" k_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 294 subtable" tp_name_start k_under
+MultipleSubs2: "Multiple Substitution lookup 371 subtable" k_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 318 subtable" tp_name_start k_under
 EndChar
 
 StartChar: i
@@ -9643,8 +10119,8 @@ SplineSet
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 80 661 2
 Substitution2: "tokiponaLatin subtable" i_under
-MultipleSubs2: "Multiple Substitution lookup 321 subtable" i_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 292 subtable" tp_name_start i_under
+MultipleSubs2: "Multiple Substitution lookup 369 subtable" i_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 316 subtable" tp_name_start i_under
 EndChar
 
 StartChar: n
@@ -9684,8 +10160,8 @@ SplineSet
  55 520.617128764 66.3828712355 532 80 532 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" n_under
-MultipleSubs2: "Multiple Substitution lookup 326 subtable" n_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 297 subtable" tp_name_start n_under
+MultipleSubs2: "Multiple Substitution lookup 374 subtable" n_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 321 subtable" tp_name_start n_under
 EndChar
 
 StartChar: a
@@ -9735,8 +10211,8 @@ SplineSet
  422.126550979 162.094521771 422.545844353 162.953419028 423 163.776708826 c 2
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" a_under
-MultipleSubs2: "Multiple Substitution lookup 319 subtable" a_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 290 subtable" tp_name_start a_under
+MultipleSubs2: "Multiple Substitution lookup 361 subtable" a_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 308 subtable" tp_name_start a_under
 Substitution2: "Single Substitution lookup 8 subtable" tp_a
 EndChar
 
@@ -10922,7 +11398,7 @@ SplineSet
  203.973422071 125.099549661 197.981257752 127.182807906 193.275881709 131.417646344 c 0
 EndSplineSet
 Validated: 1
-Ligature2: "Ligature Substitution lookup 335 subtable" tp_combine tp_ala
+Ligature2: "Ligature Substitution lookup 389 subtable" tp_combine tp_ala
 LCarets2: 1 0
 EndChar
 
@@ -11540,348 +12016,1008 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NameMe.182
-Encoding: 1114163 -1 195
-Width: 900
+StartChar: tp_tonsi
+Encoding: 61060 61060 195
+Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -12 21G<268.191 281.809> 331 50<223.895 326.105>
+VStem: 154 50<209.427 305.501> 250 50<-11.7959 147.596> 346 50<209.427 305.501>
+CounterMasks: 1 38
 LayerCount: 2
+Back
+SplineSet
+482 464 m 21
+ 439.166992188 419.426757812 394.366210938 368.514648438 350 319 c 1037
+68 464 m 21
+ 110.833156437 419.426495926 155.633416409 368.514547128 200 319 c 1037
+275 13 m 5
+ 275 164 l 1053
+179 260 m 4
+ 179 313 222 356 275 356 c 4
+ 328 356 371 313 371 260 c 4
+ 371 207 328 164 275 164 c 4
+ 222 164 179 207 179 260 c 4
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+275 -12 m 0
+ 261.382871236 -12 250 -0.617128764476 250 13 c 2
+ 250 141.587679646 l 1
+ 195.180731506 153.11156733 154 201.763039299 154 260 c 0
+ 154 280.605560337 159.155440273 300.011116011 168.246334013 316.996675832 c 1
+ 128.14972973 361.861157657 88.0977219649 407.004942747 49.9739245025 446.677742579 c 0
+ 40.5387481108 456.496278226 40.8592069323 472.590899106 50.677742579 482.026075498 c 0
+ 60.4962782257 491.461251889 76.5908991058 491.140793068 86.0260754975 481.322257421 c 0
+ 123.601428534 442.220185778 162.348674904 398.656934531 200.817821997 355.587748403 c 1
+ 221.307396956 371.514311528 247.049723917 381 275 381 c 0
+ 302.950226137 381 328.692525185 371.514340004 349.182092837 355.587813376 c 1
+ 387.651152607 398.657151281 426.398769989 442.22048643 463.973945321 481.322279085 c 0
+ 473.409133513 491.140803392 489.503754778 491.461242871 499.322279085 482.026054679 c 0
+ 509.140803392 472.590866487 509.461242871 456.496245222 500.026054679 446.677720915 c 0
+ 461.902359158 407.0051226 421.849959843 361.861249897 381.753624674 316.996756694 c 1
+ 390.844543087 300.011182059 396 280.605599484 396 260 c 0
+ 396 201.763077554 354.819299043 153.111569851 300 141.587678728 c 1
+ 300 13 l 2
+ 300 -0.617128764476 288.617128764 -12 275 -12 c 0
+275 189 m 0
+ 314.192857298 189 346 220.807092901 346 260 c 0
+ 346 274.920023527 341.390549657 288.769717087 333.518923641 300.201797767 c 0
+ 333.451306535 300.26104955 333.383945382 300.320737529 333.316843922 300.380861909 c 0
+ 331.084205816 302.381354617 329.300355983 304.720451098 327.972854589 307.260318033 c 0
+ 314.967548359 321.825764777 296.048930319 330.999998834 275 331 c 0
+ 253.951093194 331 235.032471634 321.825778627 222.027157633 307.260335232 c 0
+ 220.69967334 304.720499593 218.915852454 302.381427553 216.683252738 300.380948518 c 0
+ 216.616122181 300.320797438 216.548731699 300.26108314 216.481083337 300.201806592 c 0
+ 208.609456089 288.769729853 204.000001704 274.920036171 204 260 c 0
+ 204 220.807142702 235.807092901 189 275 189 c 0
+EndSplineSet
+Ligature2: "Ligature Substitution lookup 245 subtable" t o n s i
+Ligature2: "Ligature Substitution lookup 231 subtable" t o n s i tp_space
 EndChar
 
-StartChar: NameMe.183
-Encoding: 1114164 -1 196
-Width: 900
+StartChar: B_under
+Encoding: 1114163 -1 196
+Width: 460
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 484.796> 0 21G<74.635 320.611> 235 50<105 292.382> 470 50<105 274.856> 666 50<-24.7959 484.796>
+VStem: 55 50<50 235 285 470> 313 50<303.722 434.975> 357 50<65.1208 197.744>
 LayerCount: 2
+Back
+SplineSet
+80 260 m 5
+ 268 260 l 5
+ 268 260 338 276 338 375 c 7
+ 338 447.027772421 283 495 189 495 c 7
+ 111 495 80 495 80 495 c 5
+ 80 25 l 5
+ 80 25 195 25 275 25 c 7
+ 353 25 382 63.9722275785 382 136 c 7
+ 382 246.018180316 268 260 268 260 c 1029
+460 -171 m 29
+ 0 -171 l 1029
+460 691 m 29
+ 0 691 l 1029
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+105 285 m 1xfe
+ 264.264934628 285 l 2
+ 274.500811589 288.754620819 313 304.5097752 313 375 c 0
+ 313 430.411652282 274.291131755 470 189 470 c 2
+ 105 470 l 1
+ 105 285 l 1xfe
+105 235 m 1
+ 105 50 l 1
+ 275 50 l 2
+ 339.778689192 50 357 73.431289004 357 136 c 0xfd
+ 357 215.694634009 281.975792311 232.337961519 266.141835556 235 c 2
+ 105 235 l 1
+325.47641327 267.497960069 m 1
+ 362.145533403 249.087221273 407 209.079338231 407 136 c 0xfd
+ 407 54.5131661531 366.221310808 0 275 0 c 2
+ 80 0 l 2
+ 69.2700956673 0 55 9.86746214447 55 25 c 2
+ 55 260 l 1
+ 55 495 l 2
+ 55 505.729904333 64.8674621445 520 80 520 c 2
+ 189 520 l 2
+ 291.708868245 520 363 463.643892561 363 375 c 0xfe
+ 363 323.914516763 345.804201021 289.078830626 325.47641327 267.497960069 c 1
+485 -171 m 0
+ 485 -184.617128764 473.617128764 -196 460 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 460 -146 l 2
+ 473.617128764 -146 485 -157.382871236 485 -171 c 0
+485 691 m 0
+ 485 677.382871236 473.617128764 666 460 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 460 716 l 2
+ 473.617128764 716 485 704.617128764 485 691 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.184
-Encoding: 1114165 -1 197
-Width: 900
+StartChar: C_under
+Encoding: 1114164 -1 197
+Width: 460
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 484.796> -12 21G<179.241 329.552> 482 50<163.293 340.746> 666 50<-24.7959 484.796>
+VStem: 43 50<122.984 396.133> 374.074 49.9202<67.8682 133.743 384.23 451.047>
 LayerCount: 2
+Back
+SplineSet
+460 -171 m 29
+ 0 -171 l 1029
+460 691 m 29
+ 0 691 l 1029
+399 109 m 5
+ 399 109 400 13 244 13 c 7
+ 132 13 68 89 68 260 c 7
+ 68 429 131.99609375 507 244 507 c 7
+ 400 507 399 409 399 409 c 1029
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+485 -171 m 0
+ 485 -184.617128764 473.617128764 -196 460 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 460 -146 l 2
+ 473.617128764 -146 485 -157.382871236 485 -171 c 0
+485 691 m 0
+ 485 677.382871236 473.617128764 666 460 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 460 716 l 2
+ 473.617128764 716 485 704.617128764 485 691 c 0
+398.828288257 133.999410295 m 0
+ 413.018397494 134.096876929 423.14616859 122.101789459 423.994021177 109.957247569 c 0
+ 424.063486396 99.8438477703 415.104100968 -12 244 -12 c 0
+ 114.482522487 -12 43 82.9536905126 43 260 c 0
+ 43 434.977785852 114.26245277 532 244 532 c 0
+ 416.305839549 532 424.052281599 416.650217216 423.994126215 408.045501128 c 0
+ 422.988669608 393.620602299 411.867616989 383.91246263 398.831040169 384.000570955 c 0
+ 385.812528267 384.088557187 374.759311005 394.771719855 374.051139368 407.387847254 c 0
+ 373.950540814 410.417043945 377.68076849 482 244 482 c 0
+ 149.72973473 482 93 423.022214148 93 260 c 0
+ 93 95.0463094874 149.517477513 38 244 38 c 0
+ 376.908711652 38 373.901016628 106.500631441 374.073826749 111.017545426 c 0
+ 374.610901517 120.604429725 384.663675721 133.902118787 398.828288257 133.999410295 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.186
-Encoding: 1114166 -1 198
-Width: 900
+StartChar: D_under
+Encoding: 1114165 -1 198
+Width: 460
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 484.796> 0 21G<74.635 257.855> 470 50<105 242.246> 666 50<-24.7959 484.796>
+VStem: 55 50<50 470> 340 50<121.267 355.637>
 LayerCount: 2
+Back
+SplineSet
+80 25 m 5
+ 80 25 131 25 211 25 c 7
+ 289 25 365 86.99609375 365 225 c 7
+ 365 374.003355667 299.874023438 495 163 495 c 4
+ 80 495 l 5
+ 80 25 l 5
+460 -171 m 29
+ 0 -171 l 1029
+460 691 m 29
+ 0 691 l 1029
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+80 0 m 2
+ 69.2700956673 0 55 9.86746214447 55 25 c 2
+ 55 495 l 2
+ 55 505.729904333 64.8674621445 520 80 520 c 2
+ 163 520 l 2
+ 319.992745639 520 390 379.047426932 390 225 c 0
+ 390 76.9204834854 304.710856459 0 211 0 c 2
+ 80 0 l 2
+105 50 m 1
+ 211 50 l 2
+ 273.289143541 50 340 97.0717040146 340 225 c 0
+ 340 368.959284402 279.755301236 470 163 470 c 2
+ 105 470 l 1
+ 105 50 l 1
+485 -171 m 0
+ 485 -184.617128764 473.617128764 -196 460 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 460 -146 l 2
+ 473.617128764 -146 485 -157.382871236 485 -171 c 0
+485 691 m 0
+ 485 677.382871236 473.617128764 666 460 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 460 716 l 2
+ 473.617128764 716 485 704.617128764 485 691 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.187
-Encoding: 1114167 -1 199
-Width: 900
+StartChar: F_under
+Encoding: 1114166 -1 199
+Width: 400
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 422.796> 0 21G<73.1914 86.8086> 235 50<105 253.796> 470 50<105 354.796> 666 50<-24.7959 422.796>
+VStem: 55 50<0.204064 235 285 470>
 LayerCount: 2
+Back
+SplineSet
+398 -171 m 29
+ 0 -171 l 1029
+398 691 m 29
+ 0 691 l 1029
+229 260 m 5
+ 80 260 l 1029
+80 25 m 5
+ 80 495 l 5
+ 330 495 l 1053
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+80 0 m 0
+ 66.3828712355 0 55 11.3828712355 55 25 c 2
+ 55 259.999999782 l 1
+ 55 260 l 1
+ 55 495 l 2
+ 55 510.132537856 69.2700956673 520 80 520 c 2
+ 330 520 l 2
+ 343.617128764 520 355 508.617128764 355 495 c 0
+ 355 481.382871236 343.617128764 470 330 470 c 2
+ 105 470 l 1
+ 105 285 l 1
+ 229 285 l 2
+ 242.617128764 285 254 273.617128764 254 260 c 0
+ 254 246.382871236 242.617128764 235 229 235 c 2
+ 105 235 l 1
+ 105 25 l 2
+ 105 11.3828712355 93.6171287645 0 80 0 c 0
+423 691 m 0
+ 423 677.382871236 411.617128764 666 398 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 398 716 l 2
+ 411.617128764 716 423 704.617128764 423 691 c 0
+423 -171 m 0
+ 423 -184.617128764 411.617128764 -196 398 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 398 -146 l 2
+ 411.617128764 -146 423 -157.382871236 423 -171 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.188
-Encoding: 1114168 -1 200
-Width: 900
+StartChar: G_under
+Encoding: 1114167 -1 200
+Width: 460
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 484.796> -12 21G<179.241 329.956> 235 50<250.204 372.329> 482 50<163.293 340.458> 666 50<-24.7959 484.796>
+VStem: 43 50<122.984 396.133> 373.998 50.0014<67.4856 235 384.283 451.538>
 LayerCount: 2
+Back
+SplineSet
+460 -171 m 29
+ 0 -171 l 1029
+460 691 m 29
+ 0 691 l 1029
+399 409 m 5
+ 399 409 400 507 244 507 c 7
+ 131.99609375 507 68 429 68 260 c 7
+ 68 89 132 13 244 13 c 7
+ 400 13 399 109 399 109 c 5
+ 397 260 l 29
+ 275 260 l 1053
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+485 -171 m 0
+ 485 -184.617128764 473.617128764 -196 460 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 460 -146 l 2
+ 473.617128764 -146 485 -157.382871236 485 -171 c 0
+485 691 m 0
+ 485 677.382871236 473.617128764 666 460 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 460 716 l 2
+ 473.617128764 716 485 704.617128764 485 691 c 0
+398.831040169 384.000570955 m 0
+ 384.65900371 384.096353338 374.631183416 397.054321838 374.051139368 407.387847254 c 0
+ 373.928777782 411.072366523 377.121069637 482 244 482 c 0
+ 149.729223861 482 93 423.022286884 93 260 c 0
+ 93 95.046358476 149.517785037 38 244 38 c 0
+ 377.609630287 38 373.989231071 108.806382098 373.997506679 109.022690088 c 2
+ 372.328933038 235 l 1
+ 275 235 l 2
+ 261.382871236 235 250 246.382871236 250 260 c 0
+ 250 273.617128764 261.382871236 285 275 285 c 2
+ 397 285 l 2
+ 408.919461307 285 421.808160094 274.649468556 421.997807402 260.331096787 c 2
+ 423.998862898 109.25140682 l 2
+ 424.052022059 101.511996252 415.912356307 -12 244 -12 c 0
+ 114.482214963 -12 43 82.953641524 43 260 c 0
+ 43 434.977713116 114.262963639 532 244 532 c 0
+ 415.517680142 532 424.059835028 417.767828499 423.994126215 408.045501128 c 0
+ 423.147610828 395.900870787 413.021160002 383.904666355 398.831040169 384.000570955 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.189
-Encoding: 1114169 -1 201
-Width: 900
+StartChar: H_under
+Encoding: 1114168 -1 201
+Width: 398
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 422.796> 0 21G<73.1914 86.8086 323.191 336.809> 235 50<105 305> 500 20G<73.1914 86.8086 323.191 336.809> 666 50<-24.7959 422.796>
+VStem: 55 50<0.204064 235 285 519.796> 305 50<0.204064 235 285 519.796>
 LayerCount: 2
+Back
+SplineSet
+398 -171 m 29
+ 0 -171 l 1029
+398 691 m 29
+ 0 691 l 1029
+329 260 m 5
+ 80 260 l 1029
+80 25 m 5
+ 80 495 l 1029
+330 495 m 13
+ 330 25 l 1053
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+330 520 m 0
+ 343.617128764 520 355 508.617128764 355 495 c 2
+ 355 25 l 2
+ 355 11.3828712355 343.617128764 0 330 0 c 0
+ 316.382871236 0 305 11.3828712355 305 25 c 2
+ 305 235 l 1
+ 105 235 l 1
+ 105 25 l 2
+ 105 11.3828712355 93.6171287645 0 80 0 c 0
+ 66.3828712355 0 55 11.3828712355 55 25 c 2
+ 55 259.999999782 l 1
+ 55 260 l 1
+ 55 495 l 2
+ 55 508.617128764 66.3828712355 520 80 520 c 0
+ 93.6171287645 520 105 508.617128764 105 495 c 2
+ 105 285 l 1
+ 305 285 l 1
+ 305 495 l 2
+ 305 508.617128764 316.382871236 520 330 520 c 0
+423 691 m 0
+ 423 677.382871236 411.617128764 666 398 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 398 716 l 2
+ 411.617128764 716 423 704.617128764 423 691 c 0
+423 -171 m 0
+ 423 -184.617128764 411.617128764 -196 398 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 398 -146 l 2
+ 411.617128764 -146 423 -157.382871236 423 -171 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.190
-Encoding: 1114170 -1 202
-Width: 900
+StartChar: Q_under
+Encoding: 1114169 -1 202
+Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 574.796> -12 21G<204.613 304.696> 482 50<189.678 360.322> 666 50<-24.7959 574.796>
+VStem: 43 50<146.908 373.092> 457 50<146.693 372.073>
 LayerCount: 2
+Back
+SplineSet
+482 13 m 5
+ 425 82 l 1053
+550 -171 m 29
+ 0 -171 l 1053
+550 691 m 29
+ 0 691 l 1053
+68 260 m 4
+ 68 406 151 507 275 507 c 4
+ 399 507 482 406 482 260 c 4
+ 482 114 399 13 275 13 c 4
+ 151 13 68 114 68 260 c 4
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+43 260 m 0
+ 43 415.278585301 134.22454825 532 275 532 c 0
+ 415.774006754 532 507 415.278511214 507 260 c 0
+ 507 191.075156079 489.026188914 129.747163156 456.723202757 82.8520016373 c 1
+ 501.274043791 28.9220361749 l 2
+ 509.946540462 18.4237507305 508.420321619 2.39845288078 497.922036175 -6.27404379068 c 0
+ 487.423750731 -14.9465404621 471.398452881 -13.4203216193 462.725956209 -2.92203617491 c 2
+ 423.58706027 44.4566273308 l 1
+ 384.963931586 8.77539961062 334.391781352 -12 275 -12 c 0
+ 134.225993246 -12 43 104.721488786 43 260 c 0
+93 260 m 0
+ 93 123.278511214 167.774006754 38 275 38 c 0
+ 327.019013536 38 371.400752878 58.0713119662 403.312241771 94.3504493561 c 0
+ 404.75835319 96.93862785 406.685102706 99.2973300095 409.077963825 101.274043791 c 0
+ 409.093987379 101.28728064 409.110023809 101.30049373 409.126072121 101.313683816 c 0
+ 439.43585421 139.55766872 457.000000948 193.737082427 457 260 c 0
+ 457 396.721488786 382.225993246 482 275 482 c 0
+ 167.77545175 482 93 396.721414699 93 260 c 0
+575 691 m 0
+ 575 677.382871236 563.617128764 666 550 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 550 716 l 2
+ 563.617128764 716 575 704.617128764 575 691 c 0
+575 -171 m 0
+ 575 -184.617128764 563.617128764 -196 550 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 550 -146 l 2
+ 563.617128764 -146 575 -157.382871236 575 -171 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.191
-Encoding: 1114171 -1 203
-Width: 900
+StartChar: R_under
+Encoding: 1114170 -1 203
+Width: 420
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 444.796> 0 21G<73.1914 86.8086> 235 50<105 214.976> 470 50<105 274.856> 666 50<-24.7959 444.796>
+VStem: 55 50<0.204064 235 285 470> 313 50<304.501 434.975>
 LayerCount: 2
+Back
+SplineSet
+80 260 m 5
+ 268 260 l 5
+ 268 260 338 276 338 375 c 7
+ 338 447.027772421 283 495 189 495 c 7
+ 111 495 80 495 80 495 c 5
+ 80 25 l 1029
+339 25 m 4
+ 231 260 l 1029
+420 -171 m 29
+ 0 -171 l 1029
+420 691 m 29
+ 0 691 l 1029
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+445 691 m 0
+ 445 677.382871236 433.617128764 666 420 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 420 716 l 2
+ 433.617128764 716 445 704.617128764 445 691 c 0
+445 -171 m 0
+ 445 -184.617128764 433.617128764 -196 420 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 420 -146 l 2
+ 433.617128764 -146 445 -157.382871236 445 -171 c 0
+349.439661389 2.28407012519 m 0
+ 337.066631705 -3.40225841062 321.970398661 2.18730892632 316.284070125 14.5603386107 c 2
+ 214.975629997 235 l 1
+ 105 235 l 1
+ 105 25 l 2
+ 105 11.3828712355 93.6171287645 0 80 0 c 0
+ 66.3828712355 0 55 11.3828712355 55 25 c 2
+ 55 260 l 1
+ 55 495 l 2
+ 55 505.729904333 64.8674621445 520 80 520 c 2
+ 189 520 l 2
+ 291.708868245 520 363 463.643892561 363 375 c 0
+ 363 260.825550727 279.292112143 236.961669862 273.682400803 235.654343372 c 0
+ 272.716171372 235.431193131 271.329014736 235.213458128 269.959908138 235.093967946 c 2
+ 361.715929875 35.4396613893 l 2
+ 367.402258411 23.0666317049 361.812691074 7.970398661 349.439661389 2.28407012519 c 0
+105 285 m 1
+ 264.264934628 285 l 2
+ 274.500811589 288.754620819 313 304.5097752 313 375 c 0
+ 313 430.411652282 274.291131755 470 189 470 c 2
+ 105 470 l 1
+ 105 285 l 1
+EndSplineSet
 EndChar
 
-StartChar: NameMe.192
-Encoding: 1114172 -1 204
-Width: 900
+StartChar: V_under
+Encoding: 1114171 -1 204
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 422.796> 666 50<-24.7959 422.796>
 LayerCount: 2
+Back
+SplineSet
+398 -171 m 29
+ 0 -171 l 1029
+398 691 m 29
+ 0 691 l 1029
+330 495 m 5
+ 217 25 l 21
+ 80 495 l 1029
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+335.844103546 519.307333333 m 0
+ 349.083947062 516.124136913 357.490529753 502.395739971 354.307333333 489.155896454 c 2
+ 241.307333333 19.1558964541 l 2
+ 237.948048204 5.18364857512 222.932447014 -3.21904640113 209.266828422 1.22610554941 c 0
+ 201.02398475 3.90733745857 194.798951483 11.8284134259 192.998856436 18.0039219825 c 2
+ 55.9988564362 488.003921982 l 2
+ 52.1881966277 501.076988479 59.9308554863 515.190483755 73.0039219825 519.001143564 c 0
+ 86.0769884786 522.811803372 100.190483755 515.069144514 104.001143564 501.996078018 c 2
+ 214.679874538 122.295322122 l 1
+ 305.692666667 500.844103546 l 2
+ 308.875863087 514.083947062 322.604260029 522.490529753 335.844103546 519.307333333 c 0
+423 691 m 0
+ 423 677.382871236 411.617128764 666 398 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 398 716 l 2
+ 411.617128764 716 423 704.617128764 423 691 c 0
+423 -171 m 0
+ 423 -184.617128764 411.617128764 -196 398 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 398 -146 l 2
+ 411.617128764 -146 423 -157.382871236 423 -171 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.193
-Encoding: 1114173 -1 205
-Width: 900
+StartChar: X_under
+Encoding: 1114172 -1 205
+Width: 482
 VWidth: 0
 Flags: HW
+HStem: -196 50<-24.7959 504.796> 666 50<-24.7959 504.796>
 LayerCount: 2
+Back
+SplineSet
+0 -171 m 1
+ 482 -171 l 1049
+0 691 m 1
+ 482 691 l 1049
+80 25 m 25
+ 400 495 l 1049
+80 495 m 25
+ 400 25 l 1049
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+-25 -171 m 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 482 -146 l 2
+ 495.6171875 -146 507 -157.3828125 507 -171 c 0
+ 507 -184.6171875 495.6171875 -196 482 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+-25 691 m 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 482 716 l 2
+ 495.6171875 716 507 704.6171875 507 691 c 0
+ 507 677.3828125 495.6171875 666 482 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+65.9302255729 515.66498119 m 0
+ 77.186133964 523.328578392 93.0013839873 520.325682818 100.66498119 509.069774427 c 2
+ 240 304.421465549 l 1
+ 379.33501881 509.069774427 l 2
+ 386.998616013 520.325682818 402.813866036 523.328578392 414.069774427 515.66498119 c 0
+ 425.325682818 508.001383987 428.328578392 492.186133964 420.66498119 480.930225573 c 2
+ 270.244402076 260 l 1
+ 420.66498119 39.0697744271 l 2
+ 428.328578392 27.813866036 425.325682818 11.9986160127 414.069774427 4.33501881027 c 0
+ 402.813866036 -3.32857839214 386.998616013 -0.325682818092 379.33501881 10.9302255729 c 2
+ 240 215.578534451 l 1
+ 100.66498119 10.9302255729 l 2
+ 93.0013839873 -0.325682818092 77.186133964 -3.32857839214 65.9302255729 4.33501881027 c 0
+ 54.6743171819 11.9986160127 51.6714216079 27.813866036 59.3350188103 39.0697744271 c 2
+ 209.755597924 260 l 1
+ 59.3350188103 480.930225573 l 2
+ 51.6714216079 492.186133964 54.6743171819 508.001383987 65.9302255729 515.66498119 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.194
-Encoding: 1114174 -1 206
-Width: 900
+StartChar: Y_under
+Encoding: 1114173 -1 206
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 424.796> 666 50<-24.7959 424.796>
+VStem: 187 49.9995<0.217677 253.453>
 LayerCount: 2
+Back
+SplineSet
+0 -171 m 29
+ 400 -171 l 1053
+0 691 m 29
+ 400 691 l 1053
+212 25 m 29
+ 211 260 l 1053
+80 495 m 29
+ 211 260 l 5
+ 332 495 l 1053
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+67.8273813877 516.8363769 m 0
+ 79.7213316275 523.466621502 95.2061322982 519.066568852 101.8363769 507.172618612 c 2
+ 210.125493857 312.913515674 l 1
+ 309.773302895 506.444384467 l 2
+ 316.006889172 518.550936326 331.337832607 523.460283381 343.444384467 517.226697105 c 0
+ 355.550936326 510.993110828 360.460283381 495.662167393 354.226697105 483.555615533 c 2
+ 236.025792832 253.99187583 l 1
+ 236.999773656 25.1063820156 l 2
+ 237.05771836 11.4893765371 225.723387494 0.0581710478529 212.106382016 0.000226343689314 c 0
+ 198.489376537 -0.0577183604742 187.058171048 11.276612506 187.000226344 24.8936179844 c 2
+ 186.027633177 253.453012166 l 1
+ 58.1636231 482.827381388 l 2
+ 51.5333784982 494.721331628 55.9334311478 510.206132298 67.8273813877 516.8363769 c 0
+-25 691 m 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 400 716 l 2
+ 413.617128764 716 425 704.617128764 425 691 c 0
+ 425 677.382871236 413.617128764 666 400 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+-25 -171 m 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 400 -146 l 2
+ 413.617128764 -146 425 -157.382871236 425 -171 c 0
+ 425 -184.617128764 413.617128764 -196 400 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+EndSplineSet
 EndChar
 
-StartChar: NameMe.195
-Encoding: 1114175 -1 207
-Width: 900
+StartChar: Z_under
+Encoding: 1114174 -1 207
+Width: 482
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 506.796> 0 21G<78.2657 405.809> 470 50<55.2041 351.817> 666 50<-24.7959 506.796>
 LayerCount: 2
+Back
+SplineSet
+0 -171 m 5
+ 482 -171 l 1053
+0 691 m 5
+ 482 691 l 1053
+80 495 m 5
+ 399 495 l 29
+ 80 25 l 5
+ 399 25 l 1053
+EndSplineSet
 Fore
-Validated: 1
+SplineSet
+-25 -171 m 0
+ -25 -157.382871236 -13.6171287645 -146 0 -146 c 2
+ 482 -146 l 2
+ 495.617128764 -146 507 -157.382871236 507 -171 c 0
+ 507 -184.617128764 495.617128764 -196 482 -196 c 2
+ 0 -196 l 2
+ -13.6171287645 -196 -25 -184.617128764 -25 -171 c 0
+-25 691 m 0
+ -25 704.617128764 -13.6171287645 716 0 716 c 2
+ 482 716 l 2
+ 495.617128764 716 507 704.617128764 507 691 c 0
+ 507 677.382871236 495.617128764 666 482 666 c 2
+ 0 666 l 2
+ -13.6171287645 666 -25 677.382871236 -25 691 c 0
+55 495 m 0
+ 55 508.617128764 66.3828712355 520 80 520 c 2
+ 399 520 l 2
+ 413.370403869 520 425.050397303 507.364679847 423.922937299 493.038572864 c 0
+ 423.580085884 488.682120289 421.382827138 483.461174036 419.685433602 480.960312087 c 2
+ 127.182583483 50 l 1
+ 399 50 l 2
+ 412.617128764 50 424 38.6171287645 424 25 c 0
+ 424 11.3828712355 412.617128764 0 399 0 c 2
+ 80 0 l 2
+ 76.5314329588 0 71.3904895799 1.13285856777 67.6265083697 3.27681641943 c 0
+ 55.1396715146 10.3892992994 51.2443269776 27.14936651 59.3145663979 39.0396879129 c 2
+ 351.817416517 470 l 1
+ 80 470 l 2
+ 66.3828712355 470 55 481.382871236 55 495 c 0
+EndSplineSet
 EndChar
 
 StartChar: NameMe.196
-Encoding: 1114176 -1 208
-Width: 900
+Encoding: 1114175 -1 208
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.197
-Encoding: 1114177 -1 209
-Width: 900
+Encoding: 1114176 -1 209
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.198
-Encoding: 1114178 -1 210
-Width: 900
+Encoding: 1114177 -1 210
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.199
-Encoding: 1114179 -1 211
-Width: 900
+Encoding: 1114178 -1 211
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.200
-Encoding: 1114180 -1 212
-Width: 900
+Encoding: 1114179 -1 212
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
-StartChar: NameMe.201
-Encoding: 1114181 -1 213
-Width: 900
+StartChar: tp_kijetesantakalu
+Encoding: 61061 61061 213
+Width: 550
 VWidth: 0
-Flags: HW
+Flags: WO
+HStem: -208 21G<268.191 281.809> 150 69<113.953 186.047 285.953 358.047> 301 69<113.953 186.047 285.953 358.047> 470 50<43.2041 364.567>
+VStem: 43 66<223.953 296.047> 191 90<223.953 296.047> 250 50<-207.796 -8.32321> 363 144<225.174 295.865>
 LayerCount: 2
+Back
+SplineSet
+68 345 m 25
+ 454 345 l 25
+ 454 257 l 25
+ 454 175 l 25
+ 68 175 l 25
+ 68 345 l 25
+68 495 m 1
+ 275 495 l 3
+ 399 495 482 406 482 260 c 3
+ 482 114 399 12.7383958513 275 13 c 1
+ 275 -183 l 1025
+EndSplineSet
+Refer: 153 -1 S 1 0 0 1 322 260 2
+Refer: 153 -1 S 1 0 0 1 150 260 2
 Fore
-Validated: 1
+SplineSet
+43 495 m 0xfb
+ 43 508.617128764 54.3828712355 520 68 520 c 2
+ 275 520 l 2
+ 414.043869345 520 507 416.491639589 507 260 c 0
+ 507 113.799213651 426.150870003 2.06804172925 300 -10.7743997419 c 1
+ 300 -183 l 2
+ 300 -196.617128764 288.617128764 -208 275 -208 c 0
+ 261.382871236 -208 250 -196.617128764 250 -183 c 2
+ 250 13 l 2
+ 250 23.8274837157 259.937310784 38.0318335552 275.052742655 37.9999443642 c 0
+ 349.461157795 37.8429641215 408.274238447 79.0171231213 437.264969201 150 c 1
+ 68 150 l 2
+ 52.8674621445 150 43 164.270095667 43 175 c 2
+ 43 345 l 2
+ 43 360.132537856 57.2700956673 370 68 370 c 2
+ 436.182431591 370 l 1
+ 407.107737156 435.234595744 349.434032373 470 275 470 c 2
+ 68 470 l 2
+ 54.3828712355 470 43 481.382871236 43 495 c 0xfb
+109 260 m 0
+ 109 237.377929688 127.377929688 219 150 219 c 0
+ 172.622070312 219 191 237.377929688 191 260 c 0xfd
+ 191 282.622070312 172.622070312 301 150 301 c 0
+ 127.377929688 301 109 282.622070312 109 260 c 0
+281 260 m 0
+ 281 237.377929688 299.377929688 219 322 219 c 0
+ 344.622070312 219 363 237.377929688 363 260 c 0
+ 363 282.622070312 344.622070312 301 322 301 c 0
+ 299.377929688 301 281 282.622070312 281 260 c 0
+EndSplineSet
+LCarets2: 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "Ligature Substitution lookup 278 subtable" k i j e t e s a n t a k a l u tp_space
+Ligature2: "Ligature Substitution lookup 280 subtable" k i j e t e s a n t a k a l u
 EndChar
 
 StartChar: NameMe.202
-Encoding: 1114182 -1 214
-Width: 900
+Encoding: 1114181 -1 214
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.203
-Encoding: 1114183 -1 215
-Width: 900
+Encoding: 1114182 -1 215
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
-StartChar: NameMe.204
-Encoding: 1114184 -1 216
-Width: 900
+StartChar: b_under
+Encoding: 1114183 -1 216
+Width: 460
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 484.796> 0 21G<74.635 320.611> 235 50<105 292.382> 470 50<105 274.856> 666 50<-24.7959 484.796>
+VStem: 55 50<50 235 285 470> 313 50<303.722 434.975> 357 50<65.1208 197.744>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 196 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.205
-Encoding: 1114185 -1 217
-Width: 900
+StartChar: c_under
+Encoding: 1114184 -1 217
+Width: 460
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 484.796> -12 21G<179.241 329.552> 482 50<163.293 340.746> 666 50<-24.7959 484.796>
+VStem: 43 50<122.984 396.133> 374.074 49.9202<67.8682 133.743 384.23 451.047>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 197 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.206
-Encoding: 1114186 -1 218
-Width: 900
+StartChar: d_under
+Encoding: 1114185 -1 218
+Width: 460
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 484.796> 0 21G<74.635 257.855> 470 50<105 242.246> 666 50<-24.7959 484.796>
+VStem: 55 50<50 470> 340 50<121.267 355.637>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 198 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.207
-Encoding: 1114187 -1 219
-Width: 900
+StartChar: f_under
+Encoding: 1114186 -1 219
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 422.796> 0 21G<73.1914 86.8086> 235 50<105 253.796> 470 50<105 354.796> 666 50<-24.7959 422.796>
+VStem: 55 50<0.204064 235 285 470>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 199 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.208
-Encoding: 1114188 -1 220
-Width: 900
+StartChar: g_under
+Encoding: 1114187 -1 220
+Width: 460
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 484.796> -12 21G<179.241 329.956> 235 50<250.204 372.329> 482 50<163.293 340.458> 666 50<-24.7959 484.796>
+VStem: 43 50<122.984 396.133> 373.998 50.0014<67.4856 235 384.283 451.538>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 200 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.209
-Encoding: 1114189 -1 221
-Width: 900
+StartChar: h_under
+Encoding: 1114188 -1 221
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 422.796> 0 21G<73.1914 86.8086 323.191 336.809> 235 50<105 305> 500 20G<73.1914 86.8086 323.191 336.809> 666 50<-24.7959 422.796>
+VStem: 55 50<0.204064 235 285 519.796> 305 50<0.204064 235 285 519.796>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 201 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.210
-Encoding: 1114190 -1 222
-Width: 900
+StartChar: q_under
+Encoding: 1114189 -1 222
+Width: 550
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 574.796> -12 21G<204.613 304.696> 482 50<189.678 360.322> 666 50<-24.7959 574.796>
+VStem: 43 50<146.908 373.092> 457 50<146.693 372.073>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 202 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.211
-Encoding: 1114191 -1 223
-Width: 900
+StartChar: r_under
+Encoding: 1114190 -1 223
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 444.796> 0 21G<73.1914 86.8086> 235 50<105 214.976> 470 50<105 274.856> 666 50<-24.7959 444.796>
+VStem: 55 50<0.204064 235 285 470> 313 50<304.501 434.975>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 203 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.212
-Encoding: 1114192 -1 224
-Width: 900
+StartChar: v_under
+Encoding: 1114191 -1 224
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 422.796> 666 50<-24.7959 422.796>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 204 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.213
-Encoding: 1114193 -1 225
-Width: 900
+StartChar: x_under
+Encoding: 1114192 -1 225
+Width: 482
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 504.796> 666 50<-24.7959 504.796>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 205 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.214
-Encoding: 1114194 -1 226
-Width: 900
+StartChar: y_under
+Encoding: 1114193 -1 226
+Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 424.796> 666 50<-24.7959 424.796>
+VStem: 187 49.9995<0.217677 253.453>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 206 -1 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: NameMe.215
-Encoding: 1114195 -1 227
-Width: 900
+StartChar: z_under
+Encoding: 1114194 -1 227
+Width: 482
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -196 50<-24.7959 506.796> 0 21G<78.2657 405.809> 470 50<55.2041 351.817> 666 50<-24.7959 506.796>
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 207 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: NameMe.216
-Encoding: 1114196 -1 228
-Width: 900
+Encoding: 1114195 -1 228
+Width: 400
 VWidth: 0
 Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: NameMe.217
-Encoding: 1114197 -1 229
+Encoding: 1114196 -1 229
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11891,7 +13027,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.218
-Encoding: 1114198 -1 230
+Encoding: 1114197 -1 230
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11901,7 +13037,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.219
-Encoding: 1114199 -1 231
+Encoding: 1114198 -1 231
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11911,7 +13047,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.220
-Encoding: 1114200 -1 232
+Encoding: 1114199 -1 232
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11921,7 +13057,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.221
-Encoding: 1114201 -1 233
+Encoding: 1114200 -1 233
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11931,7 +13067,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.222
-Encoding: 1114202 -1 234
+Encoding: 1114201 -1 234
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11941,7 +13077,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.223
-Encoding: 1114203 -1 235
+Encoding: 1114202 -1 235
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11951,7 +13087,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.224
-Encoding: 1114204 -1 236
+Encoding: 1114203 -1 236
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11961,7 +13097,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.225
-Encoding: 1114205 -1 237
+Encoding: 1114204 -1 237
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11971,7 +13107,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.226
-Encoding: 1114206 -1 238
+Encoding: 1114205 -1 238
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11981,7 +13117,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.227
-Encoding: 1114207 -1 239
+Encoding: 1114206 -1 239
 Width: 900
 VWidth: 0
 Flags: HW
@@ -11991,7 +13127,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.228
-Encoding: 1114208 -1 240
+Encoding: 1114207 -1 240
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12001,7 +13137,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.229
-Encoding: 1114209 -1 241
+Encoding: 1114208 -1 241
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12011,7 +13147,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.230
-Encoding: 1114210 -1 242
+Encoding: 1114209 -1 242
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12021,7 +13157,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.231
-Encoding: 1114211 -1 243
+Encoding: 1114210 -1 243
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12031,7 +13167,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.232
-Encoding: 1114212 -1 244
+Encoding: 1114211 -1 244
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12041,7 +13177,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.233
-Encoding: 1114213 -1 245
+Encoding: 1114212 -1 245
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12051,7 +13187,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.234
-Encoding: 1114214 -1 246
+Encoding: 1114213 -1 246
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12061,7 +13197,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.235
-Encoding: 1114215 -1 247
+Encoding: 1114214 -1 247
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12071,7 +13207,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.236
-Encoding: 1114216 -1 248
+Encoding: 1114215 -1 248
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12081,7 +13217,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.237
-Encoding: 1114217 -1 249
+Encoding: 1114216 -1 249
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12091,7 +13227,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.238
-Encoding: 1114218 -1 250
+Encoding: 1114217 -1 250
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12101,7 +13237,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.239
-Encoding: 1114219 -1 251
+Encoding: 1114218 -1 251
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12111,7 +13247,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.240
-Encoding: 1114220 -1 252
+Encoding: 1114219 -1 252
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12121,7 +13257,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.241
-Encoding: 1114221 -1 253
+Encoding: 1114220 -1 253
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12131,7 +13267,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.242
-Encoding: 1114222 -1 254
+Encoding: 1114221 -1 254
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12141,7 +13277,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.243
-Encoding: 1114223 -1 255
+Encoding: 1114222 -1 255
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12151,7 +13287,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.244
-Encoding: 1114224 -1 256
+Encoding: 1114223 -1 256
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12161,7 +13297,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.245
-Encoding: 1114225 -1 257
+Encoding: 1114224 -1 257
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12171,7 +13307,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.246
-Encoding: 1114226 -1 258
+Encoding: 1114225 -1 258
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12181,7 +13317,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.247
-Encoding: 1114227 -1 259
+Encoding: 1114226 -1 259
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12191,7 +13327,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.248
-Encoding: 1114228 -1 260
+Encoding: 1114227 -1 260
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12201,7 +13337,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.249
-Encoding: 1114229 -1 261
+Encoding: 1114228 -1 261
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12211,7 +13347,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.250
-Encoding: 1114230 -1 262
+Encoding: 1114229 -1 262
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12221,7 +13357,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.251
-Encoding: 1114231 -1 263
+Encoding: 1114230 -1 263
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12231,7 +13367,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.252
-Encoding: 1114232 -1 264
+Encoding: 1114231 -1 264
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12241,7 +13377,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.253
-Encoding: 1114233 -1 265
+Encoding: 1114232 -1 265
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12251,7 +13387,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.254
-Encoding: 1114234 -1 266
+Encoding: 1114233 -1 266
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12261,7 +13397,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.255
-Encoding: 1114235 -1 267
+Encoding: 1114234 -1 267
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12271,7 +13407,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.256
-Encoding: 1114236 -1 268
+Encoding: 1114235 -1 268
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12281,7 +13417,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.257
-Encoding: 1114237 -1 269
+Encoding: 1114236 -1 269
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12291,7 +13427,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.258
-Encoding: 1114238 -1 270
+Encoding: 1114237 -1 270
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12301,7 +13437,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.259
-Encoding: 1114239 -1 271
+Encoding: 1114238 -1 271
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12311,7 +13447,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.260
-Encoding: 1114240 -1 272
+Encoding: 1114239 -1 272
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12321,7 +13457,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.261
-Encoding: 1114241 -1 273
+Encoding: 1114240 -1 273
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12331,7 +13467,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.262
-Encoding: 1114242 -1 274
+Encoding: 1114241 -1 274
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12341,7 +13477,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.263
-Encoding: 1114243 -1 275
+Encoding: 1114242 -1 275
 Width: 900
 VWidth: 0
 Flags: HW
@@ -12387,8 +13523,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" l_under
-MultipleSubs2: "Multiple Substitution lookup 324 subtable" l_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 295 subtable" tp_name_start l_under
+MultipleSubs2: "Multiple Substitution lookup 372 subtable" l_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 319 subtable" tp_name_start l_under
 EndChar
 
 StartChar: y
@@ -12435,6 +13571,9 @@ SplineSet
  55 507 l 2
  55 520.617128764 66.3828712355 532 80 532 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" y_under
+MultipleSubs2: "Multiple Substitution lookup 385 subtable" y_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 332 subtable" tp_name_start y_under
 EndChar
 
 StartChar: u
@@ -12474,8 +13613,8 @@ SplineSet
  398 -2.61712876448 386.617128764 -14 373 -14 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" u_under
-MultipleSubs2: "Multiple Substitution lookup 331 subtable" u_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 302 subtable" tp_name_start u_under
+MultipleSubs2: "Multiple Substitution lookup 381 subtable" u_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 328 subtable" tp_name_start u_under
 EndChar
 
 StartChar: s
@@ -12518,8 +13657,8 @@ SplineSet
  368.139891898 484.07616071 371.427031693 468.725353757 362.664849205 457.563235256 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" s_under
-MultipleSubs2: "Multiple Substitution lookup 329 subtable" s_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 300 subtable" tp_name_start s_under
+MultipleSubs2: "Multiple Substitution lookup 379 subtable" s_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 326 subtable" tp_name_start s_under
 EndChar
 
 StartChar: e
@@ -12558,8 +13697,8 @@ SplineSet
  173.981157198 482 102.996238228 406.949897821 93.890045604 285 c 1
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" e_under
-MultipleSubs2: "Multiple Substitution lookup 320 subtable" e_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 291 subtable" tp_name_start e_under
+MultipleSubs2: "Multiple Substitution lookup 365 subtable" e_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 312 subtable" tp_name_start e_under
 Substitution2: "Single Substitution lookup 9 subtable" tp_e
 EndChar
 
@@ -12613,8 +13752,8 @@ SplineSet
  55 520.617128764 66.3828712355 532 80 532 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" m_under
-MultipleSubs2: "Multiple Substitution lookup 325 subtable" m_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 296 subtable" tp_name_start m_under
+MultipleSubs2: "Multiple Substitution lookup 373 subtable" m_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 320 subtable" tp_name_start m_under
 EndChar
 
 StartChar: w
@@ -12664,8 +13803,8 @@ SplineSet
  327 520.617128764 338.382871236 532 352 532 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" w_under
-MultipleSubs2: "Multiple Substitution lookup 332 subtable" w_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 303 subtable" tp_name_start w_under
+MultipleSubs2: "Multiple Substitution lookup 383 subtable" w_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 330 subtable" tp_name_start w_under
 EndChar
 
 StartChar: j
@@ -12697,8 +13836,8 @@ SplineSet
 EndSplineSet
 Refer: 153 -1 N 1 0 0 1 80 661 2
 Substitution2: "tokiponaLatin subtable" j_under
-MultipleSubs2: "Multiple Substitution lookup 322 subtable" j_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 293 subtable" tp_name_start j_under
+MultipleSubs2: "Multiple Substitution lookup 370 subtable" j_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 317 subtable" tp_name_start j_under
 EndChar
 
 StartChar: A
@@ -12743,8 +13882,8 @@ SplineSet
  445 369 l 1
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" A_under
-MultipleSubs2: "Multiple Substitution lookup 305 subtable" A_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 276 subtable" tp_name_start A_under
+MultipleSubs2: "Multiple Substitution lookup 335 subtable" A_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 282 subtable" tp_name_start A_under
 EndChar
 
 StartChar: E
@@ -12787,8 +13926,8 @@ SplineSet
  495.617128764 50 507 38.6171287645 507 25 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" E_under
-MultipleSubs2: "Multiple Substitution lookup 306 subtable" E_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 277 subtable" tp_name_start E_under
+MultipleSubs2: "Multiple Substitution lookup 339 subtable" E_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 286 subtable" tp_name_start E_under
 EndChar
 
 StartChar: I
@@ -12815,8 +13954,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" I_under
-MultipleSubs2: "Multiple Substitution lookup 307 subtable" I_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 278 subtable" tp_name_start I_under
+MultipleSubs2: "Multiple Substitution lookup 343 subtable" I_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 290 subtable" tp_name_start I_under
 EndChar
 
 StartChar: J
@@ -12849,8 +13988,8 @@ SplineSet
  43 273.617128764 54.3828712355 285 68 285 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" J_under
-MultipleSubs2: "Multiple Substitution lookup 308 subtable" J_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 279 subtable" tp_name_start J_under
+MultipleSubs2: "Multiple Substitution lookup 344 subtable" J_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 291 subtable" tp_name_start J_under
 EndChar
 
 StartChar: K
@@ -12889,8 +14028,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" K_under
-MultipleSubs2: "Multiple Substitution lookup 309 subtable" K_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 280 subtable" tp_name_start K_under
+MultipleSubs2: "Multiple Substitution lookup 345 subtable" K_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 292 subtable" tp_name_start K_under
 EndChar
 
 StartChar: L
@@ -12921,8 +14060,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" L_under
-MultipleSubs2: "Multiple Substitution lookup 310 subtable" L_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 281 subtable" tp_name_start L_under
+MultipleSubs2: "Multiple Substitution lookup 346 subtable" L_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 293 subtable" tp_name_start L_under
 EndChar
 
 StartChar: M
@@ -12965,8 +14104,8 @@ SplineSet
  105 -0.617128764476 93.6171287645 -12 80 -12 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" M_under
-MultipleSubs2: "Multiple Substitution lookup 311 subtable" M_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 282 subtable" tp_name_start M_under
+MultipleSubs2: "Multiple Substitution lookup 347 subtable" M_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 294 subtable" tp_name_start M_under
 EndChar
 
 StartChar: N
@@ -13004,8 +14143,8 @@ SplineSet
  105 -0.617128764476 93.6171287645 -12 80 -12 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" N_under
-MultipleSubs2: "Multiple Substitution lookup 312 subtable" N_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 283 subtable" tp_name_start N_under
+MultipleSubs2: "Multiple Substitution lookup 348 subtable" N_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 295 subtable" tp_name_start N_under
 EndChar
 
 StartChar: O
@@ -13038,8 +14177,8 @@ SplineSet
  135.004161912 -12 43 99.2324599636 43 345 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" O_under
-MultipleSubs2: "Multiple Substitution lookup 313 subtable" O_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 284 subtable" tp_name_start O_under
+MultipleSubs2: "Multiple Substitution lookup 349 subtable" O_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 296 subtable" tp_name_start O_under
 EndChar
 
 StartChar: P
@@ -13084,8 +14223,8 @@ SplineSet
  105 666 l 1
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" P_under
-MultipleSubs2: "Multiple Substitution lookup 314 subtable" P_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 285 subtable" tp_name_start P_under
+MultipleSubs2: "Multiple Substitution lookup 350 subtable" P_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 297 subtable" tp_name_start P_under
 EndChar
 
 StartChar: S
@@ -13124,8 +14263,8 @@ SplineSet
  458.847045122 652.825049031 458.997992572 637.126950035 448.18063564 627.942533476 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" S_under
-MultipleSubs2: "Multiple Substitution lookup 315 subtable" S_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 286 subtable" tp_name_start S_under
+MultipleSubs2: "Multiple Substitution lookup 353 subtable" S_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 300 subtable" tp_name_start S_under
 EndChar
 
 StartChar: T
@@ -13159,8 +14298,8 @@ SplineSet
  66.3828712355 666 55 677.382871236 55 691 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" T_under
-MultipleSubs2: "Multiple Substitution lookup 316 subtable" T_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 287 subtable" tp_name_start T_under
+MultipleSubs2: "Multiple Substitution lookup 354 subtable" T_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 301 subtable" tp_name_start T_under
 EndChar
 
 StartChar: U
@@ -13196,8 +14335,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" U_under
-MultipleSubs2: "Multiple Substitution lookup 317 subtable" U_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 288 subtable" tp_name_start U_under
+MultipleSubs2: "Multiple Substitution lookup 355 subtable" U_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 302 subtable" tp_name_start U_under
 EndChar
 
 StartChar: W
@@ -13241,8 +14380,8 @@ SplineSet
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
 Substitution2: "tokiponaLatin subtable" W_under
-MultipleSubs2: "Multiple Substitution lookup 318 subtable" W_under tp_name_end
-MultipleSubs2: "Multiple Substitution lookup 289 subtable" tp_name_start W_under
+MultipleSubs2: "Multiple Substitution lookup 357 subtable" W_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 304 subtable" tp_name_start W_under
 EndChar
 
 StartChar: semicolon
@@ -13848,6 +14987,9 @@ SplineSet
  55 703 l 2
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" h_under
+MultipleSubs2: "Multiple Substitution lookup 368 subtable" h_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 315 subtable" tp_name_start h_under
 EndChar
 
 StartChar: g
@@ -13896,6 +15038,9 @@ SplineSet
  445 398.076275239 375.004703471 482 275 482 c 0
  167.77545175 482 93 396.721414699 93 260 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" g_under
+MultipleSubs2: "Multiple Substitution lookup 367 subtable" g_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 314 subtable" tp_name_start g_under
 EndChar
 
 StartChar: q
@@ -13938,6 +15083,9 @@ SplineSet
  445 398.080071333 375.00508033 482 275 482 c 0
  167.77545175 482 93 396.721414699 93 260 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" q_under
+MultipleSubs2: "Multiple Substitution lookup 377 subtable" q_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 324 subtable" tp_name_start q_under
 EndChar
 
 StartChar: c
@@ -13972,6 +15120,9 @@ SplineSet
  342.6634744 532 394.739254902 502.991084157 437.67766953 460.05266953 c 0
  447.306433619 450.42390544 447.306433619 434.32609456 437.67766953 424.69733047 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" c_under
+MultipleSubs2: "Multiple Substitution lookup 363 subtable" c_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 310 subtable" tp_name_start c_under
 EndChar
 
 StartChar: d
@@ -14014,6 +15165,9 @@ SplineSet
  445 396.725292739 370.226367093 482 263 482 c 0
  168.917404574 482 93 397.443696463 93 260 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" d_under
+MultipleSubs2: "Multiple Substitution lookup 364 subtable" d_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 311 subtable" tp_name_start d_under
 EndChar
 
 StartChar: b
@@ -14057,6 +15211,9 @@ SplineSet
  457 396.725292739 382.226367093 482 275 482 c 0
  174.994862759 482 105 398.076373236 105 260 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" b_under
+MultipleSubs2: "Multiple Substitution lookup 362 subtable" b_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 309 subtable" tp_name_start b_under
 EndChar
 
 StartChar: v
@@ -14087,6 +15244,9 @@ SplineSet
  43.9472575645 500.183433318 l 2
  40.2343749148 513.284604953 48.0822616826 527.339859786 61.1834333179 531.052742435 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" v_under
+MultipleSubs2: "Multiple Substitution lookup 382 subtable" v_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 329 subtable" tp_name_start v_under
 EndChar
 
 StartChar: f
@@ -14127,6 +15287,9 @@ SplineSet
  68 235 l 2
  54.3828712355 235 43 246.382871236 43 260 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" f_under
+MultipleSubs2: "Multiple Substitution lookup 366 subtable" f_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 313 subtable" tp_name_start f_under
 EndChar
 
 StartChar: r
@@ -14162,6 +15325,9 @@ SplineSet
  55 507 l 2
  55 520.617128764 66.3828712355 532 80 532 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" r_under
+MultipleSubs2: "Multiple Substitution lookup 378 subtable" r_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 325 subtable" tp_name_start r_under
 EndChar
 
 StartChar: x
@@ -14182,6 +15348,9 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2 60930 N 1 0 0 1 0 0 2
+Substitution2: "tokiponaLatin subtable" x_under
+MultipleSubs2: "Multiple Substitution lookup 384 subtable" x_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 331 subtable" tp_name_start x_under
 EndChar
 
 StartChar: z
@@ -14217,6 +15386,9 @@ SplineSet
  68 470 l 2
  54.3828712355 470 43 481.382871236 43 495 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" z_under
+MultipleSubs2: "Multiple Substitution lookup 386 subtable" z_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 333 subtable" tp_name_start z_under
 EndChar
 
 StartChar: Q
@@ -14256,6 +15428,9 @@ SplineSet
  457 602.484201052 374.784843453 678 274 678 c 0
  173.399253549 678 93 602.75956614 93 345 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" Q_under
+MultipleSubs2: "Multiple Substitution lookup 351 subtable" Q_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 298 subtable" tp_name_start Q_under
 EndChar
 
 StartChar: R
@@ -14307,6 +15482,9 @@ SplineSet
  457 619.345126561 356.466787002 666 237 666 c 2
  105 666 l 1
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" R_under
+MultipleSubs2: "Multiple Substitution lookup 352 subtable" R_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 299 subtable" tp_name_start R_under
 EndChar
 
 StartChar: V
@@ -14336,6 +15514,9 @@ SplineSet
  44.0543428695 695.816302861 l 2
  40.1414897115 708.859146721 47.773459001 723.032803973 60.8163028608 726.945657131 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" V_under
+MultipleSubs2: "Multiple Substitution lookup 356 subtable" V_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 303 subtable" tp_name_start V_under
 EndChar
 
 StartChar: X
@@ -14374,6 +15555,9 @@ SplineSet
  89.4373231428 0.137606114312 l 2
  82.4313681924 -11.5389854697 66.8141976984 -15.4432780932 55.1376061143 -8.43732314281 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" X_under
+MultipleSubs2: "Multiple Substitution lookup 358 subtable" X_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 305 subtable" tp_name_start X_under
 EndChar
 
 StartChar: Y
@@ -14409,6 +15593,9 @@ SplineSet
  46.3574478595 690.486010355 l 2
  39.5412635251 702.274387126 43.697633583 717.826367806 55.4860103545 724.64255214 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" Y_under
+MultipleSubs2: "Multiple Substitution lookup 359 subtable" Y_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 306 subtable" tp_name_start Y_under
 EndChar
 
 StartChar: Z
@@ -14444,6 +15631,9 @@ SplineSet
  68 666 l 2
  54.3828712355 666 43 677.382871236 43 691 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" Z_under
+MultipleSubs2: "Multiple Substitution lookup 360 subtable" Z_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 307 subtable" tp_name_start Z_under
 EndChar
 
 StartChar: H
@@ -14483,6 +15673,9 @@ SplineSet
  55 703 l 2
  55 716.617128764 66.3828712355 728 80 728 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" H_under
+MultipleSubs2: "Multiple Substitution lookup 342 subtable" H_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 289 subtable" tp_name_start H_under
 EndChar
 
 StartChar: C
@@ -14519,6 +15712,9 @@ SplineSet
  331.384701967 38 375.769958369 58.7260309597 407.970477913 109.899448848 c 0
  415.222674276 121.424718637 430.919190261 124.996679028 442.44446005 117.744482665 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" C_under
+MultipleSubs2: "Multiple Substitution lookup 337 subtable" C_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 284 subtable" tp_name_start C_under
 EndChar
 
 StartChar: F
@@ -14556,6 +15752,9 @@ SplineSet
  105 25 l 2
  105 11.3828712355 93.6171287645 0 80 0 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" F_under
+MultipleSubs2: "Multiple Substitution lookup 340 subtable" F_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 287 subtable" tp_name_start F_under
 EndChar
 
 StartChar: B
@@ -14604,6 +15803,9 @@ SplineSet
  105 666 l 1
  105 370 l 1
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" B_under
+MultipleSubs2: "Multiple Substitution lookup 336 subtable" B_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 283 subtable" tp_name_start B_under
 EndChar
 
 StartChar: D
@@ -14640,6 +15842,9 @@ SplineSet
  457 524.099843039 336.950550962 666 210 666 c 2
  105 666 l 1
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" D_under
+MultipleSubs2: "Multiple Substitution lookup 338 subtable" D_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 285 subtable" tp_name_start D_under
 EndChar
 
 StartChar: G
@@ -14678,6 +15883,9 @@ SplineSet
  345.657471374 728 409.629426278 695.870952709 451.025885097 624.600073253 c 0
  457.865180682 612.825089954 453.739325762 597.26498596 441.964342463 590.425690375 c 0
 EndSplineSet
+Substitution2: "tokiponaLatin subtable" G_under
+MultipleSubs2: "Multiple Substitution lookup 341 subtable" G_under tp_name_end
+MultipleSubs2: "Multiple Substitution lookup 288 subtable" tp_name_start G_under
 EndChar
 
 StartChar: bracketleft

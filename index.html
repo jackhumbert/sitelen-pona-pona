@@ -561,6 +561,14 @@
         <div class="spp">&#xEE7F;</div>
         <div class="tp">leko</div>
       </div>
+      <div class="word">
+        <div class="spp">&#xEE84;</div>
+        <div class="tp">tonsi</div>
+      </div>
+      <div class="word">
+        <div class="spp">&#xEE85;</div>
+        <div class="tp">kijetesantakalu</div>
+      </div>
     </div>
 
       <h3>Removing redundant information</h3>
@@ -581,7 +589,7 @@
 
       <h3>Technical details</h3>
 
-      <p>The glyphs are mapped to the currently-unused <a href="https://www.kreativekorp.com/ucsur/roadmap.shtml">UCSUR</a> range of 0xEE00 to 0xEE82 - this includes discrete codes for the left and right cartouche ends and a combining code, for optionally inserting glyphs into each other, where readable (this is not widely implemented). All the details of this deserve a full Unicode proposal, mapping all words (e.g. ones that may be missing), along with full names that follow the correct conventions.</p>
+      <p>The glyphs are mapped to the currently-unused <a href="https://www.kreativekorp.com/ucsur/roadmap.shtml">UCSUR</a> range of 0xEE00 to 0xEE85 - this includes discrete codes for the left and right cartouche ends and a combining code, for optionally inserting glyphs into each other, where readable (this is not widely implemented). All the details of this deserve a full Unicode proposal, mapping all words (e.g. ones that may be missing), along with full names that follow the correct conventions.</p>
 
       <p>The font uses OpenType features (the <code>liga</code> table) to automatically convert Latin text into the individual sitelen pona glyphs - in cases where there shouldn't be a space between the glyphs (anywhere but double spaces or after punctuation), this is removed. A full Latin font is included as well, and toki pona text will render in this if the <code>liga</code> table is not active. When active, any words not listed above will automatically be cartouched, so long as valid toki pona letters are used. To use the cartouche with toki pona characters, you can use the square brackets - the encapsulated characters don't have the lines above/below them: <span class="spp">jan [jaki akesi kon olin]</span>  - <em>jan [jaki akesi kon olin]</em>, compared to <span class="spp">jan jako</span> - <em>jan jako</em>.</p>
 

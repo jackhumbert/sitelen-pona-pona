@@ -1,13 +1,13 @@
 @start_replace = [ percent ];
-@tp_words = [ tp_a tp_akesi tp_ala tp_alasa tp_ale tp_anpa tp_ante tp_anu tp_awen tp_e tp_en tp_esun tp_ijo tp_ike tp_ilo tp_insa tp_jaki tp_jan tp_jelo tp_jo tp_kala tp_kalama tp_kama tp_kasi tp_ken tp_kepeken tp_kili tp_kiwen tp_ko tp_kon tp_kule tp_kulupu tp_kute tp_la tp_lape tp_laso tp_lawa tp_len tp_lete tp_li tp_lili tp_linja tp_lipu tp_loje tp_lon tp_luka tp_lukin tp_oko tp_lupa tp_ma tp_mama tp_mani tp_meli tp_mi tp_mije tp_moku tp_moli tp_monsi tp_mu tp_mun tp_musi tp_mute tp_nanpa tp_nasa tp_nasin tp_nena tp_ni tp_nimi tp_noka tp_o tp_olin tp_ona tp_open tp_pakala tp_pali tp_palisa tp_pan tp_pana tp_pi tp_pilin tp_pimeja tp_pini tp_pipi tp_poka tp_poki tp_pona tp_pu tp_sama tp_seli tp_selo tp_seme tp_sewi tp_sijelo tp_sike tp_sin tp_namako tp_sina tp_sinpin tp_sitelen tp_sona tp_soweli tp_suli tp_suno tp_supa tp_suwi tp_tan tp_taso tp_tawa tp_telo tp_tenpo tp_toki tp_tomo tp_tu tp_unpa tp_uta tp_utala tp_walo tp_wan tp_waso tp_wawa tp_weka tp_wile ];
+@tp_words = [ tp_a tp_akesi tp_ala tp_alasa tp_ale tp_anpa tp_ante tp_anu tp_awen tp_e tp_en tp_esun tp_ijo tp_ike tp_ilo tp_insa tp_jaki tp_jan tp_jelo tp_jo tp_kala tp_kalama tp_kama tp_kasi tp_ken tp_kepeken tp_kili tp_kiwen tp_ko tp_kon tp_kule tp_kulupu tp_kute tp_la tp_lape tp_laso tp_lawa tp_len tp_lete tp_li tp_lili tp_linja tp_lipu tp_loje tp_lon tp_luka tp_lukin tp_oko tp_lupa tp_ma tp_mama tp_mani tp_meli tp_mi tp_mije tp_moku tp_moli tp_monsi tp_mu tp_mun tp_musi tp_mute tp_nanpa tp_nasa tp_nasin tp_nena tp_ni tp_nimi tp_noka tp_o tp_olin tp_ona tp_open tp_pakala tp_pali tp_palisa tp_pan tp_pana tp_pi tp_pilin tp_pimeja tp_pini tp_pipi tp_poka tp_poki tp_pona tp_pu tp_sama tp_seli tp_selo tp_seme tp_sewi tp_sijelo tp_sike tp_sin tp_namako tp_sina tp_sinpin tp_sitelen tp_sona tp_soweli tp_suli tp_suno tp_supa tp_suwi tp_tan tp_taso tp_tawa tp_telo tp_tenpo tp_toki tp_tomo tp_tu tp_unpa tp_uta tp_utala tp_walo tp_wan tp_waso tp_wawa tp_weka tp_wile tp_tonsi tp_kijetesantakalu ];
 @punc = [ colon semicolon qmark exclam period comma quotedbl quotesingle parenleft parenright ];
-@tp_upper = [ A E I J K L M N O P S T U W ];
-@tp_lower = [ a e i j k l m n o p s t u w ];
+@tp_upper = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
+@tp_lower = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ];
 @tp_letters = [ @tp_upper @tp_lower ];
 @tp_letters_words = [ @tp_letters @tp_words ];
 @tp_ls = [ @tp_letters tp_space ];
-@tp_upper_under = [ A_under E_under I_under J_under K_under L_under M_under N_under O_under P_under S_under T_under U_under W_under ];
-@tp_lower_under = [ a_under e_under i_under j_under k_under l_under m_under n_under o_under p_under s_under t_under u_under w_under ];
+@tp_upper_under = [ A_under B_under C_under D_under E_under F_under G_under H_under I_under J_under K_under L_under M_under N_under O_under P_under Q_under R_under S_under T_under U_under V_under W_under X_under Y_under Z_under ];
+@tp_lower_under = [ a_under b_under c_under d_under e_under f_under g_under h_under i_under j_under k_under l_under m_under n_under o_under p_under q_under r_under s_under t_under u_under v_under w_under x_under y_under z_under ];
 @tp_letters_under = [ @tp_upper_under @tp_lower_under ];
 
 @tp_small_context = [ tp_sona tp_pana tp_ijo ];
@@ -420,6 +420,7 @@ lookup tokiponaWordsSalt5s {
   sub n' a' s' i' n' tp_space' by tp_nasin;
   sub p' i' l' i' n' tp_space' by tp_pilin;
   sub t' e' n' p' o' tp_space' by tp_tenpo;
+  sub t' o' n' s' i' tp_space' by tp_tonsi;
   sub u' t' a' l' a' tp_space' by tp_utala;
 } tokiponaWordsSalt5s;
 
@@ -438,6 +439,7 @@ lookup tokiponaWordsSalt5 {
   sub n' a' s' i' n' by tp_nasin;
   sub p' i' l' i' n' by tp_pilin;
   sub t' e' n' p' o' by tp_tenpo;
+  sub t' o' n' s' i' by tp_tonsi;
   sub u' t' a' l' a' by tp_utala;
 } tokiponaWordsSalt5;
 
@@ -489,12 +491,31 @@ lookup tokiponaWordsSalt7 {
   sub s' i' t' e' l' e' n' by tp_sitelen;
 } tokiponaWordsSalt7;
 
+lookup tokiponaWordsSalt15s {
+  lookupflag 0;
+  ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters'  @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' tp_space';
+  sub k' i' j' e' t' e' s' a' n' t' a' k' a' l' u' tp_space' by tp_kijetesantakalu;
+} tokiponaWordsSalt15s;
+
+lookup tokiponaWordsSalt15 {
+  lookupflag 0;
+  ignore sub @tp_letters @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters'  @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters';
+  ignore sub @tp_letters'  @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters' @tp_letters;
+  sub k' i' j' e' t' e' s' a' n' t' a' k' a' l' u' by tp_kijetesantakalu;
+} tokiponaWordsSalt15;
+
 lookup tokiponaLatinStartBrace {
   lookupflag 0;
   ignore sub @tp_letters @tp_letters';
   ignore sub @tp_letters_under @tp_letters';
   sub A' by tp_name_start A_under;
+  sub B' by tp_name_start B_under;
+  sub C' by tp_name_start C_under;
+  sub D' by tp_name_start D_under;
   sub E' by tp_name_start E_under;
+  sub F' by tp_name_start F_under;
+  sub G' by tp_name_start G_under;
+  sub H' by tp_name_start H_under;
   sub I' by tp_name_start I_under;
   sub J' by tp_name_start J_under;
   sub K' by tp_name_start K_under;
@@ -503,12 +524,24 @@ lookup tokiponaLatinStartBrace {
   sub N' by tp_name_start N_under;
   sub O' by tp_name_start O_under;
   sub P' by tp_name_start P_under;
+  sub Q' by tp_name_start Q_under;
+  sub R' by tp_name_start R_under;
   sub S' by tp_name_start S_under;
   sub T' by tp_name_start T_under;
   sub U' by tp_name_start U_under;
+  sub V' by tp_name_start V_under;
   sub W' by tp_name_start W_under;
+  sub X' by tp_name_start X_under;
+  sub Y' by tp_name_start Y_under;
+  sub Z' by tp_name_start Z_under;
   sub a' by tp_name_start a_under;
+  sub b' by tp_name_start b_under;
+  sub c' by tp_name_start c_under;
+  sub d' by tp_name_start d_under;
   sub e' by tp_name_start e_under;
+  sub f' by tp_name_start f_under;
+  sub g' by tp_name_start g_under;
+  sub h' by tp_name_start h_under;
   sub i' by tp_name_start i_under;
   sub j' by tp_name_start j_under;
   sub k' by tp_name_start k_under;
@@ -517,10 +550,16 @@ lookup tokiponaLatinStartBrace {
   sub n' by tp_name_start n_under;
   sub o' by tp_name_start o_under;
   sub p' by tp_name_start p_under;
+  sub q' by tp_name_start q_under;
+  sub r' by tp_name_start r_under;
   sub s' by tp_name_start s_under;
   sub t' by tp_name_start t_under;
   sub u' by tp_name_start u_under;
+  sub v' by tp_name_start v_under;
   sub w' by tp_name_start w_under;
+  sub x' by tp_name_start x_under;
+  sub y' by tp_name_start y_under;
+  sub z' by tp_name_start z_under;
 } tokiponaLatinStartBrace;
 
 lookup tokiponaLatinEndBrace {
@@ -528,7 +567,13 @@ lookup tokiponaLatinEndBrace {
   ignore sub @tp_letters' @tp_letters;
   ignore sub @tp_letters' @tp_letters_under;
   sub A' by A_under tp_name_end;
+  sub B' by B_under tp_name_end;
+  sub C' by C_under tp_name_end;
+  sub D' by D_under tp_name_end;
   sub E' by E_under tp_name_end;
+  sub F' by F_under tp_name_end;
+  sub G' by G_under tp_name_end;
+  sub H' by H_under tp_name_end;
   sub I' by I_under tp_name_end;
   sub J' by J_under tp_name_end;
   sub K' by K_under tp_name_end;
@@ -537,12 +582,24 @@ lookup tokiponaLatinEndBrace {
   sub N' by N_under tp_name_end;
   sub O' by O_under tp_name_end;
   sub P' by P_under tp_name_end;
+  sub Q' by Q_under tp_name_end;
+  sub R' by R_under tp_name_end;
   sub S' by S_under tp_name_end;
   sub T' by T_under tp_name_end;
   sub U' by U_under tp_name_end;
+  sub V' by V_under tp_name_end;
   sub W' by W_under tp_name_end;
+  sub X' by X_under tp_name_end;
+  sub Y' by Y_under tp_name_end;
+  sub Z' by Z_under tp_name_end;
   sub a' by a_under tp_name_end;
+  sub b' by b_under tp_name_end;
+  sub c' by c_under tp_name_end;
+  sub d' by d_under tp_name_end;
   sub e' by e_under tp_name_end;
+  sub f' by f_under tp_name_end;
+  sub g' by g_under tp_name_end;
+  sub h' by h_under tp_name_end;
   sub i' by i_under tp_name_end;
   sub j' by j_under tp_name_end;
   sub k' by k_under tp_name_end;
@@ -551,10 +608,16 @@ lookup tokiponaLatinEndBrace {
   sub n' by n_under tp_name_end;
   sub o' by o_under tp_name_end;
   sub p' by p_under tp_name_end;
+  sub q' by q_under tp_name_end;
+  sub r' by r_under tp_name_end;
   sub s' by s_under tp_name_end;
   sub t' by t_under tp_name_end;
   sub u' by u_under tp_name_end;
+  sub v' by v_under tp_name_end;
   sub w' by w_under tp_name_end;
+  sub x' by x_under tp_name_end;
+  sub y' by y_under tp_name_end;
+  sub z' by z_under tp_name_end;
 } tokiponaLatinEndBrace;
 
 lookup tokiponaLatin {
@@ -587,6 +650,8 @@ feature liga {
     lookup tokiponaWordsSalt6;
     lookup tokiponaWordsSalt7s;
     lookup tokiponaWordsSalt7;
+    lookup tokiponaWordsSalt15;
+    lookup tokiponaWordsSalt15s;
     lookup tokiponaLatinStartBrace;
     lookup tokiponaLatinEndBrace;
     lookup tokiponaLatin;
@@ -610,6 +675,8 @@ feature liga {
     lookup tokiponaWordsSalt6;
     lookup tokiponaWordsSalt7s;
     lookup tokiponaWordsSalt7;
+    lookup tokiponaWordsSalt15;
+    lookup tokiponaWordsSalt15s;
     lookup tokiponaLatinStartBrace;
     lookup tokiponaLatinEndBrace;
     lookup tokiponaLatin;
