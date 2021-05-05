@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1583342003
-ModificationTime: 1591213151
+ModificationTime: 1598609904
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3317,7 +3317,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 140 20 10
+WinInfo: 0 20 10
 BeginPrivate: 4
 BlueValues 47 [38 50 188 200 285 297 370 382 520 532 716 728]
 OtherBlues 49 [-208 -196 -12 0 222 235 470 482 550 570 675 675]
@@ -12794,7 +12794,7 @@ StartChar: tp_kijetesantakalu
 Encoding: 61061 61061 213
 Width: 550
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -208 21G<268.191 281.809> 150 69<113.953 186.047 285.953 358.047> 301 69<113.953 186.047 285.953 358.047> 470 50<43.2041 364.567>
 VStem: 43 66<223.953 296.047> 191 90<223.953 296.047> 250 50<-207.796 -8.32321> 363 144<225.174 295.865>
 LayerCount: 2
@@ -14563,7 +14563,7 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 306
-Width: 400
+Width: 550
 VWidth: 0
 Flags: W
 HStem: -12 21G<242.578 346.545> 678 50<191.712 358.342>
